@@ -1,0 +1,63 @@
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# ── Distribution / packaging ──────────────────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ── Testing ───────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# ── Environment ───────────────────────────────────────────────
+.env
+*.env
+
+# ── Database ──────────────────────────────────────────────────
+# WAL files are temporary SQLite artefacts, not needed in repo
+db/*.db-shm
+db/*.db-wal
+# quran.db is committed — the app cannot run without it
+
+# ── Embeddings ────────────────────────────────────────────────
+# All embedding files are committed — the app cannot run without them
+# Only the mBERT backup is excluded (large, superseded by mpnet)
+embeddings/verse_embeddings_mbert_backup.npy
+
+# ── Quran XML ─────────────────────────────────────────────────
+# Tanzil XML is downloaded separately and not redistributable
+data/quran-simple.xml
+data/quran-uthmani.xml
+data/quran.xml
+data/*.xml
+
+# ── Exports ───────────────────────────────────────────────────
+exports/
+
+# ── IDE ───────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
