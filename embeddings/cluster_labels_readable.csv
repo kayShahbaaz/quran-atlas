@@ -1,0 +1,6237 @@
+verse_id,cluster_id,theme
+1:1,1,Prophethood & Revelation
+1:2,1,Prophethood & Revelation
+1:3,11,Community & Relations
+1:4,3,Worship & Devotion
+1:5,11,Community & Relations
+1:6,8,Historical Narratives
+1:7,11,Community & Relations
+2:1,6,Economics & Society
+2:2,10,Spiritual & Inner Life
+2:3,11,Community & Relations
+2:4,10,Spiritual & Inner Life
+2:5,11,Community & Relations
+2:6,5,Justice & Law
+2:7,7,Nature & Creation
+2:8,7,Nature & Creation
+2:9,7,Nature & Creation
+2:10,7,Nature & Creation
+2:11,5,Justice & Law
+2:12,5,Justice & Law
+2:13,5,Justice & Law
+2:14,5,Justice & Law
+2:15,7,Nature & Creation
+2:16,9,Eschatology & Afterlife
+2:17,7,Nature & Creation
+2:18,3,Worship & Devotion
+2:19,7,Nature & Creation
+2:20,7,Nature & Creation
+2:21,11,Community & Relations
+2:22,1,Prophethood & Revelation
+2:23,10,Spiritual & Inner Life
+2:24,9,Eschatology & Afterlife
+2:25,11,Community & Relations
+2:26,7,Nature & Creation
+2:27,7,Nature & Creation
+2:28,1,Prophethood & Revelation
+2:29,0,Divine Attributes & Monotheism
+2:30,10,Spiritual & Inner Life
+2:31,8,Historical Narratives
+2:32,8,Historical Narratives
+2:33,8,Historical Narratives
+2:34,8,Historical Narratives
+2:35,8,Historical Narratives
+2:36,5,Justice & Law
+2:37,11,Community & Relations
+2:38,8,Historical Narratives
+2:39,9,Eschatology & Afterlife
+2:40,4,Ethics & Character
+2:41,3,Worship & Devotion
+2:42,5,Justice & Law
+2:43,1,Prophethood & Revelation
+2:44,5,Justice & Law
+2:45,1,Prophethood & Revelation
+2:46,8,Historical Narratives
+2:47,4,Ethics & Character
+2:48,3,Worship & Devotion
+2:49,4,Ethics & Character
+2:50,4,Ethics & Character
+2:51,4,Ethics & Character
+2:52,11,Community & Relations
+2:53,4,Ethics & Character
+2:54,4,Ethics & Character
+2:55,4,Ethics & Character
+2:56,8,Historical Narratives
+2:57,5,Justice & Law
+2:58,8,Historical Narratives
+2:59,5,Justice & Law
+2:60,4,Ethics & Character
+2:61,4,Ethics & Character
+2:62,1,Prophethood & Revelation
+2:63,4,Ethics & Character
+2:64,1,Prophethood & Revelation
+2:65,5,Justice & Law
+2:66,7,Nature & Creation
+2:67,4,Ethics & Character
+2:68,4,Ethics & Character
+2:69,8,Historical Narratives
+2:70,10,Spiritual & Inner Life
+2:71,8,Historical Narratives
+2:72,10,Spiritual & Inner Life
+2:73,10,Spiritual & Inner Life
+2:74,1,Prophethood & Revelation
+2:75,7,Nature & Creation
+2:76,7,Nature & Creation
+2:77,7,Nature & Creation
+2:78,5,Justice & Law
+2:79,7,Nature & Creation
+2:80,7,Nature & Creation
+2:81,9,Eschatology & Afterlife
+2:82,11,Community & Relations
+2:83,10,Spiritual & Inner Life
+2:84,5,Justice & Law
+2:85,9,Eschatology & Afterlife
+2:86,9,Eschatology & Afterlife
+2:87,4,Ethics & Character
+2:88,7,Nature & Creation
+2:89,7,Nature & Creation
+2:90,7,Nature & Creation
+2:91,7,Nature & Creation
+2:92,4,Ethics & Character
+2:93,5,Justice & Law
+2:94,10,Spiritual & Inner Life
+2:95,7,Nature & Creation
+2:96,7,Nature & Creation
+2:97,10,Spiritual & Inner Life
+2:98,7,Nature & Creation
+2:99,5,Justice & Law
+2:100,5,Justice & Law
+2:101,7,Nature & Creation
+2:102,5,Justice & Law
+2:103,7,Nature & Creation
+2:104,1,Prophethood & Revelation
+2:105,1,Prophethood & Revelation
+2:106,10,Spiritual & Inner Life
+2:107,1,Prophethood & Revelation
+2:108,4,Ethics & Character
+2:109,7,Nature & Creation
+2:110,1,Prophethood & Revelation
+2:111,5,Justice & Law
+2:112,1,Prophethood & Revelation
+2:113,10,Spiritual & Inner Life
+2:114,7,Nature & Creation
+2:115,1,Prophethood & Revelation
+2:116,1,Prophethood & Revelation
+2:117,0,Divine Attributes & Monotheism
+2:118,10,Spiritual & Inner Life
+2:119,10,Spiritual & Inner Life
+2:120,10,Spiritual & Inner Life
+2:121,5,Justice & Law
+2:122,4,Ethics & Character
+2:123,3,Worship & Devotion
+2:124,10,Spiritual & Inner Life
+2:125,10,Spiritual & Inner Life
+2:126,10,Spiritual & Inner Life
+2:127,4,Ethics & Character
+2:128,1,Prophethood & Revelation
+2:129,8,Historical Narratives
+2:130,4,Ethics & Character
+2:131,1,Prophethood & Revelation
+2:132,10,Spiritual & Inner Life
+2:133,10,Spiritual & Inner Life
+2:134,3,Worship & Devotion
+2:135,10,Spiritual & Inner Life
+2:136,10,Spiritual & Inner Life
+2:137,7,Nature & Creation
+2:138,10,Spiritual & Inner Life
+2:139,10,Spiritual & Inner Life
+2:140,7,Nature & Creation
+2:141,3,Worship & Devotion
+2:142,7,Nature & Creation
+2:143,10,Spiritual & Inner Life
+2:144,10,Spiritual & Inner Life
+2:145,7,Nature & Creation
+2:146,8,Historical Narratives
+2:147,5,Justice & Law
+2:148,1,Prophethood & Revelation
+2:149,1,Prophethood & Revelation
+2:150,1,Prophethood & Revelation
+2:151,8,Historical Narratives
+2:152,3,Worship & Devotion
+2:153,1,Prophethood & Revelation
+2:154,7,Nature & Creation
+2:155,9,Eschatology & Afterlife
+2:156,7,Nature & Creation
+2:157,11,Community & Relations
+2:158,1,Prophethood & Revelation
+2:159,7,Nature & Creation
+2:160,11,Community & Relations
+2:161,7,Nature & Creation
+2:162,9,Eschatology & Afterlife
+2:163,11,Community & Relations
+2:164,1,Prophethood & Revelation
+2:165,7,Nature & Creation
+2:166,9,Eschatology & Afterlife
+2:167,7,Nature & Creation
+2:168,5,Justice & Law
+2:169,7,Nature & Creation
+2:170,7,Nature & Creation
+2:171,5,Justice & Law
+2:172,1,Prophethood & Revelation
+2:173,1,Prophethood & Revelation
+2:174,7,Nature & Creation
+2:175,9,Eschatology & Afterlife
+2:176,7,Nature & Creation
+2:177,11,Community & Relations
+2:178,9,Eschatology & Afterlife
+2:179,9,Eschatology & Afterlife
+2:180,11,Community & Relations
+2:181,1,Prophethood & Revelation
+2:182,1,Prophethood & Revelation
+2:183,1,Prophethood & Revelation
+2:184,11,Community & Relations
+2:185,1,Prophethood & Revelation
+2:186,10,Spiritual & Inner Life
+2:187,1,Prophethood & Revelation
+2:188,11,Community & Relations
+2:189,1,Prophethood & Revelation
+2:190,1,Prophethood & Revelation
+2:191,7,Nature & Creation
+2:192,1,Prophethood & Revelation
+2:193,7,Nature & Creation
+2:194,7,Nature & Creation
+2:195,1,Prophethood & Revelation
+2:196,1,Prophethood & Revelation
+2:197,1,Prophethood & Revelation
+2:198,1,Prophethood & Revelation
+2:199,1,Prophethood & Revelation
+2:200,1,Prophethood & Revelation
+2:201,11,Community & Relations
+2:202,1,Prophethood & Revelation
+2:203,1,Prophethood & Revelation
+2:204,10,Spiritual & Inner Life
+2:205,1,Prophethood & Revelation
+2:206,1,Prophethood & Revelation
+2:207,1,Prophethood & Revelation
+2:208,1,Prophethood & Revelation
+2:209,10,Spiritual & Inner Life
+2:210,7,Nature & Creation
+2:211,10,Spiritual & Inner Life
+2:212,1,Prophethood & Revelation
+2:213,7,Nature & Creation
+2:214,1,Prophethood & Revelation
+2:215,1,Prophethood & Revelation
+2:216,1,Prophethood & Revelation
+2:217,1,Prophethood & Revelation
+2:218,1,Prophethood & Revelation
+2:219,1,Prophethood & Revelation
+2:220,1,Prophethood & Revelation
+2:221,1,Prophethood & Revelation
+2:222,1,Prophethood & Revelation
+2:223,1,Prophethood & Revelation
+2:224,1,Prophethood & Revelation
+2:225,1,Prophethood & Revelation
+2:226,1,Prophethood & Revelation
+2:227,1,Prophethood & Revelation
+2:228,1,Prophethood & Revelation
+2:229,1,Prophethood & Revelation
+2:230,1,Prophethood & Revelation
+2:231,1,Prophethood & Revelation
+2:232,1,Prophethood & Revelation
+2:233,1,Prophethood & Revelation
+2:234,1,Prophethood & Revelation
+2:235,1,Prophethood & Revelation
+2:236,1,Prophethood & Revelation
+2:237,1,Prophethood & Revelation
+2:238,1,Prophethood & Revelation
+2:239,1,Prophethood & Revelation
+2:240,1,Prophethood & Revelation
+2:241,1,Prophethood & Revelation
+2:242,10,Spiritual & Inner Life
+2:243,1,Prophethood & Revelation
+2:244,1,Prophethood & Revelation
+2:245,1,Prophethood & Revelation
+2:246,10,Spiritual & Inner Life
+2:247,10,Spiritual & Inner Life
+2:248,4,Ethics & Character
+2:249,10,Spiritual & Inner Life
+2:250,5,Justice & Law
+2:251,7,Nature & Creation
+2:252,10,Spiritual & Inner Life
+2:253,10,Spiritual & Inner Life
+2:254,5,Justice & Law
+2:255,1,Prophethood & Revelation
+2:256,1,Prophethood & Revelation
+2:257,7,Nature & Creation
+2:258,10,Spiritual & Inner Life
+2:259,10,Spiritual & Inner Life
+2:260,10,Spiritual & Inner Life
+2:261,1,Prophethood & Revelation
+2:262,1,Prophethood & Revelation
+2:263,1,Prophethood & Revelation
+2:264,1,Prophethood & Revelation
+2:265,1,Prophethood & Revelation
+2:266,1,Prophethood & Revelation
+2:267,1,Prophethood & Revelation
+2:268,1,Prophethood & Revelation
+2:269,8,Historical Narratives
+2:270,1,Prophethood & Revelation
+2:271,1,Prophethood & Revelation
+2:272,1,Prophethood & Revelation
+2:273,1,Prophethood & Revelation
+2:274,1,Prophethood & Revelation
+2:275,7,Nature & Creation
+2:276,1,Prophethood & Revelation
+2:277,1,Prophethood & Revelation
+2:278,1,Prophethood & Revelation
+2:279,1,Prophethood & Revelation
+2:280,11,Community & Relations
+2:281,1,Prophethood & Revelation
+2:282,1,Prophethood & Revelation
+2:283,1,Prophethood & Revelation
+2:284,1,Prophethood & Revelation
+2:285,10,Spiritual & Inner Life
+2:286,1,Prophethood & Revelation
+3:1,6,Economics & Society
+3:2,1,Prophethood & Revelation
+3:3,10,Spiritual & Inner Life
+3:4,7,Nature & Creation
+3:5,1,Prophethood & Revelation
+3:6,0,Divine Attributes & Monotheism
+3:7,10,Spiritual & Inner Life
+3:8,11,Community & Relations
+3:9,1,Prophethood & Revelation
+3:10,7,Nature & Creation
+3:11,7,Nature & Creation
+3:12,9,Eschatology & Afterlife
+3:13,1,Prophethood & Revelation
+3:14,1,Prophethood & Revelation
+3:15,1,Prophethood & Revelation
+3:16,9,Eschatology & Afterlife
+3:17,1,Prophethood & Revelation
+3:18,1,Prophethood & Revelation
+3:19,7,Nature & Creation
+3:20,7,Nature & Creation
+3:21,7,Nature & Creation
+3:22,9,Eschatology & Afterlife
+3:23,7,Nature & Creation
+3:24,9,Eschatology & Afterlife
+3:25,3,Worship & Devotion
+3:26,10,Spiritual & Inner Life
+3:27,0,Divine Attributes & Monotheism
+3:28,7,Nature & Creation
+3:29,1,Prophethood & Revelation
+3:30,1,Prophethood & Revelation
+3:31,1,Prophethood & Revelation
+3:32,7,Nature & Creation
+3:33,7,Nature & Creation
+3:34,1,Prophethood & Revelation
+3:35,10,Spiritual & Inner Life
+3:36,4,Ethics & Character
+3:37,4,Ethics & Character
+3:38,4,Ethics & Character
+3:39,10,Spiritual & Inner Life
+3:40,10,Spiritual & Inner Life
+3:41,8,Historical Narratives
+3:42,4,Ethics & Character
+3:43,11,Community & Relations
+3:44,10,Spiritual & Inner Life
+3:45,10,Spiritual & Inner Life
+3:46,8,Historical Narratives
+3:47,4,Ethics & Character
+3:48,4,Ethics & Character
+3:49,10,Spiritual & Inner Life
+3:50,10,Spiritual & Inner Life
+3:51,1,Prophethood & Revelation
+3:52,10,Spiritual & Inner Life
+3:53,8,Historical Narratives
+3:54,1,Prophethood & Revelation
+3:55,10,Spiritual & Inner Life
+3:56,9,Eschatology & Afterlife
+3:57,1,Prophethood & Revelation
+3:58,10,Spiritual & Inner Life
+3:59,10,Spiritual & Inner Life
+3:60,5,Justice & Law
+3:61,10,Spiritual & Inner Life
+3:62,1,Prophethood & Revelation
+3:63,7,Nature & Creation
+3:64,7,Nature & Creation
+3:65,4,Ethics & Character
+3:66,10,Spiritual & Inner Life
+3:67,10,Spiritual & Inner Life
+3:68,10,Spiritual & Inner Life
+3:69,5,Justice & Law
+3:70,10,Spiritual & Inner Life
+3:71,5,Justice & Law
+3:72,5,Justice & Law
+3:73,10,Spiritual & Inner Life
+3:74,1,Prophethood & Revelation
+3:75,10,Spiritual & Inner Life
+3:76,1,Prophethood & Revelation
+3:77,7,Nature & Creation
+3:78,7,Nature & Creation
+3:79,1,Prophethood & Revelation
+3:80,10,Spiritual & Inner Life
+3:81,10,Spiritual & Inner Life
+3:82,8,Historical Narratives
+3:83,7,Nature & Creation
+3:84,10,Spiritual & Inner Life
+3:85,7,Nature & Creation
+3:86,7,Nature & Creation
+3:87,7,Nature & Creation
+3:88,9,Eschatology & Afterlife
+3:89,1,Prophethood & Revelation
+3:90,5,Justice & Law
+3:91,9,Eschatology & Afterlife
+3:92,1,Prophethood & Revelation
+3:93,4,Ethics & Character
+3:94,7,Nature & Creation
+3:95,10,Spiritual & Inner Life
+3:96,10,Spiritual & Inner Life
+3:97,1,Prophethood & Revelation
+3:98,10,Spiritual & Inner Life
+3:99,7,Nature & Creation
+3:100,5,Justice & Law
+3:101,10,Spiritual & Inner Life
+3:102,1,Prophethood & Revelation
+3:103,1,Prophethood & Revelation
+3:104,11,Community & Relations
+3:105,9,Eschatology & Afterlife
+3:106,9,Eschatology & Afterlife
+3:107,1,Prophethood & Revelation
+3:108,10,Spiritual & Inner Life
+3:109,1,Prophethood & Revelation
+3:110,1,Prophethood & Revelation
+3:111,9,Eschatology & Afterlife
+3:112,7,Nature & Creation
+3:113,7,Nature & Creation
+3:114,1,Prophethood & Revelation
+3:115,1,Prophethood & Revelation
+3:116,7,Nature & Creation
+3:117,7,Nature & Creation
+3:118,5,Justice & Law
+3:119,7,Nature & Creation
+3:120,1,Prophethood & Revelation
+3:121,10,Spiritual & Inner Life
+3:122,1,Prophethood & Revelation
+3:123,1,Prophethood & Revelation
+3:124,8,Historical Narratives
+3:125,1,Prophethood & Revelation
+3:126,1,Prophethood & Revelation
+3:127,5,Justice & Law
+3:128,7,Nature & Creation
+3:129,1,Prophethood & Revelation
+3:130,1,Prophethood & Revelation
+3:131,9,Eschatology & Afterlife
+3:132,1,Prophethood & Revelation
+3:133,11,Community & Relations
+3:134,1,Prophethood & Revelation
+3:135,1,Prophethood & Revelation
+3:136,11,Community & Relations
+3:137,5,Justice & Law
+3:138,10,Spiritual & Inner Life
+3:139,5,Justice & Law
+3:140,1,Prophethood & Revelation
+3:141,7,Nature & Creation
+3:142,1,Prophethood & Revelation
+3:143,8,Historical Narratives
+3:144,10,Spiritual & Inner Life
+3:145,1,Prophethood & Revelation
+3:146,7,Nature & Creation
+3:147,5,Justice & Law
+3:148,1,Prophethood & Revelation
+3:149,5,Justice & Law
+3:150,1,Prophethood & Revelation
+3:151,7,Nature & Creation
+3:152,1,Prophethood & Revelation
+3:153,1,Prophethood & Revelation
+3:154,10,Spiritual & Inner Life
+3:155,1,Prophethood & Revelation
+3:156,1,Prophethood & Revelation
+3:157,1,Prophethood & Revelation
+3:158,10,Spiritual & Inner Life
+3:159,1,Prophethood & Revelation
+3:160,1,Prophethood & Revelation
+3:161,11,Community & Relations
+3:162,1,Prophethood & Revelation
+3:163,7,Nature & Creation
+3:164,10,Spiritual & Inner Life
+3:165,10,Spiritual & Inner Life
+3:166,1,Prophethood & Revelation
+3:167,7,Nature & Creation
+3:168,5,Justice & Law
+3:169,1,Prophethood & Revelation
+3:170,1,Prophethood & Revelation
+3:171,1,Prophethood & Revelation
+3:172,1,Prophethood & Revelation
+3:173,7,Nature & Creation
+3:174,1,Prophethood & Revelation
+3:175,5,Justice & Law
+3:176,7,Nature & Creation
+3:177,7,Nature & Creation
+3:178,9,Eschatology & Afterlife
+3:179,1,Prophethood & Revelation
+3:180,1,Prophethood & Revelation
+3:181,7,Nature & Creation
+3:182,1,Prophethood & Revelation
+3:183,10,Spiritual & Inner Life
+3:184,10,Spiritual & Inner Life
+3:185,9,Eschatology & Afterlife
+3:186,1,Prophethood & Revelation
+3:187,7,Nature & Creation
+3:188,9,Eschatology & Afterlife
+3:189,1,Prophethood & Revelation
+3:190,3,Worship & Devotion
+3:191,1,Prophethood & Revelation
+3:192,9,Eschatology & Afterlife
+3:193,11,Community & Relations
+3:194,11,Community & Relations
+3:195,7,Nature & Creation
+3:196,5,Justice & Law
+3:197,9,Eschatology & Afterlife
+3:198,1,Prophethood & Revelation
+3:199,1,Prophethood & Revelation
+3:200,1,Prophethood & Revelation
+4:1,1,Prophethood & Revelation
+4:2,11,Community & Relations
+4:3,1,Prophethood & Revelation
+4:4,1,Prophethood & Revelation
+4:5,1,Prophethood & Revelation
+4:6,1,Prophethood & Revelation
+4:7,1,Prophethood & Revelation
+4:8,11,Community & Relations
+4:9,7,Nature & Creation
+4:10,9,Eschatology & Afterlife
+4:11,1,Prophethood & Revelation
+4:12,1,Prophethood & Revelation
+4:13,1,Prophethood & Revelation
+4:14,7,Nature & Creation
+4:15,1,Prophethood & Revelation
+4:16,1,Prophethood & Revelation
+4:17,1,Prophethood & Revelation
+4:18,9,Eschatology & Afterlife
+4:19,1,Prophethood & Revelation
+4:20,1,Prophethood & Revelation
+4:21,11,Community & Relations
+4:22,1,Prophethood & Revelation
+4:23,1,Prophethood & Revelation
+4:24,1,Prophethood & Revelation
+4:25,1,Prophethood & Revelation
+4:26,1,Prophethood & Revelation
+4:27,7,Nature & Creation
+4:28,1,Prophethood & Revelation
+4:29,1,Prophethood & Revelation
+4:30,7,Nature & Creation
+4:31,11,Community & Relations
+4:32,1,Prophethood & Revelation
+4:33,1,Prophethood & Revelation
+4:34,1,Prophethood & Revelation
+4:35,1,Prophethood & Revelation
+4:36,1,Prophethood & Revelation
+4:37,7,Nature & Creation
+4:38,7,Nature & Creation
+4:39,7,Nature & Creation
+4:40,1,Prophethood & Revelation
+4:41,10,Spiritual & Inner Life
+4:42,10,Spiritual & Inner Life
+4:43,1,Prophethood & Revelation
+4:44,5,Justice & Law
+4:45,1,Prophethood & Revelation
+4:46,10,Spiritual & Inner Life
+4:47,10,Spiritual & Inner Life
+4:48,1,Prophethood & Revelation
+4:49,7,Nature & Creation
+4:50,7,Nature & Creation
+4:51,5,Justice & Law
+4:52,7,Nature & Creation
+4:53,5,Justice & Law
+4:54,7,Nature & Creation
+4:55,9,Eschatology & Afterlife
+4:56,7,Nature & Creation
+4:57,11,Community & Relations
+4:58,1,Prophethood & Revelation
+4:59,1,Prophethood & Revelation
+4:60,10,Spiritual & Inner Life
+4:61,7,Nature & Creation
+4:62,7,Nature & Creation
+4:63,7,Nature & Creation
+4:64,10,Spiritual & Inner Life
+4:65,7,Nature & Creation
+4:66,5,Justice & Law
+4:67,3,Worship & Devotion
+4:68,8,Historical Narratives
+4:69,1,Prophethood & Revelation
+4:70,1,Prophethood & Revelation
+4:71,5,Justice & Law
+4:72,1,Prophethood & Revelation
+4:73,1,Prophethood & Revelation
+4:74,1,Prophethood & Revelation
+4:75,1,Prophethood & Revelation
+4:76,10,Spiritual & Inner Life
+4:77,7,Nature & Creation
+4:78,10,Spiritual & Inner Life
+4:79,10,Spiritual & Inner Life
+4:80,10,Spiritual & Inner Life
+4:81,7,Nature & Creation
+4:82,7,Nature & Creation
+4:83,7,Nature & Creation
+4:84,1,Prophethood & Revelation
+4:85,1,Prophethood & Revelation
+4:86,1,Prophethood & Revelation
+4:87,1,Prophethood & Revelation
+4:88,7,Nature & Creation
+4:89,7,Nature & Creation
+4:90,7,Nature & Creation
+4:91,5,Justice & Law
+4:92,9,Eschatology & Afterlife
+4:93,7,Nature & Creation
+4:94,1,Prophethood & Revelation
+4:95,7,Nature & Creation
+4:96,1,Prophethood & Revelation
+4:97,8,Historical Narratives
+4:98,9,Eschatology & Afterlife
+4:99,1,Prophethood & Revelation
+4:100,1,Prophethood & Revelation
+4:101,5,Justice & Law
+4:102,5,Justice & Law
+4:103,1,Prophethood & Revelation
+4:104,1,Prophethood & Revelation
+4:105,10,Spiritual & Inner Life
+4:106,1,Prophethood & Revelation
+4:107,7,Nature & Creation
+4:108,7,Nature & Creation
+4:109,10,Spiritual & Inner Life
+4:110,1,Prophethood & Revelation
+4:111,1,Prophethood & Revelation
+4:112,5,Justice & Law
+4:113,7,Nature & Creation
+4:114,1,Prophethood & Revelation
+4:115,9,Eschatology & Afterlife
+4:116,1,Prophethood & Revelation
+4:117,5,Justice & Law
+4:118,7,Nature & Creation
+4:119,10,Spiritual & Inner Life
+4:120,5,Justice & Law
+4:121,9,Eschatology & Afterlife
+4:122,1,Prophethood & Revelation
+4:123,1,Prophethood & Revelation
+4:124,11,Community & Relations
+4:125,10,Spiritual & Inner Life
+4:126,1,Prophethood & Revelation
+4:127,1,Prophethood & Revelation
+4:128,1,Prophethood & Revelation
+4:129,1,Prophethood & Revelation
+4:130,1,Prophethood & Revelation
+4:131,1,Prophethood & Revelation
+4:132,1,Prophethood & Revelation
+4:133,1,Prophethood & Revelation
+4:134,1,Prophethood & Revelation
+4:135,1,Prophethood & Revelation
+4:136,1,Prophethood & Revelation
+4:137,7,Nature & Creation
+4:138,9,Eschatology & Afterlife
+4:139,7,Nature & Creation
+4:140,7,Nature & Creation
+4:141,7,Nature & Creation
+4:142,7,Nature & Creation
+4:143,7,Nature & Creation
+4:144,1,Prophethood & Revelation
+4:145,9,Eschatology & Afterlife
+4:146,1,Prophethood & Revelation
+4:147,1,Prophethood & Revelation
+4:148,1,Prophethood & Revelation
+4:149,1,Prophethood & Revelation
+4:150,7,Nature & Creation
+4:151,5,Justice & Law
+4:152,1,Prophethood & Revelation
+4:153,4,Ethics & Character
+4:154,5,Justice & Law
+4:155,7,Nature & Creation
+4:156,5,Justice & Law
+4:157,7,Nature & Creation
+4:158,1,Prophethood & Revelation
+4:159,8,Historical Narratives
+4:160,4,Ethics & Character
+4:161,5,Justice & Law
+4:162,1,Prophethood & Revelation
+4:163,10,Spiritual & Inner Life
+4:164,4,Ethics & Character
+4:165,10,Spiritual & Inner Life
+4:166,10,Spiritual & Inner Life
+4:167,7,Nature & Creation
+4:168,7,Nature & Creation
+4:169,1,Prophethood & Revelation
+4:170,10,Spiritual & Inner Life
+4:171,10,Spiritual & Inner Life
+4:172,7,Nature & Creation
+4:173,1,Prophethood & Revelation
+4:174,8,Historical Narratives
+4:175,1,Prophethood & Revelation
+4:176,1,Prophethood & Revelation
+5:1,1,Prophethood & Revelation
+5:2,1,Prophethood & Revelation
+5:3,1,Prophethood & Revelation
+5:4,1,Prophethood & Revelation
+5:5,1,Prophethood & Revelation
+5:6,1,Prophethood & Revelation
+5:7,1,Prophethood & Revelation
+5:8,1,Prophethood & Revelation
+5:9,1,Prophethood & Revelation
+5:10,9,Eschatology & Afterlife
+5:11,1,Prophethood & Revelation
+5:12,10,Spiritual & Inner Life
+5:13,7,Nature & Creation
+5:14,7,Nature & Creation
+5:15,10,Spiritual & Inner Life
+5:16,1,Prophethood & Revelation
+5:17,7,Nature & Creation
+5:18,7,Nature & Creation
+5:19,10,Spiritual & Inner Life
+5:20,4,Ethics & Character
+5:21,1,Prophethood & Revelation
+5:22,4,Ethics & Character
+5:23,10,Spiritual & Inner Life
+5:24,4,Ethics & Character
+5:25,4,Ethics & Character
+5:26,7,Nature & Creation
+5:27,10,Spiritual & Inner Life
+5:28,1,Prophethood & Revelation
+5:29,9,Eschatology & Afterlife
+5:30,5,Justice & Law
+5:31,10,Spiritual & Inner Life
+5:32,4,Ethics & Character
+5:33,7,Nature & Creation
+5:34,1,Prophethood & Revelation
+5:35,1,Prophethood & Revelation
+5:36,9,Eschatology & Afterlife
+5:37,9,Eschatology & Afterlife
+5:38,1,Prophethood & Revelation
+5:39,1,Prophethood & Revelation
+5:40,1,Prophethood & Revelation
+5:41,10,Spiritual & Inner Life
+5:42,7,Nature & Creation
+5:43,7,Nature & Creation
+5:44,10,Spiritual & Inner Life
+5:45,7,Nature & Creation
+5:46,4,Ethics & Character
+5:47,7,Nature & Creation
+5:48,10,Spiritual & Inner Life
+5:49,7,Nature & Creation
+5:50,7,Nature & Creation
+5:51,7,Nature & Creation
+5:52,7,Nature & Creation
+5:53,7,Nature & Creation
+5:54,1,Prophethood & Revelation
+5:55,1,Prophethood & Revelation
+5:56,1,Prophethood & Revelation
+5:57,1,Prophethood & Revelation
+5:58,11,Community & Relations
+5:59,7,Nature & Creation
+5:60,7,Nature & Creation
+5:61,7,Nature & Creation
+5:62,5,Justice & Law
+5:63,5,Justice & Law
+5:64,7,Nature & Creation
+5:65,7,Nature & Creation
+5:66,5,Justice & Law
+5:67,10,Spiritual & Inner Life
+5:68,5,Justice & Law
+5:69,1,Prophethood & Revelation
+5:70,4,Ethics & Character
+5:71,7,Nature & Creation
+5:72,7,Nature & Creation
+5:73,7,Nature & Creation
+5:74,1,Prophethood & Revelation
+5:75,4,Ethics & Character
+5:76,10,Spiritual & Inner Life
+5:77,5,Justice & Law
+5:78,5,Justice & Law
+5:79,5,Justice & Law
+5:80,7,Nature & Creation
+5:81,7,Nature & Creation
+5:82,7,Nature & Creation
+5:83,8,Historical Narratives
+5:84,1,Prophethood & Revelation
+5:85,1,Prophethood & Revelation
+5:86,9,Eschatology & Afterlife
+5:87,1,Prophethood & Revelation
+5:88,1,Prophethood & Revelation
+5:89,1,Prophethood & Revelation
+5:90,1,Prophethood & Revelation
+5:91,5,Justice & Law
+5:92,10,Spiritual & Inner Life
+5:93,1,Prophethood & Revelation
+5:94,1,Prophethood & Revelation
+5:95,1,Prophethood & Revelation
+5:96,1,Prophethood & Revelation
+5:97,1,Prophethood & Revelation
+5:98,1,Prophethood & Revelation
+5:99,10,Spiritual & Inner Life
+5:100,1,Prophethood & Revelation
+5:101,1,Prophethood & Revelation
+5:102,5,Justice & Law
+5:103,7,Nature & Creation
+5:104,10,Spiritual & Inner Life
+5:105,1,Prophethood & Revelation
+5:106,1,Prophethood & Revelation
+5:107,7,Nature & Creation
+5:108,7,Nature & Creation
+5:109,10,Spiritual & Inner Life
+5:110,1,Prophethood & Revelation
+5:111,10,Spiritual & Inner Life
+5:112,10,Spiritual & Inner Life
+5:113,3,Worship & Devotion
+5:114,10,Spiritual & Inner Life
+5:115,7,Nature & Creation
+5:116,10,Spiritual & Inner Life
+5:117,10,Spiritual & Inner Life
+5:118,11,Community & Relations
+5:119,1,Prophethood & Revelation
+5:120,1,Prophethood & Revelation
+6:1,1,Prophethood & Revelation
+6:2,0,Divine Attributes & Monotheism
+6:3,1,Prophethood & Revelation
+6:4,3,Worship & Devotion
+6:5,5,Justice & Law
+6:6,5,Justice & Law
+6:7,10,Spiritual & Inner Life
+6:8,8,Historical Narratives
+6:9,8,Historical Narratives
+6:10,5,Justice & Law
+6:11,5,Justice & Law
+6:12,10,Spiritual & Inner Life
+6:13,0,Divine Attributes & Monotheism
+6:14,10,Spiritual & Inner Life
+6:15,9,Eschatology & Afterlife
+6:16,1,Prophethood & Revelation
+6:17,1,Prophethood & Revelation
+6:18,0,Divine Attributes & Monotheism
+6:19,10,Spiritual & Inner Life
+6:20,5,Justice & Law
+6:21,7,Nature & Creation
+6:22,10,Spiritual & Inner Life
+6:23,7,Nature & Creation
+6:24,5,Justice & Law
+6:25,3,Worship & Devotion
+6:26,5,Justice & Law
+6:27,9,Eschatology & Afterlife
+6:28,5,Justice & Law
+6:29,0,Divine Attributes & Monotheism
+6:30,5,Justice & Law
+6:31,7,Nature & Creation
+6:32,1,Prophethood & Revelation
+6:33,7,Nature & Creation
+6:34,10,Spiritual & Inner Life
+6:35,7,Nature & Creation
+6:36,7,Nature & Creation
+6:37,7,Nature & Creation
+6:38,8,Historical Narratives
+6:39,7,Nature & Creation
+6:40,10,Spiritual & Inner Life
+6:41,8,Historical Narratives
+6:42,10,Spiritual & Inner Life
+6:43,5,Justice & Law
+6:44,5,Justice & Law
+6:45,7,Nature & Creation
+6:46,10,Spiritual & Inner Life
+6:47,7,Nature & Creation
+6:48,5,Justice & Law
+6:49,9,Eschatology & Afterlife
+6:50,10,Spiritual & Inner Life
+6:51,10,Spiritual & Inner Life
+6:52,11,Community & Relations
+6:53,1,Prophethood & Revelation
+6:54,11,Community & Relations
+6:55,9,Eschatology & Afterlife
+6:56,10,Spiritual & Inner Life
+6:57,10,Spiritual & Inner Life
+6:58,10,Spiritual & Inner Life
+6:59,0,Divine Attributes & Monotheism
+6:60,0,Divine Attributes & Monotheism
+6:61,8,Historical Narratives
+6:62,1,Prophethood & Revelation
+6:63,11,Community & Relations
+6:64,1,Prophethood & Revelation
+6:65,8,Historical Narratives
+6:66,3,Worship & Devotion
+6:67,3,Worship & Devotion
+6:68,5,Justice & Law
+6:69,1,Prophethood & Revelation
+6:70,7,Nature & Creation
+6:71,10,Spiritual & Inner Life
+6:72,11,Community & Relations
+6:73,0,Divine Attributes & Monotheism
+6:74,10,Spiritual & Inner Life
+6:75,4,Ethics & Character
+6:76,0,Divine Attributes & Monotheism
+6:77,8,Historical Narratives
+6:78,10,Spiritual & Inner Life
+6:79,10,Spiritual & Inner Life
+6:80,10,Spiritual & Inner Life
+6:81,1,Prophethood & Revelation
+6:82,11,Community & Relations
+6:83,4,Ethics & Character
+6:84,4,Ethics & Character
+6:85,4,Ethics & Character
+6:86,4,Ethics & Character
+6:87,8,Historical Narratives
+6:88,1,Prophethood & Revelation
+6:89,5,Justice & Law
+6:90,7,Nature & Creation
+6:91,7,Nature & Creation
+6:92,8,Historical Narratives
+6:93,7,Nature & Creation
+6:94,10,Spiritual & Inner Life
+6:95,1,Prophethood & Revelation
+6:96,0,Divine Attributes & Monotheism
+6:97,0,Divine Attributes & Monotheism
+6:98,0,Divine Attributes & Monotheism
+6:99,6,Economics & Society
+6:100,7,Nature & Creation
+6:101,0,Divine Attributes & Monotheism
+6:102,1,Prophethood & Revelation
+6:103,0,Divine Attributes & Monotheism
+6:104,8,Historical Narratives
+6:105,10,Spiritual & Inner Life
+6:106,10,Spiritual & Inner Life
+6:107,7,Nature & Creation
+6:108,1,Prophethood & Revelation
+6:109,7,Nature & Creation
+6:110,5,Justice & Law
+6:111,7,Nature & Creation
+6:112,5,Justice & Law
+6:113,5,Justice & Law
+6:114,10,Spiritual & Inner Life
+6:115,8,Historical Narratives
+6:116,7,Nature & Creation
+6:117,8,Historical Narratives
+6:118,1,Prophethood & Revelation
+6:119,1,Prophethood & Revelation
+6:120,11,Community & Relations
+6:121,1,Prophethood & Revelation
+6:122,0,Divine Attributes & Monotheism
+6:123,9,Eschatology & Afterlife
+6:124,7,Nature & Creation
+6:125,7,Nature & Creation
+6:126,8,Historical Narratives
+6:127,11,Community & Relations
+6:128,10,Spiritual & Inner Life
+6:129,9,Eschatology & Afterlife
+6:130,5,Justice & Law
+6:131,5,Justice & Law
+6:132,11,Community & Relations
+6:133,11,Community & Relations
+6:134,1,Prophethood & Revelation
+6:135,3,Worship & Devotion
+6:136,7,Nature & Creation
+6:137,7,Nature & Creation
+6:138,7,Nature & Creation
+6:139,0,Divine Attributes & Monotheism
+6:140,7,Nature & Creation
+6:141,6,Economics & Society
+6:142,1,Prophethood & Revelation
+6:143,0,Divine Attributes & Monotheism
+6:144,7,Nature & Creation
+6:145,10,Spiritual & Inner Life
+6:146,4,Ethics & Character
+6:147,7,Nature & Creation
+6:148,7,Nature & Creation
+6:149,10,Spiritual & Inner Life
+6:150,10,Spiritual & Inner Life
+6:151,10,Spiritual & Inner Life
+6:152,1,Prophethood & Revelation
+6:153,8,Historical Narratives
+6:154,4,Ethics & Character
+6:155,10,Spiritual & Inner Life
+6:156,5,Justice & Law
+6:157,7,Nature & Creation
+6:158,3,Worship & Devotion
+6:159,7,Nature & Creation
+6:160,9,Eschatology & Afterlife
+6:161,10,Spiritual & Inner Life
+6:162,1,Prophethood & Revelation
+6:163,10,Spiritual & Inner Life
+6:164,10,Spiritual & Inner Life
+6:165,11,Community & Relations
+7:1,6,Economics & Society
+7:2,10,Spiritual & Inner Life
+7:3,8,Historical Narratives
+7:4,5,Justice & Law
+7:5,5,Justice & Law
+7:6,8,Historical Narratives
+7:7,8,Historical Narratives
+7:8,11,Community & Relations
+7:9,9,Eschatology & Afterlife
+7:10,11,Community & Relations
+7:11,8,Historical Narratives
+7:12,10,Spiritual & Inner Life
+7:13,7,Nature & Creation
+7:14,8,Historical Narratives
+7:15,1,Prophethood & Revelation
+7:16,5,Justice & Law
+7:17,11,Community & Relations
+7:18,7,Nature & Creation
+7:19,8,Historical Narratives
+7:20,8,Historical Narratives
+7:21,10,Spiritual & Inner Life
+7:22,8,Historical Narratives
+7:23,5,Justice & Law
+7:24,1,Prophethood & Revelation
+7:25,0,Divine Attributes & Monotheism
+7:26,1,Prophethood & Revelation
+7:27,5,Justice & Law
+7:28,7,Nature & Creation
+7:29,10,Spiritual & Inner Life
+7:30,10,Spiritual & Inner Life
+7:31,1,Prophethood & Revelation
+7:32,10,Spiritual & Inner Life
+7:33,10,Spiritual & Inner Life
+7:34,3,Worship & Devotion
+7:35,1,Prophethood & Revelation
+7:36,9,Eschatology & Afterlife
+7:37,7,Nature & Creation
+7:38,10,Spiritual & Inner Life
+7:39,9,Eschatology & Afterlife
+7:40,9,Eschatology & Afterlife
+7:41,9,Eschatology & Afterlife
+7:42,11,Community & Relations
+7:43,10,Spiritual & Inner Life
+7:44,10,Spiritual & Inner Life
+7:45,7,Nature & Creation
+7:46,11,Community & Relations
+7:47,9,Eschatology & Afterlife
+7:48,9,Eschatology & Afterlife
+7:49,1,Prophethood & Revelation
+7:50,10,Spiritual & Inner Life
+7:51,5,Justice & Law
+7:52,8,Historical Narratives
+7:53,3,Worship & Devotion
+7:54,1,Prophethood & Revelation
+7:55,11,Community & Relations
+7:56,1,Prophethood & Revelation
+7:57,0,Divine Attributes & Monotheism
+7:58,11,Community & Relations
+7:59,4,Ethics & Character
+7:60,5,Justice & Law
+7:61,4,Ethics & Character
+7:62,10,Spiritual & Inner Life
+7:63,1,Prophethood & Revelation
+7:64,5,Justice & Law
+7:65,10,Spiritual & Inner Life
+7:66,5,Justice & Law
+7:67,8,Historical Narratives
+7:68,3,Worship & Devotion
+7:69,1,Prophethood & Revelation
+7:70,10,Spiritual & Inner Life
+7:71,10,Spiritual & Inner Life
+7:72,5,Justice & Law
+7:73,10,Spiritual & Inner Life
+7:74,1,Prophethood & Revelation
+7:75,10,Spiritual & Inner Life
+7:76,5,Justice & Law
+7:77,10,Spiritual & Inner Life
+7:78,5,Justice & Law
+7:79,8,Historical Narratives
+7:80,5,Justice & Law
+7:81,3,Worship & Devotion
+7:82,5,Justice & Law
+7:83,5,Justice & Law
+7:84,5,Justice & Law
+7:85,10,Spiritual & Inner Life
+7:86,1,Prophethood & Revelation
+7:87,1,Prophethood & Revelation
+7:88,5,Justice & Law
+7:89,7,Nature & Creation
+7:90,5,Justice & Law
+7:91,5,Justice & Law
+7:92,5,Justice & Law
+7:93,8,Historical Narratives
+7:94,10,Spiritual & Inner Life
+7:95,5,Justice & Law
+7:96,7,Nature & Creation
+7:97,5,Justice & Law
+7:98,5,Justice & Law
+7:99,7,Nature & Creation
+7:100,5,Justice & Law
+7:101,10,Spiritual & Inner Life
+7:102,5,Justice & Law
+7:103,4,Ethics & Character
+7:104,4,Ethics & Character
+7:105,10,Spiritual & Inner Life
+7:106,5,Justice & Law
+7:107,4,Ethics & Character
+7:108,8,Historical Narratives
+7:109,4,Ethics & Character
+7:110,4,Ethics & Character
+7:111,8,Historical Narratives
+7:112,4,Ethics & Character
+7:113,4,Ethics & Character
+7:114,8,Historical Narratives
+7:115,4,Ethics & Character
+7:116,4,Ethics & Character
+7:117,4,Ethics & Character
+7:118,5,Justice & Law
+7:119,4,Ethics & Character
+7:120,7,Nature & Creation
+7:121,8,Historical Narratives
+7:122,4,Ethics & Character
+7:123,4,Ethics & Character
+7:124,9,Eschatology & Afterlife
+7:125,3,Worship & Devotion
+7:126,1,Prophethood & Revelation
+7:127,4,Ethics & Character
+7:128,4,Ethics & Character
+7:129,8,Historical Narratives
+7:130,4,Ethics & Character
+7:131,7,Nature & Creation
+7:132,5,Justice & Law
+7:133,5,Justice & Law
+7:134,4,Ethics & Character
+7:135,5,Justice & Law
+7:136,5,Justice & Law
+7:137,4,Ethics & Character
+7:138,4,Ethics & Character
+7:139,5,Justice & Law
+7:140,10,Spiritual & Inner Life
+7:141,4,Ethics & Character
+7:142,4,Ethics & Character
+7:143,4,Ethics & Character
+7:144,4,Ethics & Character
+7:145,8,Historical Narratives
+7:146,5,Justice & Law
+7:147,5,Justice & Law
+7:148,4,Ethics & Character
+7:149,8,Historical Narratives
+7:150,4,Ethics & Character
+7:151,4,Ethics & Character
+7:152,4,Ethics & Character
+7:153,11,Community & Relations
+7:154,4,Ethics & Character
+7:155,4,Ethics & Character
+7:156,1,Prophethood & Revelation
+7:157,11,Community & Relations
+7:158,10,Spiritual & Inner Life
+7:159,4,Ethics & Character
+7:160,4,Ethics & Character
+7:161,1,Prophethood & Revelation
+7:162,5,Justice & Law
+7:163,4,Ethics & Character
+7:164,7,Nature & Creation
+7:165,5,Justice & Law
+7:166,5,Justice & Law
+7:167,9,Eschatology & Afterlife
+7:168,5,Justice & Law
+7:169,7,Nature & Creation
+7:170,11,Community & Relations
+7:171,10,Spiritual & Inner Life
+7:172,8,Historical Narratives
+7:173,7,Nature & Creation
+7:174,8,Historical Narratives
+7:175,10,Spiritual & Inner Life
+7:176,8,Historical Narratives
+7:177,5,Justice & Law
+7:178,7,Nature & Creation
+7:179,9,Eschatology & Afterlife
+7:180,1,Prophethood & Revelation
+7:181,11,Community & Relations
+7:182,5,Justice & Law
+7:183,3,Worship & Devotion
+7:184,7,Nature & Creation
+7:185,7,Nature & Creation
+7:186,7,Nature & Creation
+7:187,10,Spiritual & Inner Life
+7:188,10,Spiritual & Inner Life
+7:189,1,Prophethood & Revelation
+7:190,7,Nature & Creation
+7:191,0,Divine Attributes & Monotheism
+7:192,8,Historical Narratives
+7:193,5,Justice & Law
+7:194,7,Nature & Creation
+7:195,10,Spiritual & Inner Life
+7:196,1,Prophethood & Revelation
+7:197,8,Historical Narratives
+7:198,3,Worship & Devotion
+7:199,11,Community & Relations
+7:200,1,Prophethood & Revelation
+7:201,1,Prophethood & Revelation
+7:202,5,Justice & Law
+7:203,7,Nature & Creation
+7:204,1,Prophethood & Revelation
+7:205,11,Community & Relations
+7:206,11,Community & Relations
+8:1,1,Prophethood & Revelation
+8:2,1,Prophethood & Revelation
+8:3,11,Community & Relations
+8:4,11,Community & Relations
+8:5,5,Justice & Law
+8:6,5,Justice & Law
+8:7,10,Spiritual & Inner Life
+8:8,5,Justice & Law
+8:9,8,Historical Narratives
+8:10,1,Prophethood & Revelation
+8:11,8,Historical Narratives
+8:12,8,Historical Narratives
+8:13,7,Nature & Creation
+8:14,9,Eschatology & Afterlife
+8:15,5,Justice & Law
+8:16,7,Nature & Creation
+8:17,10,Spiritual & Inner Life
+8:18,7,Nature & Creation
+8:19,7,Nature & Creation
+8:20,1,Prophethood & Revelation
+8:21,3,Worship & Devotion
+8:22,7,Nature & Creation
+8:23,7,Nature & Creation
+8:24,1,Prophethood & Revelation
+8:25,7,Nature & Creation
+8:26,8,Historical Narratives
+8:27,1,Prophethood & Revelation
+8:28,1,Prophethood & Revelation
+8:29,1,Prophethood & Revelation
+8:30,1,Prophethood & Revelation
+8:31,8,Historical Narratives
+8:32,10,Spiritual & Inner Life
+8:33,7,Nature & Creation
+8:34,7,Nature & Creation
+8:35,5,Justice & Law
+8:36,7,Nature & Creation
+8:37,7,Nature & Creation
+8:38,5,Justice & Law
+8:39,7,Nature & Creation
+8:40,1,Prophethood & Revelation
+8:41,1,Prophethood & Revelation
+8:42,10,Spiritual & Inner Life
+8:43,10,Spiritual & Inner Life
+8:44,10,Spiritual & Inner Life
+8:45,1,Prophethood & Revelation
+8:46,1,Prophethood & Revelation
+8:47,7,Nature & Creation
+8:48,10,Spiritual & Inner Life
+8:49,7,Nature & Creation
+8:50,9,Eschatology & Afterlife
+8:51,1,Prophethood & Revelation
+8:52,7,Nature & Creation
+8:53,1,Prophethood & Revelation
+8:54,4,Ethics & Character
+8:55,7,Nature & Creation
+8:56,7,Nature & Creation
+8:57,7,Nature & Creation
+8:58,7,Nature & Creation
+8:59,7,Nature & Creation
+8:60,7,Nature & Creation
+8:61,7,Nature & Creation
+8:62,7,Nature & Creation
+8:63,1,Prophethood & Revelation
+8:64,1,Prophethood & Revelation
+8:65,1,Prophethood & Revelation
+8:66,1,Prophethood & Revelation
+8:67,1,Prophethood & Revelation
+8:68,7,Nature & Creation
+8:69,1,Prophethood & Revelation
+8:70,1,Prophethood & Revelation
+8:71,7,Nature & Creation
+8:72,1,Prophethood & Revelation
+8:73,5,Justice & Law
+8:74,1,Prophethood & Revelation
+8:75,1,Prophethood & Revelation
+9:1,7,Nature & Creation
+9:2,1,Prophethood & Revelation
+9:3,7,Nature & Creation
+9:4,7,Nature & Creation
+9:5,1,Prophethood & Revelation
+9:6,7,Nature & Creation
+9:7,7,Nature & Creation
+9:8,5,Justice & Law
+9:9,7,Nature & Creation
+9:10,5,Justice & Law
+9:11,1,Prophethood & Revelation
+9:12,5,Justice & Law
+9:13,7,Nature & Creation
+9:14,7,Nature & Creation
+9:15,1,Prophethood & Revelation
+9:16,1,Prophethood & Revelation
+9:17,7,Nature & Creation
+9:18,1,Prophethood & Revelation
+9:19,1,Prophethood & Revelation
+9:20,1,Prophethood & Revelation
+9:21,11,Community & Relations
+9:22,1,Prophethood & Revelation
+9:23,5,Justice & Law
+9:24,1,Prophethood & Revelation
+9:25,1,Prophethood & Revelation
+9:26,7,Nature & Creation
+9:27,1,Prophethood & Revelation
+9:28,7,Nature & Creation
+9:29,7,Nature & Creation
+9:30,7,Nature & Creation
+9:31,7,Nature & Creation
+9:32,7,Nature & Creation
+9:33,1,Prophethood & Revelation
+9:34,1,Prophethood & Revelation
+9:35,9,Eschatology & Afterlife
+9:36,1,Prophethood & Revelation
+9:37,1,Prophethood & Revelation
+9:38,1,Prophethood & Revelation
+9:39,1,Prophethood & Revelation
+9:40,1,Prophethood & Revelation
+9:41,1,Prophethood & Revelation
+9:42,7,Nature & Creation
+9:43,7,Nature & Creation
+9:44,1,Prophethood & Revelation
+9:45,1,Prophethood & Revelation
+9:46,7,Nature & Creation
+9:47,7,Nature & Creation
+9:48,7,Nature & Creation
+9:49,9,Eschatology & Afterlife
+9:50,3,Worship & Devotion
+9:51,10,Spiritual & Inner Life
+9:52,1,Prophethood & Revelation
+9:53,3,Worship & Devotion
+9:54,1,Prophethood & Revelation
+9:55,7,Nature & Creation
+9:56,7,Nature & Creation
+9:57,5,Justice & Law
+9:58,3,Worship & Devotion
+9:59,7,Nature & Creation
+9:60,1,Prophethood & Revelation
+9:61,7,Nature & Creation
+9:62,7,Nature & Creation
+9:63,7,Nature & Creation
+9:64,7,Nature & Creation
+9:65,10,Spiritual & Inner Life
+9:66,9,Eschatology & Afterlife
+9:67,7,Nature & Creation
+9:68,7,Nature & Creation
+9:69,5,Justice & Law
+9:70,7,Nature & Creation
+9:71,1,Prophethood & Revelation
+9:72,1,Prophethood & Revelation
+9:73,9,Eschatology & Afterlife
+9:74,7,Nature & Creation
+9:75,1,Prophethood & Revelation
+9:76,8,Historical Narratives
+9:77,7,Nature & Creation
+9:78,7,Nature & Creation
+9:79,7,Nature & Creation
+9:80,7,Nature & Creation
+9:81,7,Nature & Creation
+9:82,3,Worship & Devotion
+9:83,7,Nature & Creation
+9:84,7,Nature & Creation
+9:85,7,Nature & Creation
+9:86,7,Nature & Creation
+9:87,5,Justice & Law
+9:88,11,Community & Relations
+9:89,1,Prophethood & Revelation
+9:90,7,Nature & Creation
+9:91,1,Prophethood & Revelation
+9:92,1,Prophethood & Revelation
+9:93,1,Prophethood & Revelation
+9:94,7,Nature & Creation
+9:95,7,Nature & Creation
+9:96,7,Nature & Creation
+9:97,7,Nature & Creation
+9:98,1,Prophethood & Revelation
+9:99,7,Nature & Creation
+9:100,1,Prophethood & Revelation
+9:101,7,Nature & Creation
+9:102,1,Prophethood & Revelation
+9:103,1,Prophethood & Revelation
+9:104,1,Prophethood & Revelation
+9:105,10,Spiritual & Inner Life
+9:106,1,Prophethood & Revelation
+9:107,7,Nature & Creation
+9:108,1,Prophethood & Revelation
+9:109,1,Prophethood & Revelation
+9:110,7,Nature & Creation
+9:111,1,Prophethood & Revelation
+9:112,1,Prophethood & Revelation
+9:113,7,Nature & Creation
+9:114,10,Spiritual & Inner Life
+9:115,1,Prophethood & Revelation
+9:116,1,Prophethood & Revelation
+9:117,1,Prophethood & Revelation
+9:118,1,Prophethood & Revelation
+9:119,1,Prophethood & Revelation
+9:120,7,Nature & Creation
+9:121,1,Prophethood & Revelation
+9:122,5,Justice & Law
+9:123,1,Prophethood & Revelation
+9:124,7,Nature & Creation
+9:125,5,Justice & Law
+9:126,9,Eschatology & Afterlife
+9:127,7,Nature & Creation
+9:128,8,Historical Narratives
+9:129,1,Prophethood & Revelation
+10:1,10,Spiritual & Inner Life
+10:2,5,Justice & Law
+10:3,1,Prophethood & Revelation
+10:4,1,Prophethood & Revelation
+10:5,1,Prophethood & Revelation
+10:6,1,Prophethood & Revelation
+10:7,3,Worship & Devotion
+10:8,9,Eschatology & Afterlife
+10:9,11,Community & Relations
+10:10,7,Nature & Creation
+10:11,7,Nature & Creation
+10:12,8,Historical Narratives
+10:13,5,Justice & Law
+10:14,5,Justice & Law
+10:15,10,Spiritual & Inner Life
+10:16,10,Spiritual & Inner Life
+10:17,7,Nature & Creation
+10:18,7,Nature & Creation
+10:19,5,Justice & Law
+10:20,10,Spiritual & Inner Life
+10:21,10,Spiritual & Inner Life
+10:22,1,Prophethood & Revelation
+10:23,9,Eschatology & Afterlife
+10:24,0,Divine Attributes & Monotheism
+10:25,1,Prophethood & Revelation
+10:26,11,Community & Relations
+10:27,7,Nature & Creation
+10:28,10,Spiritual & Inner Life
+10:29,10,Spiritual & Inner Life
+10:30,7,Nature & Creation
+10:31,10,Spiritual & Inner Life
+10:32,10,Spiritual & Inner Life
+10:33,5,Justice & Law
+10:34,7,Nature & Creation
+10:35,10,Spiritual & Inner Life
+10:36,7,Nature & Creation
+10:37,10,Spiritual & Inner Life
+10:38,7,Nature & Creation
+10:39,5,Justice & Law
+10:40,5,Justice & Law
+10:41,10,Spiritual & Inner Life
+10:42,3,Worship & Devotion
+10:43,3,Worship & Devotion
+10:44,7,Nature & Creation
+10:45,10,Spiritual & Inner Life
+10:46,10,Spiritual & Inner Life
+10:47,8,Historical Narratives
+10:48,3,Worship & Devotion
+10:49,1,Prophethood & Revelation
+10:50,9,Eschatology & Afterlife
+10:51,3,Worship & Devotion
+10:52,9,Eschatology & Afterlife
+10:53,7,Nature & Creation
+10:54,3,Worship & Devotion
+10:55,1,Prophethood & Revelation
+10:56,0,Divine Attributes & Monotheism
+10:57,11,Community & Relations
+10:58,1,Prophethood & Revelation
+10:59,10,Spiritual & Inner Life
+10:60,7,Nature & Creation
+10:61,10,Spiritual & Inner Life
+10:62,1,Prophethood & Revelation
+10:63,7,Nature & Creation
+10:64,1,Prophethood & Revelation
+10:65,1,Prophethood & Revelation
+10:66,1,Prophethood & Revelation
+10:67,0,Divine Attributes & Monotheism
+10:68,1,Prophethood & Revelation
+10:69,7,Nature & Creation
+10:70,9,Eschatology & Afterlife
+10:71,10,Spiritual & Inner Life
+10:72,1,Prophethood & Revelation
+10:73,5,Justice & Law
+10:74,5,Justice & Law
+10:75,4,Ethics & Character
+10:76,5,Justice & Law
+10:77,4,Ethics & Character
+10:78,5,Justice & Law
+10:79,4,Ethics & Character
+10:80,4,Ethics & Character
+10:81,4,Ethics & Character
+10:82,7,Nature & Creation
+10:83,4,Ethics & Character
+10:84,4,Ethics & Character
+10:85,7,Nature & Creation
+10:86,5,Justice & Law
+10:87,4,Ethics & Character
+10:88,4,Ethics & Character
+10:89,1,Prophethood & Revelation
+10:90,4,Ethics & Character
+10:91,5,Justice & Law
+10:92,3,Worship & Devotion
+10:93,4,Ethics & Character
+10:94,10,Spiritual & Inner Life
+10:95,7,Nature & Creation
+10:96,5,Justice & Law
+10:97,9,Eschatology & Afterlife
+10:98,5,Justice & Law
+10:99,7,Nature & Creation
+10:100,7,Nature & Creation
+10:101,5,Justice & Law
+10:102,3,Worship & Devotion
+10:103,5,Justice & Law
+10:104,10,Spiritual & Inner Life
+10:105,1,Prophethood & Revelation
+10:106,1,Prophethood & Revelation
+10:107,1,Prophethood & Revelation
+10:108,8,Historical Narratives
+10:109,1,Prophethood & Revelation
+11:1,10,Spiritual & Inner Life
+11:2,10,Spiritual & Inner Life
+11:3,11,Community & Relations
+11:4,1,Prophethood & Revelation
+11:5,7,Nature & Creation
+11:6,1,Prophethood & Revelation
+11:7,0,Divine Attributes & Monotheism
+11:8,9,Eschatology & Afterlife
+11:9,11,Community & Relations
+11:10,8,Historical Narratives
+11:11,11,Community & Relations
+11:12,10,Spiritual & Inner Life
+11:13,7,Nature & Creation
+11:14,7,Nature & Creation
+11:15,11,Community & Relations
+11:16,9,Eschatology & Afterlife
+11:17,10,Spiritual & Inner Life
+11:18,7,Nature & Creation
+11:19,7,Nature & Creation
+11:20,7,Nature & Creation
+11:21,9,Eschatology & Afterlife
+11:22,9,Eschatology & Afterlife
+11:23,11,Community & Relations
+11:24,3,Worship & Devotion
+11:25,4,Ethics & Character
+11:26,7,Nature & Creation
+11:27,5,Justice & Law
+11:28,8,Historical Narratives
+11:29,1,Prophethood & Revelation
+11:30,7,Nature & Creation
+11:31,1,Prophethood & Revelation
+11:32,4,Ethics & Character
+11:33,1,Prophethood & Revelation
+11:34,1,Prophethood & Revelation
+11:35,7,Nature & Creation
+11:36,4,Ethics & Character
+11:37,5,Justice & Law
+11:38,5,Justice & Law
+11:39,9,Eschatology & Afterlife
+11:40,8,Historical Narratives
+11:41,4,Ethics & Character
+11:42,4,Ethics & Character
+11:43,4,Ethics & Character
+11:44,4,Ethics & Character
+11:45,4,Ethics & Character
+11:46,4,Ethics & Character
+11:47,4,Ethics & Character
+11:48,4,Ethics & Character
+11:49,10,Spiritual & Inner Life
+11:50,10,Spiritual & Inner Life
+11:51,0,Divine Attributes & Monotheism
+11:52,11,Community & Relations
+11:53,5,Justice & Law
+11:54,10,Spiritual & Inner Life
+11:55,8,Historical Narratives
+11:56,1,Prophethood & Revelation
+11:57,8,Historical Narratives
+11:58,5,Justice & Law
+11:59,7,Nature & Creation
+11:60,10,Spiritual & Inner Life
+11:61,10,Spiritual & Inner Life
+11:62,10,Spiritual & Inner Life
+11:63,10,Spiritual & Inner Life
+11:64,10,Spiritual & Inner Life
+11:65,8,Historical Narratives
+11:66,5,Justice & Law
+11:67,5,Justice & Law
+11:68,5,Justice & Law
+11:69,4,Ethics & Character
+11:70,5,Justice & Law
+11:71,4,Ethics & Character
+11:72,8,Historical Narratives
+11:73,1,Prophethood & Revelation
+11:74,4,Ethics & Character
+11:75,10,Spiritual & Inner Life
+11:76,9,Eschatology & Afterlife
+11:77,5,Justice & Law
+11:78,10,Spiritual & Inner Life
+11:79,3,Worship & Devotion
+11:80,8,Historical Narratives
+11:81,8,Historical Narratives
+11:82,5,Justice & Law
+11:83,1,Prophethood & Revelation
+11:84,10,Spiritual & Inner Life
+11:85,3,Worship & Devotion
+11:86,1,Prophethood & Revelation
+11:87,8,Historical Narratives
+11:88,10,Spiritual & Inner Life
+11:89,10,Spiritual & Inner Life
+11:90,11,Community & Relations
+11:91,5,Justice & Law
+11:92,10,Spiritual & Inner Life
+11:93,3,Worship & Devotion
+11:94,5,Justice & Law
+11:95,5,Justice & Law
+11:96,4,Ethics & Character
+11:97,4,Ethics & Character
+11:98,9,Eschatology & Afterlife
+11:99,9,Eschatology & Afterlife
+11:100,5,Justice & Law
+11:101,7,Nature & Creation
+11:102,9,Eschatology & Afterlife
+11:103,9,Eschatology & Afterlife
+11:104,3,Worship & Devotion
+11:105,3,Worship & Devotion
+11:106,9,Eschatology & Afterlife
+11:107,11,Community & Relations
+11:108,11,Community & Relations
+11:109,10,Spiritual & Inner Life
+11:110,4,Ethics & Character
+11:111,11,Community & Relations
+11:112,1,Prophethood & Revelation
+11:113,7,Nature & Creation
+11:114,11,Community & Relations
+11:115,1,Prophethood & Revelation
+11:116,5,Justice & Law
+11:117,5,Justice & Law
+11:118,5,Justice & Law
+11:119,9,Eschatology & Afterlife
+11:120,8,Historical Narratives
+11:121,3,Worship & Devotion
+11:122,3,Worship & Devotion
+11:123,1,Prophethood & Revelation
+12:1,10,Spiritual & Inner Life
+12:2,10,Spiritual & Inner Life
+12:3,10,Spiritual & Inner Life
+12:4,8,Historical Narratives
+12:5,5,Justice & Law
+12:6,4,Ethics & Character
+12:7,8,Historical Narratives
+12:8,8,Historical Narratives
+12:9,8,Historical Narratives
+12:10,8,Historical Narratives
+12:11,8,Historical Narratives
+12:12,8,Historical Narratives
+12:13,8,Historical Narratives
+12:14,8,Historical Narratives
+12:15,8,Historical Narratives
+12:16,8,Historical Narratives
+12:17,8,Historical Narratives
+12:18,10,Spiritual & Inner Life
+12:19,10,Spiritual & Inner Life
+12:20,8,Historical Narratives
+12:21,10,Spiritual & Inner Life
+12:22,8,Historical Narratives
+12:23,4,Ethics & Character
+12:24,8,Historical Narratives
+12:25,8,Historical Narratives
+12:26,8,Historical Narratives
+12:27,8,Historical Narratives
+12:28,8,Historical Narratives
+12:29,11,Community & Relations
+12:30,4,Ethics & Character
+12:31,4,Ethics & Character
+12:32,8,Historical Narratives
+12:33,8,Historical Narratives
+12:34,8,Historical Narratives
+12:35,7,Nature & Creation
+12:36,8,Historical Narratives
+12:37,10,Spiritual & Inner Life
+12:38,7,Nature & Creation
+12:39,7,Nature & Creation
+12:40,1,Prophethood & Revelation
+12:41,9,Eschatology & Afterlife
+12:42,8,Historical Narratives
+12:43,8,Historical Narratives
+12:44,5,Justice & Law
+12:45,8,Historical Narratives
+12:46,8,Historical Narratives
+12:47,6,Economics & Society
+12:48,9,Eschatology & Afterlife
+12:49,6,Economics & Society
+12:50,4,Ethics & Character
+12:51,4,Ethics & Character
+12:52,1,Prophethood & Revelation
+12:53,11,Community & Relations
+12:54,0,Divine Attributes & Monotheism
+12:55,0,Divine Attributes & Monotheism
+12:56,8,Historical Narratives
+12:57,1,Prophethood & Revelation
+12:58,8,Historical Narratives
+12:59,8,Historical Narratives
+12:60,8,Historical Narratives
+12:61,8,Historical Narratives
+12:62,8,Historical Narratives
+12:63,8,Historical Narratives
+12:64,10,Spiritual & Inner Life
+12:65,8,Historical Narratives
+12:66,10,Spiritual & Inner Life
+12:67,10,Spiritual & Inner Life
+12:68,10,Spiritual & Inner Life
+12:69,8,Historical Narratives
+12:70,8,Historical Narratives
+12:71,3,Worship & Devotion
+12:72,4,Ethics & Character
+12:73,7,Nature & Creation
+12:74,5,Justice & Law
+12:75,9,Eschatology & Afterlife
+12:76,10,Spiritual & Inner Life
+12:77,10,Spiritual & Inner Life
+12:78,8,Historical Narratives
+12:79,10,Spiritual & Inner Life
+12:80,10,Spiritual & Inner Life
+12:81,8,Historical Narratives
+12:82,5,Justice & Law
+12:83,10,Spiritual & Inner Life
+12:84,8,Historical Narratives
+12:85,7,Nature & Creation
+12:86,1,Prophethood & Revelation
+12:87,7,Nature & Creation
+12:88,10,Spiritual & Inner Life
+12:89,8,Historical Narratives
+12:90,10,Spiritual & Inner Life
+12:91,7,Nature & Creation
+12:92,1,Prophethood & Revelation
+12:93,8,Historical Narratives
+12:94,8,Historical Narratives
+12:95,7,Nature & Creation
+12:96,10,Spiritual & Inner Life
+12:97,11,Community & Relations
+12:98,11,Community & Relations
+12:99,10,Spiritual & Inner Life
+12:100,8,Historical Narratives
+12:101,1,Prophethood & Revelation
+12:102,10,Spiritual & Inner Life
+12:103,5,Justice & Law
+12:104,0,Divine Attributes & Monotheism
+12:105,6,Economics & Society
+12:106,7,Nature & Creation
+12:107,7,Nature & Creation
+12:108,10,Spiritual & Inner Life
+12:109,10,Spiritual & Inner Life
+12:110,5,Justice & Law
+12:111,7,Nature & Creation
+13:1,10,Spiritual & Inner Life
+13:2,1,Prophethood & Revelation
+13:3,0,Divine Attributes & Monotheism
+13:4,6,Economics & Society
+13:5,10,Spiritual & Inner Life
+13:6,9,Eschatology & Afterlife
+13:7,5,Justice & Law
+13:8,1,Prophethood & Revelation
+13:9,0,Divine Attributes & Monotheism
+13:10,3,Worship & Devotion
+13:11,1,Prophethood & Revelation
+13:12,0,Divine Attributes & Monotheism
+13:13,1,Prophethood & Revelation
+13:14,8,Historical Narratives
+13:15,1,Prophethood & Revelation
+13:16,10,Spiritual & Inner Life
+13:17,1,Prophethood & Revelation
+13:18,9,Eschatology & Afterlife
+13:19,8,Historical Narratives
+13:20,1,Prophethood & Revelation
+13:21,1,Prophethood & Revelation
+13:22,11,Community & Relations
+13:23,11,Community & Relations
+13:24,11,Community & Relations
+13:25,7,Nature & Creation
+13:26,1,Prophethood & Revelation
+13:27,7,Nature & Creation
+13:28,1,Prophethood & Revelation
+13:29,11,Community & Relations
+13:30,8,Historical Narratives
+13:31,7,Nature & Creation
+13:32,5,Justice & Law
+13:33,1,Prophethood & Revelation
+13:34,7,Nature & Creation
+13:35,11,Community & Relations
+13:36,10,Spiritual & Inner Life
+13:37,10,Spiritual & Inner Life
+13:38,10,Spiritual & Inner Life
+13:39,1,Prophethood & Revelation
+13:40,3,Worship & Devotion
+13:41,7,Nature & Creation
+13:42,1,Prophethood & Revelation
+13:43,10,Spiritual & Inner Life
+14:1,10,Spiritual & Inner Life
+14:2,1,Prophethood & Revelation
+14:3,7,Nature & Creation
+14:4,10,Spiritual & Inner Life
+14:5,4,Ethics & Character
+14:6,4,Ethics & Character
+14:7,11,Community & Relations
+14:8,10,Spiritual & Inner Life
+14:9,10,Spiritual & Inner Life
+14:10,10,Spiritual & Inner Life
+14:11,10,Spiritual & Inner Life
+14:12,1,Prophethood & Revelation
+14:13,5,Justice & Law
+14:14,5,Justice & Law
+14:15,7,Nature & Creation
+14:16,9,Eschatology & Afterlife
+14:17,9,Eschatology & Afterlife
+14:18,5,Justice & Law
+14:19,1,Prophethood & Revelation
+14:20,1,Prophethood & Revelation
+14:21,7,Nature & Creation
+14:22,1,Prophethood & Revelation
+14:23,11,Community & Relations
+14:24,1,Prophethood & Revelation
+14:25,1,Prophethood & Revelation
+14:26,6,Economics & Society
+14:27,1,Prophethood & Revelation
+14:28,1,Prophethood & Revelation
+14:29,9,Eschatology & Afterlife
+14:30,7,Nature & Creation
+14:31,1,Prophethood & Revelation
+14:32,1,Prophethood & Revelation
+14:33,0,Divine Attributes & Monotheism
+14:34,1,Prophethood & Revelation
+14:35,10,Spiritual & Inner Life
+14:36,11,Community & Relations
+14:37,11,Community & Relations
+14:38,1,Prophethood & Revelation
+14:39,1,Prophethood & Revelation
+14:40,11,Community & Relations
+14:41,11,Community & Relations
+14:42,7,Nature & Creation
+14:43,3,Worship & Devotion
+14:44,10,Spiritual & Inner Life
+14:45,5,Justice & Law
+14:46,7,Nature & Creation
+14:47,1,Prophethood & Revelation
+14:48,3,Worship & Devotion
+14:49,9,Eschatology & Afterlife
+14:50,9,Eschatology & Afterlife
+14:51,1,Prophethood & Revelation
+14:52,10,Spiritual & Inner Life
+15:1,10,Spiritual & Inner Life
+15:2,7,Nature & Creation
+15:3,3,Worship & Devotion
+15:4,5,Justice & Law
+15:5,3,Worship & Devotion
+15:6,5,Justice & Law
+15:7,8,Historical Narratives
+15:8,5,Justice & Law
+15:9,10,Spiritual & Inner Life
+15:10,10,Spiritual & Inner Life
+15:11,5,Justice & Law
+15:12,5,Justice & Law
+15:13,5,Justice & Law
+15:14,0,Divine Attributes & Monotheism
+15:15,5,Justice & Law
+15:16,6,Economics & Society
+15:17,7,Nature & Creation
+15:18,9,Eschatology & Afterlife
+15:19,6,Economics & Society
+15:20,11,Community & Relations
+15:21,3,Worship & Devotion
+15:22,6,Economics & Society
+15:23,0,Divine Attributes & Monotheism
+15:24,8,Historical Narratives
+15:25,8,Historical Narratives
+15:26,0,Divine Attributes & Monotheism
+15:27,9,Eschatology & Afterlife
+15:28,10,Spiritual & Inner Life
+15:29,0,Divine Attributes & Monotheism
+15:30,8,Historical Narratives
+15:31,8,Historical Narratives
+15:32,10,Spiritual & Inner Life
+15:33,0,Divine Attributes & Monotheism
+15:34,7,Nature & Creation
+15:35,9,Eschatology & Afterlife
+15:36,8,Historical Narratives
+15:37,1,Prophethood & Revelation
+15:38,3,Worship & Devotion
+15:39,5,Justice & Law
+15:40,11,Community & Relations
+15:41,1,Prophethood & Revelation
+15:42,11,Community & Relations
+15:43,9,Eschatology & Afterlife
+15:44,6,Economics & Society
+15:45,11,Community & Relations
+15:46,11,Community & Relations
+15:47,3,Worship & Devotion
+15:48,9,Eschatology & Afterlife
+15:49,1,Prophethood & Revelation
+15:50,9,Eschatology & Afterlife
+15:51,4,Ethics & Character
+15:52,4,Ethics & Character
+15:53,8,Historical Narratives
+15:54,8,Historical Narratives
+15:55,3,Worship & Devotion
+15:56,8,Historical Narratives
+15:57,4,Ethics & Character
+15:58,9,Eschatology & Afterlife
+15:59,5,Justice & Law
+15:60,7,Nature & Creation
+15:61,5,Justice & Law
+15:62,8,Historical Narratives
+15:63,3,Worship & Devotion
+15:64,5,Justice & Law
+15:65,11,Community & Relations
+15:66,5,Justice & Law
+15:67,3,Worship & Devotion
+15:68,8,Historical Narratives
+15:69,1,Prophethood & Revelation
+15:70,5,Justice & Law
+15:71,1,Prophethood & Revelation
+15:72,7,Nature & Creation
+15:73,5,Justice & Law
+15:74,5,Justice & Law
+15:75,3,Worship & Devotion
+15:76,5,Justice & Law
+15:77,3,Worship & Devotion
+15:78,5,Justice & Law
+15:79,5,Justice & Law
+15:80,5,Justice & Law
+15:81,5,Justice & Law
+15:82,6,Economics & Society
+15:83,5,Justice & Law
+15:84,9,Eschatology & Afterlife
+15:85,0,Divine Attributes & Monotheism
+15:86,0,Divine Attributes & Monotheism
+15:87,10,Spiritual & Inner Life
+15:88,5,Justice & Law
+15:89,8,Historical Narratives
+15:90,3,Worship & Devotion
+15:91,10,Spiritual & Inner Life
+15:92,3,Worship & Devotion
+15:93,3,Worship & Devotion
+15:94,5,Justice & Law
+15:95,3,Worship & Devotion
+15:96,1,Prophethood & Revelation
+15:97,3,Worship & Devotion
+15:98,1,Prophethood & Revelation
+15:99,11,Community & Relations
+16:1,1,Prophethood & Revelation
+16:2,8,Historical Narratives
+16:3,0,Divine Attributes & Monotheism
+16:4,0,Divine Attributes & Monotheism
+16:5,6,Economics & Society
+16:6,6,Economics & Society
+16:7,11,Community & Relations
+16:8,0,Divine Attributes & Monotheism
+16:9,1,Prophethood & Revelation
+16:10,0,Divine Attributes & Monotheism
+16:11,6,Economics & Society
+16:12,0,Divine Attributes & Monotheism
+16:13,0,Divine Attributes & Monotheism
+16:14,0,Divine Attributes & Monotheism
+16:15,0,Divine Attributes & Monotheism
+16:16,6,Economics & Society
+16:17,0,Divine Attributes & Monotheism
+16:18,1,Prophethood & Revelation
+16:19,1,Prophethood & Revelation
+16:20,7,Nature & Creation
+16:21,0,Divine Attributes & Monotheism
+16:22,11,Community & Relations
+16:23,7,Nature & Creation
+16:24,8,Historical Narratives
+16:25,9,Eschatology & Afterlife
+16:26,7,Nature & Creation
+16:27,9,Eschatology & Afterlife
+16:28,1,Prophethood & Revelation
+16:29,9,Eschatology & Afterlife
+16:30,1,Prophethood & Revelation
+16:31,1,Prophethood & Revelation
+16:32,8,Historical Narratives
+16:33,7,Nature & Creation
+16:34,5,Justice & Law
+16:35,10,Spiritual & Inner Life
+16:36,10,Spiritual & Inner Life
+16:37,7,Nature & Creation
+16:38,7,Nature & Creation
+16:39,5,Justice & Law
+16:40,3,Worship & Devotion
+16:41,1,Prophethood & Revelation
+16:42,11,Community & Relations
+16:43,8,Historical Narratives
+16:44,8,Historical Narratives
+16:45,7,Nature & Creation
+16:46,5,Justice & Law
+16:47,8,Historical Narratives
+16:48,7,Nature & Creation
+16:49,1,Prophethood & Revelation
+16:50,9,Eschatology & Afterlife
+16:51,1,Prophethood & Revelation
+16:52,1,Prophethood & Revelation
+16:53,1,Prophethood & Revelation
+16:54,11,Community & Relations
+16:55,3,Worship & Devotion
+16:56,7,Nature & Creation
+16:57,7,Nature & Creation
+16:58,8,Historical Narratives
+16:59,9,Eschatology & Afterlife
+16:60,1,Prophethood & Revelation
+16:61,1,Prophethood & Revelation
+16:62,7,Nature & Creation
+16:63,10,Spiritual & Inner Life
+16:64,10,Spiritual & Inner Life
+16:65,1,Prophethood & Revelation
+16:66,6,Economics & Society
+16:67,6,Economics & Society
+16:68,8,Historical Narratives
+16:69,6,Economics & Society
+16:70,1,Prophethood & Revelation
+16:71,1,Prophethood & Revelation
+16:72,7,Nature & Creation
+16:73,7,Nature & Creation
+16:74,1,Prophethood & Revelation
+16:75,1,Prophethood & Revelation
+16:76,1,Prophethood & Revelation
+16:77,1,Prophethood & Revelation
+16:78,1,Prophethood & Revelation
+16:79,7,Nature & Creation
+16:80,1,Prophethood & Revelation
+16:81,1,Prophethood & Revelation
+16:82,10,Spiritual & Inner Life
+16:83,7,Nature & Creation
+16:84,10,Spiritual & Inner Life
+16:85,9,Eschatology & Afterlife
+16:86,7,Nature & Creation
+16:87,7,Nature & Creation
+16:88,7,Nature & Creation
+16:89,10,Spiritual & Inner Life
+16:90,1,Prophethood & Revelation
+16:91,1,Prophethood & Revelation
+16:92,7,Nature & Creation
+16:93,7,Nature & Creation
+16:94,7,Nature & Creation
+16:95,1,Prophethood & Revelation
+16:96,1,Prophethood & Revelation
+16:97,11,Community & Relations
+16:98,7,Nature & Creation
+16:99,11,Community & Relations
+16:100,1,Prophethood & Revelation
+16:101,7,Nature & Creation
+16:102,10,Spiritual & Inner Life
+16:103,10,Spiritual & Inner Life
+16:104,7,Nature & Creation
+16:105,7,Nature & Creation
+16:106,7,Nature & Creation
+16:107,7,Nature & Creation
+16:108,7,Nature & Creation
+16:109,9,Eschatology & Afterlife
+16:110,1,Prophethood & Revelation
+16:111,3,Worship & Devotion
+16:112,1,Prophethood & Revelation
+16:113,5,Justice & Law
+16:114,1,Prophethood & Revelation
+16:115,1,Prophethood & Revelation
+16:116,7,Nature & Creation
+16:117,9,Eschatology & Afterlife
+16:118,4,Ethics & Character
+16:119,11,Community & Relations
+16:120,10,Spiritual & Inner Life
+16:121,1,Prophethood & Revelation
+16:122,8,Historical Narratives
+16:123,10,Spiritual & Inner Life
+16:124,5,Justice & Law
+16:125,8,Historical Narratives
+16:126,9,Eschatology & Afterlife
+16:127,1,Prophethood & Revelation
+16:128,1,Prophethood & Revelation
+17:1,8,Historical Narratives
+17:2,4,Ethics & Character
+17:3,4,Ethics & Character
+17:4,4,Ethics & Character
+17:5,5,Justice & Law
+17:6,5,Justice & Law
+17:7,4,Ethics & Character
+17:8,7,Nature & Creation
+17:9,10,Spiritual & Inner Life
+17:10,9,Eschatology & Afterlife
+17:11,8,Historical Narratives
+17:12,3,Worship & Devotion
+17:13,9,Eschatology & Afterlife
+17:14,3,Worship & Devotion
+17:15,8,Historical Narratives
+17:16,5,Justice & Law
+17:17,4,Ethics & Character
+17:18,9,Eschatology & Afterlife
+17:19,1,Prophethood & Revelation
+17:20,11,Community & Relations
+17:21,0,Divine Attributes & Monotheism
+17:22,1,Prophethood & Revelation
+17:23,11,Community & Relations
+17:24,11,Community & Relations
+17:25,11,Community & Relations
+17:26,11,Community & Relations
+17:27,5,Justice & Law
+17:28,11,Community & Relations
+17:29,3,Worship & Devotion
+17:30,11,Community & Relations
+17:31,11,Community & Relations
+17:32,11,Community & Relations
+17:33,1,Prophethood & Revelation
+17:34,1,Prophethood & Revelation
+17:35,3,Worship & Devotion
+17:36,8,Historical Narratives
+17:37,6,Economics & Society
+17:38,9,Eschatology & Afterlife
+17:39,1,Prophethood & Revelation
+17:40,8,Historical Narratives
+17:41,10,Spiritual & Inner Life
+17:42,10,Spiritual & Inner Life
+17:43,0,Divine Attributes & Monotheism
+17:44,1,Prophethood & Revelation
+17:45,10,Spiritual & Inner Life
+17:46,7,Nature & Creation
+17:47,3,Worship & Devotion
+17:48,3,Worship & Devotion
+17:49,0,Divine Attributes & Monotheism
+17:50,9,Eschatology & Afterlife
+17:51,8,Historical Narratives
+17:52,0,Divine Attributes & Monotheism
+17:53,5,Justice & Law
+17:54,10,Spiritual & Inner Life
+17:55,4,Ethics & Character
+17:56,8,Historical Narratives
+17:57,9,Eschatology & Afterlife
+17:58,5,Justice & Law
+17:59,10,Spiritual & Inner Life
+17:60,10,Spiritual & Inner Life
+17:61,8,Historical Narratives
+17:62,8,Historical Narratives
+17:63,7,Nature & Creation
+17:64,5,Justice & Law
+17:65,11,Community & Relations
+17:66,0,Divine Attributes & Monotheism
+17:67,8,Historical Narratives
+17:68,8,Historical Narratives
+17:69,8,Historical Narratives
+17:70,4,Ethics & Character
+17:71,10,Spiritual & Inner Life
+17:72,3,Worship & Devotion
+17:73,5,Justice & Law
+17:74,5,Justice & Law
+17:75,9,Eschatology & Afterlife
+17:76,5,Justice & Law
+17:77,8,Historical Narratives
+17:78,1,Prophethood & Revelation
+17:79,11,Community & Relations
+17:80,11,Community & Relations
+17:81,5,Justice & Law
+17:82,7,Nature & Creation
+17:83,8,Historical Narratives
+17:84,8,Historical Narratives
+17:85,10,Spiritual & Inner Life
+17:86,5,Justice & Law
+17:87,11,Community & Relations
+17:88,10,Spiritual & Inner Life
+17:89,10,Spiritual & Inner Life
+17:90,5,Justice & Law
+17:91,6,Economics & Society
+17:92,10,Spiritual & Inner Life
+17:93,8,Historical Narratives
+17:94,7,Nature & Creation
+17:95,8,Historical Narratives
+17:96,10,Spiritual & Inner Life
+17:97,7,Nature & Creation
+17:98,0,Divine Attributes & Monotheism
+17:99,7,Nature & Creation
+17:100,11,Community & Relations
+17:101,4,Ethics & Character
+17:102,4,Ethics & Character
+17:103,5,Justice & Law
+17:104,4,Ethics & Character
+17:105,10,Spiritual & Inner Life
+17:106,10,Spiritual & Inner Life
+17:107,5,Justice & Law
+17:108,8,Historical Narratives
+17:109,1,Prophethood & Revelation
+17:110,10,Spiritual & Inner Life
+17:111,1,Prophethood & Revelation
+18:1,1,Prophethood & Revelation
+18:2,11,Community & Relations
+18:3,9,Eschatology & Afterlife
+18:4,10,Spiritual & Inner Life
+18:5,5,Justice & Law
+18:6,7,Nature & Creation
+18:7,3,Worship & Devotion
+18:8,6,Economics & Society
+18:9,8,Historical Narratives
+18:10,8,Historical Narratives
+18:11,3,Worship & Devotion
+18:12,5,Justice & Law
+18:13,10,Spiritual & Inner Life
+18:14,5,Justice & Law
+18:15,7,Nature & Creation
+18:16,10,Spiritual & Inner Life
+18:17,10,Spiritual & Inner Life
+18:18,5,Justice & Law
+18:19,8,Historical Narratives
+18:20,5,Justice & Law
+18:21,7,Nature & Creation
+18:22,10,Spiritual & Inner Life
+18:23,3,Worship & Devotion
+18:24,10,Spiritual & Inner Life
+18:25,3,Worship & Devotion
+18:26,1,Prophethood & Revelation
+18:27,10,Spiritual & Inner Life
+18:28,11,Community & Relations
+18:29,9,Eschatology & Afterlife
+18:30,11,Community & Relations
+18:31,6,Economics & Society
+18:32,6,Economics & Society
+18:33,6,Economics & Society
+18:34,8,Historical Narratives
+18:35,8,Historical Narratives
+18:36,3,Worship & Devotion
+18:37,0,Divine Attributes & Monotheism
+18:38,1,Prophethood & Revelation
+18:39,10,Spiritual & Inner Life
+18:40,0,Divine Attributes & Monotheism
+18:41,6,Economics & Society
+18:42,8,Historical Narratives
+18:43,10,Spiritual & Inner Life
+18:44,1,Prophethood & Revelation
+18:45,1,Prophethood & Revelation
+18:46,11,Community & Relations
+18:47,6,Economics & Society
+18:48,8,Historical Narratives
+18:49,3,Worship & Devotion
+18:50,8,Historical Narratives
+18:51,5,Justice & Law
+18:52,8,Historical Narratives
+18:53,9,Eschatology & Afterlife
+18:54,10,Spiritual & Inner Life
+18:55,9,Eschatology & Afterlife
+18:56,5,Justice & Law
+18:57,5,Justice & Law
+18:58,9,Eschatology & Afterlife
+18:59,5,Justice & Law
+18:60,4,Ethics & Character
+18:61,5,Justice & Law
+18:62,4,Ethics & Character
+18:63,8,Historical Narratives
+18:64,4,Ethics & Character
+18:65,8,Historical Narratives
+18:66,4,Ethics & Character
+18:67,8,Historical Narratives
+18:68,11,Community & Relations
+18:69,4,Ethics & Character
+18:70,8,Historical Narratives
+18:71,4,Ethics & Character
+18:72,10,Spiritual & Inner Life
+18:73,4,Ethics & Character
+18:74,4,Ethics & Character
+18:75,10,Spiritual & Inner Life
+18:76,4,Ethics & Character
+18:77,4,Ethics & Character
+18:78,10,Spiritual & Inner Life
+18:79,5,Justice & Law
+18:80,5,Justice & Law
+18:81,8,Historical Narratives
+18:82,8,Historical Narratives
+18:83,10,Spiritual & Inner Life
+18:84,0,Divine Attributes & Monotheism
+18:85,8,Historical Narratives
+18:86,10,Spiritual & Inner Life
+18:87,9,Eschatology & Afterlife
+18:88,11,Community & Relations
+18:89,8,Historical Narratives
+18:90,8,Historical Narratives
+18:91,0,Divine Attributes & Monotheism
+18:92,8,Historical Narratives
+18:93,8,Historical Narratives
+18:94,10,Spiritual & Inner Life
+18:95,8,Historical Narratives
+18:96,9,Eschatology & Afterlife
+18:97,9,Eschatology & Afterlife
+18:98,1,Prophethood & Revelation
+18:99,3,Worship & Devotion
+18:100,9,Eschatology & Afterlife
+18:101,3,Worship & Devotion
+18:102,5,Justice & Law
+18:103,7,Nature & Creation
+18:104,11,Community & Relations
+18:105,5,Justice & Law
+18:106,5,Justice & Law
+18:107,11,Community & Relations
+18:108,9,Eschatology & Afterlife
+18:109,8,Historical Narratives
+18:110,11,Community & Relations
+19:1,6,Economics & Society
+19:2,4,Ethics & Character
+19:3,8,Historical Narratives
+19:4,8,Historical Narratives
+19:5,8,Historical Narratives
+19:6,4,Ethics & Character
+19:7,4,Ethics & Character
+19:8,8,Historical Narratives
+19:9,8,Historical Narratives
+19:10,4,Ethics & Character
+19:11,10,Spiritual & Inner Life
+19:12,10,Spiritual & Inner Life
+19:13,10,Spiritual & Inner Life
+19:14,8,Historical Narratives
+19:15,0,Divine Attributes & Monotheism
+19:16,7,Nature & Creation
+19:17,8,Historical Narratives
+19:18,1,Prophethood & Revelation
+19:19,8,Historical Narratives
+19:20,8,Historical Narratives
+19:21,8,Historical Narratives
+19:22,8,Historical Narratives
+19:23,8,Historical Narratives
+19:24,8,Historical Narratives
+19:25,6,Economics & Society
+19:26,11,Community & Relations
+19:27,4,Ethics & Character
+19:28,4,Ethics & Character
+19:29,8,Historical Narratives
+19:30,10,Spiritual & Inner Life
+19:31,1,Prophethood & Revelation
+19:32,8,Historical Narratives
+19:33,3,Worship & Devotion
+19:34,8,Historical Narratives
+19:35,1,Prophethood & Revelation
+19:36,1,Prophethood & Revelation
+19:37,5,Justice & Law
+19:38,5,Justice & Law
+19:39,7,Nature & Creation
+19:40,0,Divine Attributes & Monotheism
+19:41,4,Ethics & Character
+19:42,8,Historical Narratives
+19:43,8,Historical Narratives
+19:44,5,Justice & Law
+19:45,9,Eschatology & Afterlife
+19:46,4,Ethics & Character
+19:47,4,Ethics & Character
+19:48,1,Prophethood & Revelation
+19:49,4,Ethics & Character
+19:50,11,Community & Relations
+19:51,4,Ethics & Character
+19:52,8,Historical Narratives
+19:53,4,Ethics & Character
+19:54,4,Ethics & Character
+19:55,10,Spiritual & Inner Life
+19:56,4,Ethics & Character
+19:57,0,Divine Attributes & Monotheism
+19:58,7,Nature & Creation
+19:59,9,Eschatology & Afterlife
+19:60,11,Community & Relations
+19:61,11,Community & Relations
+19:62,3,Worship & Devotion
+19:63,1,Prophethood & Revelation
+19:64,8,Historical Narratives
+19:65,0,Divine Attributes & Monotheism
+19:66,0,Divine Attributes & Monotheism
+19:67,0,Divine Attributes & Monotheism
+19:68,9,Eschatology & Afterlife
+19:69,5,Justice & Law
+19:70,9,Eschatology & Afterlife
+19:71,11,Community & Relations
+19:72,7,Nature & Creation
+19:73,5,Justice & Law
+19:74,5,Justice & Law
+19:75,11,Community & Relations
+19:76,1,Prophethood & Revelation
+19:77,8,Historical Narratives
+19:78,8,Historical Narratives
+19:79,9,Eschatology & Afterlife
+19:80,0,Divine Attributes & Monotheism
+19:81,7,Nature & Creation
+19:82,9,Eschatology & Afterlife
+19:83,5,Justice & Law
+19:84,3,Worship & Devotion
+19:85,3,Worship & Devotion
+19:86,9,Eschatology & Afterlife
+19:87,11,Community & Relations
+19:88,8,Historical Narratives
+19:89,9,Eschatology & Afterlife
+19:90,6,Economics & Society
+19:91,11,Community & Relations
+19:92,8,Historical Narratives
+19:93,11,Community & Relations
+19:94,8,Historical Narratives
+19:95,8,Historical Narratives
+19:96,11,Community & Relations
+19:97,10,Spiritual & Inner Life
+19:98,5,Justice & Law
+20:1,6,Economics & Society
+20:2,10,Spiritual & Inner Life
+20:3,1,Prophethood & Revelation
+20:4,0,Divine Attributes & Monotheism
+20:5,0,Divine Attributes & Monotheism
+20:6,0,Divine Attributes & Monotheism
+20:7,3,Worship & Devotion
+20:8,1,Prophethood & Revelation
+20:9,4,Ethics & Character
+20:10,9,Eschatology & Afterlife
+20:11,4,Ethics & Character
+20:12,11,Community & Relations
+20:13,8,Historical Narratives
+20:14,1,Prophethood & Revelation
+20:15,3,Worship & Devotion
+20:16,5,Justice & Law
+20:17,4,Ethics & Character
+20:18,6,Economics & Society
+20:19,4,Ethics & Character
+20:20,4,Ethics & Character
+20:21,1,Prophethood & Revelation
+20:22,4,Ethics & Character
+20:23,3,Worship & Devotion
+20:24,4,Ethics & Character
+20:25,4,Ethics & Character
+20:26,8,Historical Narratives
+20:27,6,Economics & Society
+20:28,3,Worship & Devotion
+20:29,11,Community & Relations
+20:30,8,Historical Narratives
+20:31,8,Historical Narratives
+20:32,8,Historical Narratives
+20:33,11,Community & Relations
+20:34,3,Worship & Devotion
+20:35,3,Worship & Devotion
+20:36,4,Ethics & Character
+20:37,8,Historical Narratives
+20:38,4,Ethics & Character
+20:39,8,Historical Narratives
+20:40,4,Ethics & Character
+20:41,0,Divine Attributes & Monotheism
+20:42,11,Community & Relations
+20:43,4,Ethics & Character
+20:44,10,Spiritual & Inner Life
+20:45,9,Eschatology & Afterlife
+20:46,1,Prophethood & Revelation
+20:47,4,Ethics & Character
+20:48,9,Eschatology & Afterlife
+20:49,4,Ethics & Character
+20:50,8,Historical Narratives
+20:51,8,Historical Narratives
+20:52,4,Ethics & Character
+20:53,0,Divine Attributes & Monotheism
+20:54,6,Economics & Society
+20:55,0,Divine Attributes & Monotheism
+20:56,4,Ethics & Character
+20:57,4,Ethics & Character
+20:58,3,Worship & Devotion
+20:59,4,Ethics & Character
+20:60,4,Ethics & Character
+20:61,4,Ethics & Character
+20:62,5,Justice & Law
+20:63,4,Ethics & Character
+20:64,11,Community & Relations
+20:65,4,Ethics & Character
+20:66,4,Ethics & Character
+20:67,4,Ethics & Character
+20:68,1,Prophethood & Revelation
+20:69,4,Ethics & Character
+20:70,4,Ethics & Character
+20:71,4,Ethics & Character
+20:72,8,Historical Narratives
+20:73,1,Prophethood & Revelation
+20:74,9,Eschatology & Afterlife
+20:75,11,Community & Relations
+20:76,11,Community & Relations
+20:77,4,Ethics & Character
+20:78,4,Ethics & Character
+20:79,4,Ethics & Character
+20:80,4,Ethics & Character
+20:81,8,Historical Narratives
+20:82,11,Community & Relations
+20:83,4,Ethics & Character
+20:84,8,Historical Narratives
+20:85,7,Nature & Creation
+20:86,4,Ethics & Character
+20:87,4,Ethics & Character
+20:88,4,Ethics & Character
+20:89,5,Justice & Law
+20:90,4,Ethics & Character
+20:91,4,Ethics & Character
+20:92,4,Ethics & Character
+20:93,11,Community & Relations
+20:94,4,Ethics & Character
+20:95,4,Ethics & Character
+20:96,8,Historical Narratives
+20:97,4,Ethics & Character
+20:98,1,Prophethood & Revelation
+20:99,10,Spiritual & Inner Life
+20:100,9,Eschatology & Afterlife
+20:101,9,Eschatology & Afterlife
+20:102,3,Worship & Devotion
+20:103,3,Worship & Devotion
+20:104,3,Worship & Devotion
+20:105,6,Economics & Society
+20:106,0,Divine Attributes & Monotheism
+20:107,6,Economics & Society
+20:108,3,Worship & Devotion
+20:109,11,Community & Relations
+20:110,7,Nature & Creation
+20:111,9,Eschatology & Afterlife
+20:112,11,Community & Relations
+20:113,10,Spiritual & Inner Life
+20:114,10,Spiritual & Inner Life
+20:115,8,Historical Narratives
+20:116,8,Historical Narratives
+20:117,8,Historical Narratives
+20:118,6,Economics & Society
+20:119,6,Economics & Society
+20:120,8,Historical Narratives
+20:121,8,Historical Narratives
+20:122,8,Historical Narratives
+20:123,1,Prophethood & Revelation
+20:124,9,Eschatology & Afterlife
+20:125,8,Historical Narratives
+20:126,10,Spiritual & Inner Life
+20:127,9,Eschatology & Afterlife
+20:128,5,Justice & Law
+20:129,9,Eschatology & Afterlife
+20:130,1,Prophethood & Revelation
+20:131,11,Community & Relations
+20:132,11,Community & Relations
+20:133,5,Justice & Law
+20:134,5,Justice & Law
+20:135,3,Worship & Devotion
+21:1,3,Worship & Devotion
+21:2,3,Worship & Devotion
+21:3,5,Justice & Law
+21:4,8,Historical Narratives
+21:5,5,Justice & Law
+21:6,5,Justice & Law
+21:7,10,Spiritual & Inner Life
+21:8,8,Historical Narratives
+21:9,5,Justice & Law
+21:10,8,Historical Narratives
+21:11,5,Justice & Law
+21:12,5,Justice & Law
+21:13,8,Historical Narratives
+21:14,5,Justice & Law
+21:15,5,Justice & Law
+21:16,0,Divine Attributes & Monotheism
+21:17,5,Justice & Law
+21:18,5,Justice & Law
+21:19,0,Divine Attributes & Monotheism
+21:20,11,Community & Relations
+21:21,0,Divine Attributes & Monotheism
+21:22,1,Prophethood & Revelation
+21:23,8,Historical Narratives
+21:24,7,Nature & Creation
+21:25,8,Historical Narratives
+21:26,11,Community & Relations
+21:27,8,Historical Narratives
+21:28,9,Eschatology & Afterlife
+21:29,9,Eschatology & Afterlife
+21:30,0,Divine Attributes & Monotheism
+21:31,6,Economics & Society
+21:32,6,Economics & Society
+21:33,0,Divine Attributes & Monotheism
+21:34,0,Divine Attributes & Monotheism
+21:35,9,Eschatology & Afterlife
+21:36,10,Spiritual & Inner Life
+21:37,0,Divine Attributes & Monotheism
+21:38,3,Worship & Devotion
+21:39,9,Eschatology & Afterlife
+21:40,3,Worship & Devotion
+21:41,5,Justice & Law
+21:42,11,Community & Relations
+21:43,5,Justice & Law
+21:44,5,Justice & Law
+21:45,3,Worship & Devotion
+21:46,5,Justice & Law
+21:47,9,Eschatology & Afterlife
+21:48,4,Ethics & Character
+21:49,9,Eschatology & Afterlife
+21:50,10,Spiritual & Inner Life
+21:51,4,Ethics & Character
+21:52,8,Historical Narratives
+21:53,8,Historical Narratives
+21:54,8,Historical Narratives
+21:55,5,Justice & Law
+21:56,0,Divine Attributes & Monotheism
+21:57,1,Prophethood & Revelation
+21:58,8,Historical Narratives
+21:59,5,Justice & Law
+21:60,4,Ethics & Character
+21:61,8,Historical Narratives
+21:62,4,Ethics & Character
+21:63,8,Historical Narratives
+21:64,5,Justice & Law
+21:65,3,Worship & Devotion
+21:66,1,Prophethood & Revelation
+21:67,7,Nature & Creation
+21:68,5,Justice & Law
+21:69,10,Spiritual & Inner Life
+21:70,5,Justice & Law
+21:71,8,Historical Narratives
+21:72,4,Ethics & Character
+21:73,7,Nature & Creation
+21:74,5,Justice & Law
+21:75,8,Historical Narratives
+21:76,4,Ethics & Character
+21:77,5,Justice & Law
+21:78,4,Ethics & Character
+21:79,4,Ethics & Character
+21:80,8,Historical Narratives
+21:81,4,Ethics & Character
+21:82,5,Justice & Law
+21:83,8,Historical Narratives
+21:84,10,Spiritual & Inner Life
+21:85,7,Nature & Creation
+21:86,11,Community & Relations
+21:87,8,Historical Narratives
+21:88,5,Justice & Law
+21:89,4,Ethics & Character
+21:90,8,Historical Narratives
+21:91,4,Ethics & Character
+21:92,11,Community & Relations
+21:93,3,Worship & Devotion
+21:94,11,Community & Relations
+21:95,5,Justice & Law
+21:96,6,Economics & Society
+21:97,5,Justice & Law
+21:98,7,Nature & Creation
+21:99,0,Divine Attributes & Monotheism
+21:100,3,Worship & Devotion
+21:101,3,Worship & Devotion
+21:102,3,Worship & Devotion
+21:103,8,Historical Narratives
+21:104,3,Worship & Devotion
+21:105,11,Community & Relations
+21:106,10,Spiritual & Inner Life
+21:107,10,Spiritual & Inner Life
+21:108,10,Spiritual & Inner Life
+21:109,3,Worship & Devotion
+21:110,3,Worship & Devotion
+21:111,3,Worship & Devotion
+21:112,8,Historical Narratives
+22:1,9,Eschatology & Afterlife
+22:2,7,Nature & Creation
+22:3,7,Nature & Creation
+22:4,9,Eschatology & Afterlife
+22:5,0,Divine Attributes & Monotheism
+22:6,1,Prophethood & Revelation
+22:7,10,Spiritual & Inner Life
+22:8,7,Nature & Creation
+22:9,7,Nature & Creation
+22:10,1,Prophethood & Revelation
+22:11,1,Prophethood & Revelation
+22:12,7,Nature & Creation
+22:13,8,Historical Narratives
+22:14,1,Prophethood & Revelation
+22:15,1,Prophethood & Revelation
+22:16,10,Spiritual & Inner Life
+22:17,10,Spiritual & Inner Life
+22:18,1,Prophethood & Revelation
+22:19,9,Eschatology & Afterlife
+22:20,6,Economics & Society
+22:21,9,Eschatology & Afterlife
+22:22,9,Eschatology & Afterlife
+22:23,1,Prophethood & Revelation
+22:24,11,Community & Relations
+22:25,7,Nature & Creation
+22:26,10,Spiritual & Inner Life
+22:27,1,Prophethood & Revelation
+22:28,1,Prophethood & Revelation
+22:29,5,Justice & Law
+22:30,1,Prophethood & Revelation
+22:31,1,Prophethood & Revelation
+22:32,1,Prophethood & Revelation
+22:33,1,Prophethood & Revelation
+22:34,1,Prophethood & Revelation
+22:35,7,Nature & Creation
+22:36,1,Prophethood & Revelation
+22:37,1,Prophethood & Revelation
+22:38,1,Prophethood & Revelation
+22:39,1,Prophethood & Revelation
+22:40,7,Nature & Creation
+22:41,7,Nature & Creation
+22:42,10,Spiritual & Inner Life
+22:43,4,Ethics & Character
+22:44,4,Ethics & Character
+22:45,5,Justice & Law
+22:46,0,Divine Attributes & Monotheism
+22:47,1,Prophethood & Revelation
+22:48,5,Justice & Law
+22:49,8,Historical Narratives
+22:50,11,Community & Relations
+22:51,9,Eschatology & Afterlife
+22:52,10,Spiritual & Inner Life
+22:53,9,Eschatology & Afterlife
+22:54,10,Spiritual & Inner Life
+22:55,5,Justice & Law
+22:56,1,Prophethood & Revelation
+22:57,5,Justice & Law
+22:58,1,Prophethood & Revelation
+22:59,1,Prophethood & Revelation
+22:60,1,Prophethood & Revelation
+22:61,1,Prophethood & Revelation
+22:62,7,Nature & Creation
+22:63,1,Prophethood & Revelation
+22:64,1,Prophethood & Revelation
+22:65,1,Prophethood & Revelation
+22:66,0,Divine Attributes & Monotheism
+22:67,10,Spiritual & Inner Life
+22:68,7,Nature & Creation
+22:69,10,Spiritual & Inner Life
+22:70,1,Prophethood & Revelation
+22:71,7,Nature & Creation
+22:72,7,Nature & Creation
+22:73,7,Nature & Creation
+22:74,7,Nature & Creation
+22:75,1,Prophethood & Revelation
+22:76,1,Prophethood & Revelation
+22:77,11,Community & Relations
+22:78,1,Prophethood & Revelation
+23:1,11,Community & Relations
+23:2,11,Community & Relations
+23:3,3,Worship & Devotion
+23:4,1,Prophethood & Revelation
+23:5,3,Worship & Devotion
+23:6,3,Worship & Devotion
+23:7,5,Justice & Law
+23:8,3,Worship & Devotion
+23:9,11,Community & Relations
+23:10,8,Historical Narratives
+23:11,1,Prophethood & Revelation
+23:12,0,Divine Attributes & Monotheism
+23:13,0,Divine Attributes & Monotheism
+23:14,1,Prophethood & Revelation
+23:15,9,Eschatology & Afterlife
+23:16,8,Historical Narratives
+23:17,0,Divine Attributes & Monotheism
+23:18,6,Economics & Society
+23:19,6,Economics & Society
+23:20,6,Economics & Society
+23:21,6,Economics & Society
+23:22,0,Divine Attributes & Monotheism
+23:23,4,Ethics & Character
+23:24,10,Spiritual & Inner Life
+23:25,8,Historical Narratives
+23:26,4,Ethics & Character
+23:27,8,Historical Narratives
+23:28,1,Prophethood & Revelation
+23:29,11,Community & Relations
+23:30,3,Worship & Devotion
+23:31,8,Historical Narratives
+23:32,10,Spiritual & Inner Life
+23:33,8,Historical Narratives
+23:34,5,Justice & Law
+23:35,0,Divine Attributes & Monotheism
+23:36,3,Worship & Devotion
+23:37,0,Divine Attributes & Monotheism
+23:38,7,Nature & Creation
+23:39,8,Historical Narratives
+23:40,7,Nature & Creation
+23:41,5,Justice & Law
+23:42,8,Historical Narratives
+23:43,3,Worship & Devotion
+23:44,5,Justice & Law
+23:45,4,Ethics & Character
+23:46,4,Ethics & Character
+23:47,5,Justice & Law
+23:48,5,Justice & Law
+23:49,4,Ethics & Character
+23:50,8,Historical Narratives
+23:51,1,Prophethood & Revelation
+23:52,11,Community & Relations
+23:53,5,Justice & Law
+23:54,3,Worship & Devotion
+23:55,3,Worship & Devotion
+23:56,3,Worship & Devotion
+23:57,9,Eschatology & Afterlife
+23:58,3,Worship & Devotion
+23:59,5,Justice & Law
+23:60,11,Community & Relations
+23:61,11,Community & Relations
+23:62,3,Worship & Devotion
+23:63,5,Justice & Law
+23:64,7,Nature & Creation
+23:65,3,Worship & Devotion
+23:66,5,Justice & Law
+23:67,8,Historical Narratives
+23:68,7,Nature & Creation
+23:69,5,Justice & Law
+23:70,5,Justice & Law
+23:71,5,Justice & Law
+23:72,1,Prophethood & Revelation
+23:73,8,Historical Narratives
+23:74,5,Justice & Law
+23:75,5,Justice & Law
+23:76,5,Justice & Law
+23:77,9,Eschatology & Afterlife
+23:78,0,Divine Attributes & Monotheism
+23:79,0,Divine Attributes & Monotheism
+23:80,0,Divine Attributes & Monotheism
+23:81,8,Historical Narratives
+23:82,0,Divine Attributes & Monotheism
+23:83,8,Historical Narratives
+23:84,1,Prophethood & Revelation
+23:85,7,Nature & Creation
+23:86,0,Divine Attributes & Monotheism
+23:87,7,Nature & Creation
+23:88,8,Historical Narratives
+23:89,7,Nature & Creation
+23:90,5,Justice & Law
+23:91,1,Prophethood & Revelation
+23:92,0,Divine Attributes & Monotheism
+23:93,1,Prophethood & Revelation
+23:94,11,Community & Relations
+23:95,3,Worship & Devotion
+23:96,9,Eschatology & Afterlife
+23:97,11,Community & Relations
+23:98,11,Community & Relations
+23:99,8,Historical Narratives
+23:100,8,Historical Narratives
+23:101,3,Worship & Devotion
+23:102,11,Community & Relations
+23:103,9,Eschatology & Afterlife
+23:104,9,Eschatology & Afterlife
+23:105,5,Justice & Law
+23:106,5,Justice & Law
+23:107,5,Justice & Law
+23:108,8,Historical Narratives
+23:109,11,Community & Relations
+23:110,5,Justice & Law
+23:111,11,Community & Relations
+23:112,1,Prophethood & Revelation
+23:113,3,Worship & Devotion
+23:114,8,Historical Narratives
+23:115,0,Divine Attributes & Monotheism
+23:116,1,Prophethood & Revelation
+23:117,7,Nature & Creation
+23:118,1,Prophethood & Revelation
+24:1,10,Spiritual & Inner Life
+24:2,1,Prophethood & Revelation
+24:3,1,Prophethood & Revelation
+24:4,5,Justice & Law
+24:5,1,Prophethood & Revelation
+24:6,7,Nature & Creation
+24:7,7,Nature & Creation
+24:8,7,Nature & Creation
+24:9,7,Nature & Creation
+24:10,1,Prophethood & Revelation
+24:11,5,Justice & Law
+24:12,5,Justice & Law
+24:13,7,Nature & Creation
+24:14,1,Prophethood & Revelation
+24:15,10,Spiritual & Inner Life
+24:16,10,Spiritual & Inner Life
+24:17,1,Prophethood & Revelation
+24:18,10,Spiritual & Inner Life
+24:19,7,Nature & Creation
+24:20,1,Prophethood & Revelation
+24:21,1,Prophethood & Revelation
+24:22,1,Prophethood & Revelation
+24:23,5,Justice & Law
+24:24,3,Worship & Devotion
+24:25,1,Prophethood & Revelation
+24:26,11,Community & Relations
+24:27,11,Community & Relations
+24:28,1,Prophethood & Revelation
+24:29,1,Prophethood & Revelation
+24:30,7,Nature & Creation
+24:31,1,Prophethood & Revelation
+24:32,1,Prophethood & Revelation
+24:33,1,Prophethood & Revelation
+24:34,10,Spiritual & Inner Life
+24:35,1,Prophethood & Revelation
+24:36,1,Prophethood & Revelation
+24:37,7,Nature & Creation
+24:38,1,Prophethood & Revelation
+24:39,7,Nature & Creation
+24:40,1,Prophethood & Revelation
+24:41,1,Prophethood & Revelation
+24:42,1,Prophethood & Revelation
+24:43,1,Prophethood & Revelation
+24:44,1,Prophethood & Revelation
+24:45,1,Prophethood & Revelation
+24:46,1,Prophethood & Revelation
+24:47,7,Nature & Creation
+24:48,7,Nature & Creation
+24:49,11,Community & Relations
+24:50,7,Nature & Creation
+24:51,7,Nature & Creation
+24:52,1,Prophethood & Revelation
+24:53,7,Nature & Creation
+24:54,10,Spiritual & Inner Life
+24:55,1,Prophethood & Revelation
+24:56,1,Prophethood & Revelation
+24:57,7,Nature & Creation
+24:58,1,Prophethood & Revelation
+24:59,1,Prophethood & Revelation
+24:60,1,Prophethood & Revelation
+24:61,11,Community & Relations
+24:62,1,Prophethood & Revelation
+24:63,10,Spiritual & Inner Life
+24:64,1,Prophethood & Revelation
+25:1,8,Historical Narratives
+25:2,0,Divine Attributes & Monotheism
+25:3,0,Divine Attributes & Monotheism
+25:4,7,Nature & Creation
+25:5,8,Historical Narratives
+25:6,1,Prophethood & Revelation
+25:7,8,Historical Narratives
+25:8,8,Historical Narratives
+25:9,3,Worship & Devotion
+25:10,0,Divine Attributes & Monotheism
+25:11,9,Eschatology & Afterlife
+25:12,9,Eschatology & Afterlife
+25:13,9,Eschatology & Afterlife
+25:14,9,Eschatology & Afterlife
+25:15,11,Community & Relations
+25:16,11,Community & Relations
+25:17,10,Spiritual & Inner Life
+25:18,5,Justice & Law
+25:19,9,Eschatology & Afterlife
+25:20,10,Spiritual & Inner Life
+25:21,5,Justice & Law
+25:22,8,Historical Narratives
+25:23,0,Divine Attributes & Monotheism
+25:24,11,Community & Relations
+25:25,6,Economics & Society
+25:26,3,Worship & Devotion
+25:27,8,Historical Narratives
+25:28,8,Historical Narratives
+25:29,8,Historical Narratives
+25:30,10,Spiritual & Inner Life
+25:31,8,Historical Narratives
+25:32,10,Spiritual & Inner Life
+25:33,5,Justice & Law
+25:34,9,Eschatology & Afterlife
+25:35,4,Ethics & Character
+25:36,5,Justice & Law
+25:37,4,Ethics & Character
+25:38,5,Justice & Law
+25:39,5,Justice & Law
+25:40,5,Justice & Law
+25:41,10,Spiritual & Inner Life
+25:42,9,Eschatology & Afterlife
+25:43,8,Historical Narratives
+25:44,5,Justice & Law
+25:45,0,Divine Attributes & Monotheism
+25:46,3,Worship & Devotion
+25:47,0,Divine Attributes & Monotheism
+25:48,0,Divine Attributes & Monotheism
+25:49,6,Economics & Society
+25:50,5,Justice & Law
+25:51,5,Justice & Law
+25:52,7,Nature & Creation
+25:53,0,Divine Attributes & Monotheism
+25:54,0,Divine Attributes & Monotheism
+25:55,7,Nature & Creation
+25:56,10,Spiritual & Inner Life
+25:57,11,Community & Relations
+25:58,1,Prophethood & Revelation
+25:59,0,Divine Attributes & Monotheism
+25:60,11,Community & Relations
+25:61,0,Divine Attributes & Monotheism
+25:62,0,Divine Attributes & Monotheism
+25:63,11,Community & Relations
+25:64,11,Community & Relations
+25:65,9,Eschatology & Afterlife
+25:66,9,Eschatology & Afterlife
+25:67,11,Community & Relations
+25:68,7,Nature & Creation
+25:69,9,Eschatology & Afterlife
+25:70,1,Prophethood & Revelation
+25:71,1,Prophethood & Revelation
+25:72,3,Worship & Devotion
+25:73,11,Community & Relations
+25:74,11,Community & Relations
+25:75,11,Community & Relations
+25:76,11,Community & Relations
+25:77,5,Justice & Law
+26:1,6,Economics & Society
+26:2,10,Spiritual & Inner Life
+26:3,7,Nature & Creation
+26:4,8,Historical Narratives
+26:5,3,Worship & Devotion
+26:6,5,Justice & Law
+26:7,6,Economics & Society
+26:8,5,Justice & Law
+26:9,11,Community & Relations
+26:10,4,Ethics & Character
+26:11,10,Spiritual & Inner Life
+26:12,8,Historical Narratives
+26:13,8,Historical Narratives
+26:14,9,Eschatology & Afterlife
+26:15,1,Prophethood & Revelation
+26:16,4,Ethics & Character
+26:17,4,Ethics & Character
+26:18,4,Ethics & Character
+26:19,11,Community & Relations
+26:20,4,Ethics & Character
+26:21,8,Historical Narratives
+26:22,4,Ethics & Character
+26:23,4,Ethics & Character
+26:24,4,Ethics & Character
+26:25,8,Historical Narratives
+26:26,4,Ethics & Character
+26:27,5,Justice & Law
+26:28,4,Ethics & Character
+26:29,4,Ethics & Character
+26:30,4,Ethics & Character
+26:31,5,Justice & Law
+26:32,4,Ethics & Character
+26:33,8,Historical Narratives
+26:34,4,Ethics & Character
+26:35,4,Ethics & Character
+26:36,8,Historical Narratives
+26:37,4,Ethics & Character
+26:38,4,Ethics & Character
+26:39,8,Historical Narratives
+26:40,4,Ethics & Character
+26:41,4,Ethics & Character
+26:42,8,Historical Narratives
+26:43,4,Ethics & Character
+26:44,4,Ethics & Character
+26:45,4,Ethics & Character
+26:46,7,Nature & Creation
+26:47,8,Historical Narratives
+26:48,4,Ethics & Character
+26:49,4,Ethics & Character
+26:50,3,Worship & Devotion
+26:51,11,Community & Relations
+26:52,4,Ethics & Character
+26:53,4,Ethics & Character
+26:54,8,Historical Narratives
+26:55,5,Justice & Law
+26:56,3,Worship & Devotion
+26:57,6,Economics & Society
+26:58,11,Community & Relations
+26:59,4,Ethics & Character
+26:60,5,Justice & Law
+26:61,4,Ethics & Character
+26:62,4,Ethics & Character
+26:63,4,Ethics & Character
+26:64,5,Justice & Law
+26:65,4,Ethics & Character
+26:66,5,Justice & Law
+26:67,5,Justice & Law
+26:68,11,Community & Relations
+26:69,4,Ethics & Character
+26:70,8,Historical Narratives
+26:71,11,Community & Relations
+26:72,8,Historical Narratives
+26:73,3,Worship & Devotion
+26:74,8,Historical Narratives
+26:75,8,Historical Narratives
+26:76,8,Historical Narratives
+26:77,5,Justice & Law
+26:78,0,Divine Attributes & Monotheism
+26:79,8,Historical Narratives
+26:80,8,Historical Narratives
+26:81,0,Divine Attributes & Monotheism
+26:82,11,Community & Relations
+26:83,8,Historical Narratives
+26:84,3,Worship & Devotion
+26:85,6,Economics & Society
+26:86,11,Community & Relations
+26:87,8,Historical Narratives
+26:88,3,Worship & Devotion
+26:89,1,Prophethood & Revelation
+26:90,11,Community & Relations
+26:91,9,Eschatology & Afterlife
+26:92,8,Historical Narratives
+26:93,7,Nature & Creation
+26:94,9,Eschatology & Afterlife
+26:95,5,Justice & Law
+26:96,3,Worship & Devotion
+26:97,7,Nature & Creation
+26:98,0,Divine Attributes & Monotheism
+26:99,5,Justice & Law
+26:100,3,Worship & Devotion
+26:101,8,Historical Narratives
+26:102,5,Justice & Law
+26:103,5,Justice & Law
+26:104,11,Community & Relations
+26:105,4,Ethics & Character
+26:106,10,Spiritual & Inner Life
+26:107,3,Worship & Devotion
+26:108,1,Prophethood & Revelation
+26:109,0,Divine Attributes & Monotheism
+26:110,1,Prophethood & Revelation
+26:111,5,Justice & Law
+26:112,8,Historical Narratives
+26:113,11,Community & Relations
+26:114,5,Justice & Law
+26:115,8,Historical Narratives
+26:116,4,Ethics & Character
+26:117,8,Historical Narratives
+26:118,9,Eschatology & Afterlife
+26:119,5,Justice & Law
+26:120,5,Justice & Law
+26:121,5,Justice & Law
+26:122,11,Community & Relations
+26:123,5,Justice & Law
+26:124,10,Spiritual & Inner Life
+26:125,3,Worship & Devotion
+26:126,1,Prophethood & Revelation
+26:127,0,Divine Attributes & Monotheism
+26:128,6,Economics & Society
+26:129,11,Community & Relations
+26:130,9,Eschatology & Afterlife
+26:131,1,Prophethood & Revelation
+26:132,8,Historical Narratives
+26:133,6,Economics & Society
+26:134,6,Economics & Society
+26:135,9,Eschatology & Afterlife
+26:136,3,Worship & Devotion
+26:137,8,Historical Narratives
+26:138,3,Worship & Devotion
+26:139,5,Justice & Law
+26:140,11,Community & Relations
+26:141,5,Justice & Law
+26:142,10,Spiritual & Inner Life
+26:143,3,Worship & Devotion
+26:144,1,Prophethood & Revelation
+26:145,0,Divine Attributes & Monotheism
+26:146,0,Divine Attributes & Monotheism
+26:147,6,Economics & Society
+26:148,6,Economics & Society
+26:149,6,Economics & Society
+26:150,1,Prophethood & Revelation
+26:151,3,Worship & Devotion
+26:152,5,Justice & Law
+26:153,5,Justice & Law
+26:154,5,Justice & Law
+26:155,6,Economics & Society
+26:156,9,Eschatology & Afterlife
+26:157,5,Justice & Law
+26:158,5,Justice & Law
+26:159,11,Community & Relations
+26:160,5,Justice & Law
+26:161,10,Spiritual & Inner Life
+26:162,3,Worship & Devotion
+26:163,1,Prophethood & Revelation
+26:164,0,Divine Attributes & Monotheism
+26:165,3,Worship & Devotion
+26:166,11,Community & Relations
+26:167,5,Justice & Law
+26:168,5,Justice & Law
+26:169,9,Eschatology & Afterlife
+26:170,5,Justice & Law
+26:171,8,Historical Narratives
+26:172,5,Justice & Law
+26:173,5,Justice & Law
+26:174,5,Justice & Law
+26:175,11,Community & Relations
+26:176,5,Justice & Law
+26:177,10,Spiritual & Inner Life
+26:178,3,Worship & Devotion
+26:179,1,Prophethood & Revelation
+26:180,0,Divine Attributes & Monotheism
+26:181,3,Worship & Devotion
+26:182,3,Worship & Devotion
+26:183,3,Worship & Devotion
+26:184,0,Divine Attributes & Monotheism
+26:185,5,Justice & Law
+26:186,5,Justice & Law
+26:187,6,Economics & Society
+26:188,8,Historical Narratives
+26:189,5,Justice & Law
+26:190,5,Justice & Law
+26:191,11,Community & Relations
+26:192,10,Spiritual & Inner Life
+26:193,5,Justice & Law
+26:194,10,Spiritual & Inner Life
+26:195,10,Spiritual & Inner Life
+26:196,8,Historical Narratives
+26:197,4,Ethics & Character
+26:198,5,Justice & Law
+26:199,5,Justice & Law
+26:200,5,Justice & Law
+26:201,9,Eschatology & Afterlife
+26:202,3,Worship & Devotion
+26:203,3,Worship & Devotion
+26:204,9,Eschatology & Afterlife
+26:205,3,Worship & Devotion
+26:206,3,Worship & Devotion
+26:207,9,Eschatology & Afterlife
+26:208,5,Justice & Law
+26:209,3,Worship & Devotion
+26:210,5,Justice & Law
+26:211,9,Eschatology & Afterlife
+26:212,3,Worship & Devotion
+26:213,1,Prophethood & Revelation
+26:214,10,Spiritual & Inner Life
+26:215,5,Justice & Law
+26:216,3,Worship & Devotion
+26:217,11,Community & Relations
+26:218,8,Historical Narratives
+26:219,11,Community & Relations
+26:220,0,Divine Attributes & Monotheism
+26:221,9,Eschatology & Afterlife
+26:222,5,Justice & Law
+26:223,5,Justice & Law
+26:224,8,Historical Narratives
+26:225,6,Economics & Society
+26:226,3,Worship & Devotion
+26:227,1,Prophethood & Revelation
+27:1,10,Spiritual & Inner Life
+27:2,3,Worship & Devotion
+27:3,1,Prophethood & Revelation
+27:4,5,Justice & Law
+27:5,9,Eschatology & Afterlife
+27:6,10,Spiritual & Inner Life
+27:7,4,Ethics & Character
+27:8,1,Prophethood & Revelation
+27:9,4,Ethics & Character
+27:10,4,Ethics & Character
+27:11,11,Community & Relations
+27:12,4,Ethics & Character
+27:13,5,Justice & Law
+27:14,5,Justice & Law
+27:15,4,Ethics & Character
+27:16,4,Ethics & Character
+27:17,4,Ethics & Character
+27:18,4,Ethics & Character
+27:19,4,Ethics & Character
+27:20,8,Historical Narratives
+27:21,9,Eschatology & Afterlife
+27:22,10,Spiritual & Inner Life
+27:23,0,Divine Attributes & Monotheism
+27:24,7,Nature & Creation
+27:25,7,Nature & Creation
+27:26,1,Prophethood & Revelation
+27:27,5,Justice & Law
+27:28,3,Worship & Devotion
+27:29,11,Community & Relations
+27:30,4,Ethics & Character
+27:31,1,Prophethood & Revelation
+27:32,8,Historical Narratives
+27:33,5,Justice & Law
+27:34,5,Justice & Law
+27:35,8,Historical Narratives
+27:36,4,Ethics & Character
+27:37,5,Justice & Law
+27:38,4,Ethics & Character
+27:39,8,Historical Narratives
+27:40,4,Ethics & Character
+27:41,8,Historical Narratives
+27:42,4,Ethics & Character
+27:43,7,Nature & Creation
+27:44,4,Ethics & Character
+27:45,10,Spiritual & Inner Life
+27:46,1,Prophethood & Revelation
+27:47,10,Spiritual & Inner Life
+27:48,5,Justice & Law
+27:49,10,Spiritual & Inner Life
+27:50,5,Justice & Law
+27:51,5,Justice & Law
+27:52,5,Justice & Law
+27:53,7,Nature & Creation
+27:54,5,Justice & Law
+27:55,3,Worship & Devotion
+27:56,5,Justice & Law
+27:57,8,Historical Narratives
+27:58,5,Justice & Law
+27:59,1,Prophethood & Revelation
+27:60,1,Prophethood & Revelation
+27:61,1,Prophethood & Revelation
+27:62,1,Prophethood & Revelation
+27:63,1,Prophethood & Revelation
+27:64,1,Prophethood & Revelation
+27:65,10,Spiritual & Inner Life
+27:66,3,Worship & Devotion
+27:67,0,Divine Attributes & Monotheism
+27:68,8,Historical Narratives
+27:69,7,Nature & Creation
+27:70,3,Worship & Devotion
+27:71,3,Worship & Devotion
+27:72,3,Worship & Devotion
+27:73,11,Community & Relations
+27:74,3,Worship & Devotion
+27:75,0,Divine Attributes & Monotheism
+27:76,4,Ethics & Character
+27:77,11,Community & Relations
+27:78,8,Historical Narratives
+27:79,10,Spiritual & Inner Life
+27:80,3,Worship & Devotion
+27:81,7,Nature & Creation
+27:82,5,Justice & Law
+27:83,3,Worship & Devotion
+27:84,8,Historical Narratives
+27:85,9,Eschatology & Afterlife
+27:86,3,Worship & Devotion
+27:87,1,Prophethood & Revelation
+27:88,1,Prophethood & Revelation
+27:89,9,Eschatology & Afterlife
+27:90,9,Eschatology & Afterlife
+27:91,10,Spiritual & Inner Life
+27:92,10,Spiritual & Inner Life
+27:93,1,Prophethood & Revelation
+28:1,6,Economics & Society
+28:2,10,Spiritual & Inner Life
+28:3,4,Ethics & Character
+28:4,4,Ethics & Character
+28:5,5,Justice & Law
+28:6,4,Ethics & Character
+28:7,4,Ethics & Character
+28:8,4,Ethics & Character
+28:9,4,Ethics & Character
+28:10,4,Ethics & Character
+28:11,8,Historical Narratives
+28:12,8,Historical Narratives
+28:13,10,Spiritual & Inner Life
+28:14,8,Historical Narratives
+28:15,4,Ethics & Character
+28:16,11,Community & Relations
+28:17,11,Community & Relations
+28:18,4,Ethics & Character
+28:19,4,Ethics & Character
+28:20,4,Ethics & Character
+28:21,8,Historical Narratives
+28:22,8,Historical Narratives
+28:23,8,Historical Narratives
+28:24,8,Historical Narratives
+28:25,8,Historical Narratives
+28:26,8,Historical Narratives
+28:27,1,Prophethood & Revelation
+28:28,4,Ethics & Character
+28:29,4,Ethics & Character
+28:30,4,Ethics & Character
+28:31,4,Ethics & Character
+28:32,4,Ethics & Character
+28:33,8,Historical Narratives
+28:34,8,Historical Narratives
+28:35,1,Prophethood & Revelation
+28:36,5,Justice & Law
+28:37,4,Ethics & Character
+28:38,4,Ethics & Character
+28:39,5,Justice & Law
+28:40,5,Justice & Law
+28:41,9,Eschatology & Afterlife
+28:42,9,Eschatology & Afterlife
+28:43,4,Ethics & Character
+28:44,10,Spiritual & Inner Life
+28:45,4,Ethics & Character
+28:46,4,Ethics & Character
+28:47,5,Justice & Law
+28:48,5,Justice & Law
+28:49,10,Spiritual & Inner Life
+28:50,7,Nature & Creation
+28:51,10,Spiritual & Inner Life
+28:52,8,Historical Narratives
+28:53,10,Spiritual & Inner Life
+28:54,11,Community & Relations
+28:55,3,Worship & Devotion
+28:56,1,Prophethood & Revelation
+28:57,5,Justice & Law
+28:58,5,Justice & Law
+28:59,5,Justice & Law
+28:60,1,Prophethood & Revelation
+28:61,9,Eschatology & Afterlife
+28:62,8,Historical Narratives
+28:63,5,Justice & Law
+28:64,9,Eschatology & Afterlife
+28:65,8,Historical Narratives
+28:66,3,Worship & Devotion
+28:67,1,Prophethood & Revelation
+28:68,1,Prophethood & Revelation
+28:69,3,Worship & Devotion
+28:70,1,Prophethood & Revelation
+28:71,1,Prophethood & Revelation
+28:72,1,Prophethood & Revelation
+28:73,0,Divine Attributes & Monotheism
+28:74,8,Historical Narratives
+28:75,10,Spiritual & Inner Life
+28:76,4,Ethics & Character
+28:77,1,Prophethood & Revelation
+28:78,10,Spiritual & Inner Life
+28:79,8,Historical Narratives
+28:80,1,Prophethood & Revelation
+28:81,10,Spiritual & Inner Life
+28:82,10,Spiritual & Inner Life
+28:83,11,Community & Relations
+28:84,9,Eschatology & Afterlife
+28:85,10,Spiritual & Inner Life
+28:86,5,Justice & Law
+28:87,7,Nature & Creation
+28:88,1,Prophethood & Revelation
+29:1,6,Economics & Society
+29:2,5,Justice & Law
+29:3,7,Nature & Creation
+29:4,9,Eschatology & Afterlife
+29:5,1,Prophethood & Revelation
+29:6,1,Prophethood & Revelation
+29:7,9,Eschatology & Afterlife
+29:8,8,Historical Narratives
+29:9,11,Community & Relations
+29:10,7,Nature & Creation
+29:11,7,Nature & Creation
+29:12,5,Justice & Law
+29:13,9,Eschatology & Afterlife
+29:14,4,Ethics & Character
+29:15,5,Justice & Law
+29:16,10,Spiritual & Inner Life
+29:17,7,Nature & Creation
+29:18,8,Historical Narratives
+29:19,7,Nature & Creation
+29:20,1,Prophethood & Revelation
+29:21,9,Eschatology & Afterlife
+29:22,1,Prophethood & Revelation
+29:23,7,Nature & Creation
+29:24,10,Spiritual & Inner Life
+29:25,10,Spiritual & Inner Life
+29:26,4,Ethics & Character
+29:27,4,Ethics & Character
+29:28,5,Justice & Law
+29:29,10,Spiritual & Inner Life
+29:30,8,Historical Narratives
+29:31,5,Justice & Law
+29:32,4,Ethics & Character
+29:33,5,Justice & Law
+29:34,5,Justice & Law
+29:35,3,Worship & Devotion
+29:36,10,Spiritual & Inner Life
+29:37,5,Justice & Law
+29:38,5,Justice & Law
+29:39,4,Ethics & Character
+29:40,7,Nature & Creation
+29:41,7,Nature & Creation
+29:42,1,Prophethood & Revelation
+29:43,3,Worship & Devotion
+29:44,1,Prophethood & Revelation
+29:45,10,Spiritual & Inner Life
+29:46,10,Spiritual & Inner Life
+29:47,10,Spiritual & Inner Life
+29:48,5,Justice & Law
+29:49,10,Spiritual & Inner Life
+29:50,10,Spiritual & Inner Life
+29:51,8,Historical Narratives
+29:52,7,Nature & Creation
+29:53,9,Eschatology & Afterlife
+29:54,9,Eschatology & Afterlife
+29:55,9,Eschatology & Afterlife
+29:56,11,Community & Relations
+29:57,9,Eschatology & Afterlife
+29:58,11,Community & Relations
+29:59,11,Community & Relations
+29:60,1,Prophethood & Revelation
+29:61,7,Nature & Creation
+29:62,1,Prophethood & Revelation
+29:63,7,Nature & Creation
+29:64,0,Divine Attributes & Monotheism
+29:65,7,Nature & Creation
+29:66,3,Worship & Devotion
+29:67,7,Nature & Creation
+29:68,7,Nature & Creation
+29:69,1,Prophethood & Revelation
+30:1,6,Economics & Society
+30:2,5,Justice & Law
+30:3,5,Justice & Law
+30:4,1,Prophethood & Revelation
+30:5,1,Prophethood & Revelation
+30:6,1,Prophethood & Revelation
+30:7,3,Worship & Devotion
+30:8,7,Nature & Creation
+30:9,7,Nature & Creation
+30:10,7,Nature & Creation
+30:11,1,Prophethood & Revelation
+30:12,9,Eschatology & Afterlife
+30:13,5,Justice & Law
+30:14,3,Worship & Devotion
+30:15,11,Community & Relations
+30:16,9,Eschatology & Afterlife
+30:17,1,Prophethood & Revelation
+30:18,0,Divine Attributes & Monotheism
+30:19,0,Divine Attributes & Monotheism
+30:20,0,Divine Attributes & Monotheism
+30:21,0,Divine Attributes & Monotheism
+30:22,0,Divine Attributes & Monotheism
+30:23,0,Divine Attributes & Monotheism
+30:24,0,Divine Attributes & Monotheism
+30:25,0,Divine Attributes & Monotheism
+30:26,0,Divine Attributes & Monotheism
+30:27,0,Divine Attributes & Monotheism
+30:28,8,Historical Narratives
+30:29,7,Nature & Creation
+30:30,10,Spiritual & Inner Life
+30:31,1,Prophethood & Revelation
+30:32,5,Justice & Law
+30:33,11,Community & Relations
+30:34,3,Worship & Devotion
+30:35,8,Historical Narratives
+30:36,11,Community & Relations
+30:37,7,Nature & Creation
+30:38,1,Prophethood & Revelation
+30:39,1,Prophethood & Revelation
+30:40,1,Prophethood & Revelation
+30:41,5,Justice & Law
+30:42,7,Nature & Creation
+30:43,1,Prophethood & Revelation
+30:44,5,Justice & Law
+30:45,11,Community & Relations
+30:46,0,Divine Attributes & Monotheism
+30:47,5,Justice & Law
+30:48,1,Prophethood & Revelation
+30:49,5,Justice & Law
+30:50,1,Prophethood & Revelation
+30:51,5,Justice & Law
+30:52,3,Worship & Devotion
+30:53,7,Nature & Creation
+30:54,1,Prophethood & Revelation
+30:55,9,Eschatology & Afterlife
+30:56,10,Spiritual & Inner Life
+30:57,7,Nature & Creation
+30:58,10,Spiritual & Inner Life
+30:59,1,Prophethood & Revelation
+30:60,1,Prophethood & Revelation
+31:1,6,Economics & Society
+31:2,10,Spiritual & Inner Life
+31:3,11,Community & Relations
+31:4,1,Prophethood & Revelation
+31:5,11,Community & Relations
+31:6,7,Nature & Creation
+31:7,8,Historical Narratives
+31:8,11,Community & Relations
+31:9,1,Prophethood & Revelation
+31:10,0,Divine Attributes & Monotheism
+31:11,7,Nature & Creation
+31:12,1,Prophethood & Revelation
+31:13,10,Spiritual & Inner Life
+31:14,8,Historical Narratives
+31:15,11,Community & Relations
+31:16,10,Spiritual & Inner Life
+31:17,11,Community & Relations
+31:18,1,Prophethood & Revelation
+31:19,3,Worship & Devotion
+31:20,1,Prophethood & Revelation
+31:21,7,Nature & Creation
+31:22,1,Prophethood & Revelation
+31:23,7,Nature & Creation
+31:24,9,Eschatology & Afterlife
+31:25,7,Nature & Creation
+31:26,1,Prophethood & Revelation
+31:27,1,Prophethood & Revelation
+31:28,1,Prophethood & Revelation
+31:29,1,Prophethood & Revelation
+31:30,7,Nature & Creation
+31:31,1,Prophethood & Revelation
+31:32,7,Nature & Creation
+31:33,1,Prophethood & Revelation
+31:34,1,Prophethood & Revelation
+32:1,6,Economics & Society
+32:2,8,Historical Narratives
+32:3,7,Nature & Creation
+32:4,1,Prophethood & Revelation
+32:5,0,Divine Attributes & Monotheism
+32:6,8,Historical Narratives
+32:7,0,Divine Attributes & Monotheism
+32:8,0,Divine Attributes & Monotheism
+32:9,0,Divine Attributes & Monotheism
+32:10,5,Justice & Law
+32:11,8,Historical Narratives
+32:12,9,Eschatology & Afterlife
+32:13,9,Eschatology & Afterlife
+32:14,9,Eschatology & Afterlife
+32:15,1,Prophethood & Revelation
+32:16,11,Community & Relations
+32:17,9,Eschatology & Afterlife
+32:18,5,Justice & Law
+32:19,11,Community & Relations
+32:20,9,Eschatology & Afterlife
+32:21,9,Eschatology & Afterlife
+32:22,9,Eschatology & Afterlife
+32:23,4,Ethics & Character
+32:24,5,Justice & Law
+32:25,5,Justice & Law
+32:26,5,Justice & Law
+32:27,6,Economics & Society
+32:28,3,Worship & Devotion
+32:29,7,Nature & Creation
+32:30,3,Worship & Devotion
+33:1,1,Prophethood & Revelation
+33:2,10,Spiritual & Inner Life
+33:3,1,Prophethood & Revelation
+33:4,1,Prophethood & Revelation
+33:5,7,Nature & Creation
+33:6,1,Prophethood & Revelation
+33:7,10,Spiritual & Inner Life
+33:8,9,Eschatology & Afterlife
+33:9,1,Prophethood & Revelation
+33:10,10,Spiritual & Inner Life
+33:11,5,Justice & Law
+33:12,7,Nature & Creation
+33:13,7,Nature & Creation
+33:14,5,Justice & Law
+33:15,7,Nature & Creation
+33:16,10,Spiritual & Inner Life
+33:17,7,Nature & Creation
+33:18,7,Nature & Creation
+33:19,1,Prophethood & Revelation
+33:20,5,Justice & Law
+33:21,1,Prophethood & Revelation
+33:22,10,Spiritual & Inner Life
+33:23,1,Prophethood & Revelation
+33:24,1,Prophethood & Revelation
+33:25,1,Prophethood & Revelation
+33:26,5,Justice & Law
+33:27,1,Prophethood & Revelation
+33:28,1,Prophethood & Revelation
+33:29,1,Prophethood & Revelation
+33:30,1,Prophethood & Revelation
+33:31,1,Prophethood & Revelation
+33:32,1,Prophethood & Revelation
+33:33,1,Prophethood & Revelation
+33:34,10,Spiritual & Inner Life
+33:35,1,Prophethood & Revelation
+33:36,7,Nature & Creation
+33:37,1,Prophethood & Revelation
+33:38,1,Prophethood & Revelation
+33:39,1,Prophethood & Revelation
+33:40,1,Prophethood & Revelation
+33:41,1,Prophethood & Revelation
+33:42,0,Divine Attributes & Monotheism
+33:43,11,Community & Relations
+33:44,11,Community & Relations
+33:45,8,Historical Narratives
+33:46,1,Prophethood & Revelation
+33:47,1,Prophethood & Revelation
+33:48,1,Prophethood & Revelation
+33:49,1,Prophethood & Revelation
+33:50,1,Prophethood & Revelation
+33:51,1,Prophethood & Revelation
+33:52,1,Prophethood & Revelation
+33:53,1,Prophethood & Revelation
+33:54,1,Prophethood & Revelation
+33:55,1,Prophethood & Revelation
+33:56,1,Prophethood & Revelation
+33:57,7,Nature & Creation
+33:58,5,Justice & Law
+33:59,1,Prophethood & Revelation
+33:60,7,Nature & Creation
+33:61,5,Justice & Law
+33:62,1,Prophethood & Revelation
+33:63,10,Spiritual & Inner Life
+33:64,7,Nature & Creation
+33:65,9,Eschatology & Afterlife
+33:66,7,Nature & Creation
+33:67,5,Justice & Law
+33:68,9,Eschatology & Afterlife
+33:69,4,Ethics & Character
+33:70,1,Prophethood & Revelation
+33:71,1,Prophethood & Revelation
+33:72,5,Justice & Law
+33:73,1,Prophethood & Revelation
+34:1,1,Prophethood & Revelation
+34:2,0,Divine Attributes & Monotheism
+34:3,10,Spiritual & Inner Life
+34:4,11,Community & Relations
+34:5,9,Eschatology & Afterlife
+34:6,8,Historical Narratives
+34:7,5,Justice & Law
+34:8,7,Nature & Creation
+34:9,7,Nature & Creation
+34:10,4,Ethics & Character
+34:11,8,Historical Narratives
+34:12,4,Ethics & Character
+34:13,4,Ethics & Character
+34:14,4,Ethics & Character
+34:15,11,Community & Relations
+34:16,6,Economics & Society
+34:17,5,Justice & Law
+34:18,5,Justice & Law
+34:19,5,Justice & Law
+34:20,5,Justice & Law
+34:21,8,Historical Narratives
+34:22,7,Nature & Creation
+34:23,8,Historical Narratives
+34:24,10,Spiritual & Inner Life
+34:25,3,Worship & Devotion
+34:26,8,Historical Narratives
+34:27,10,Spiritual & Inner Life
+34:28,8,Historical Narratives
+34:29,3,Worship & Devotion
+34:30,3,Worship & Devotion
+34:31,5,Justice & Law
+34:32,5,Justice & Law
+34:33,5,Justice & Law
+34:34,5,Justice & Law
+34:35,3,Worship & Devotion
+34:36,11,Community & Relations
+34:37,11,Community & Relations
+34:38,9,Eschatology & Afterlife
+34:39,11,Community & Relations
+34:40,8,Historical Narratives
+34:41,7,Nature & Creation
+34:42,9,Eschatology & Afterlife
+34:43,5,Justice & Law
+34:44,7,Nature & Creation
+34:45,10,Spiritual & Inner Life
+34:46,10,Spiritual & Inner Life
+34:47,1,Prophethood & Revelation
+34:48,8,Historical Narratives
+34:49,5,Justice & Law
+34:50,8,Historical Narratives
+34:51,5,Justice & Law
+34:52,5,Justice & Law
+34:53,5,Justice & Law
+34:54,5,Justice & Law
+35:1,1,Prophethood & Revelation
+35:2,1,Prophethood & Revelation
+35:3,1,Prophethood & Revelation
+35:4,10,Spiritual & Inner Life
+35:5,1,Prophethood & Revelation
+35:6,5,Justice & Law
+35:7,9,Eschatology & Afterlife
+35:8,1,Prophethood & Revelation
+35:9,1,Prophethood & Revelation
+35:10,1,Prophethood & Revelation
+35:11,1,Prophethood & Revelation
+35:12,0,Divine Attributes & Monotheism
+35:13,1,Prophethood & Revelation
+35:14,5,Justice & Law
+35:15,1,Prophethood & Revelation
+35:16,0,Divine Attributes & Monotheism
+35:17,1,Prophethood & Revelation
+35:18,1,Prophethood & Revelation
+35:19,3,Worship & Devotion
+35:20,6,Economics & Society
+35:21,6,Economics & Society
+35:22,7,Nature & Creation
+35:23,10,Spiritual & Inner Life
+35:24,8,Historical Narratives
+35:25,5,Justice & Law
+35:26,5,Justice & Law
+35:27,1,Prophethood & Revelation
+35:28,1,Prophethood & Revelation
+35:29,1,Prophethood & Revelation
+35:30,11,Community & Relations
+35:31,10,Spiritual & Inner Life
+35:32,1,Prophethood & Revelation
+35:33,6,Economics & Society
+35:34,1,Prophethood & Revelation
+35:35,0,Divine Attributes & Monotheism
+35:36,9,Eschatology & Afterlife
+35:37,9,Eschatology & Afterlife
+35:38,1,Prophethood & Revelation
+35:39,5,Justice & Law
+35:40,10,Spiritual & Inner Life
+35:41,1,Prophethood & Revelation
+35:42,7,Nature & Creation
+35:43,7,Nature & Creation
+35:44,7,Nature & Creation
+35:45,1,Prophethood & Revelation
+36:1,3,Worship & Devotion
+36:2,10,Spiritual & Inner Life
+36:3,10,Spiritual & Inner Life
+36:4,8,Historical Narratives
+36:5,11,Community & Relations
+36:6,3,Worship & Devotion
+36:7,5,Justice & Law
+36:8,9,Eschatology & Afterlife
+36:9,3,Worship & Devotion
+36:10,5,Justice & Law
+36:11,11,Community & Relations
+36:12,0,Divine Attributes & Monotheism
+36:13,5,Justice & Law
+36:14,8,Historical Narratives
+36:15,5,Justice & Law
+36:16,8,Historical Narratives
+36:17,3,Worship & Devotion
+36:18,9,Eschatology & Afterlife
+36:19,5,Justice & Law
+36:20,8,Historical Narratives
+36:21,11,Community & Relations
+36:22,0,Divine Attributes & Monotheism
+36:23,8,Historical Narratives
+36:24,9,Eschatology & Afterlife
+36:25,11,Community & Relations
+36:26,11,Community & Relations
+36:27,11,Community & Relations
+36:28,5,Justice & Law
+36:29,5,Justice & Law
+36:30,5,Justice & Law
+36:31,5,Justice & Law
+36:32,3,Worship & Devotion
+36:33,6,Economics & Society
+36:34,6,Economics & Society
+36:35,6,Economics & Society
+36:36,0,Divine Attributes & Monotheism
+36:37,6,Economics & Society
+36:38,0,Divine Attributes & Monotheism
+36:39,6,Economics & Society
+36:40,6,Economics & Society
+36:41,8,Historical Narratives
+36:42,6,Economics & Society
+36:43,5,Justice & Law
+36:44,11,Community & Relations
+36:45,11,Community & Relations
+36:46,3,Worship & Devotion
+36:47,7,Nature & Creation
+36:48,3,Worship & Devotion
+36:49,3,Worship & Devotion
+36:50,9,Eschatology & Afterlife
+36:51,3,Worship & Devotion
+36:52,8,Historical Narratives
+36:53,3,Worship & Devotion
+36:54,3,Worship & Devotion
+36:55,11,Community & Relations
+36:56,6,Economics & Society
+36:57,6,Economics & Society
+36:58,11,Community & Relations
+36:59,9,Eschatology & Afterlife
+36:60,5,Justice & Law
+36:61,8,Historical Narratives
+36:62,0,Divine Attributes & Monotheism
+36:63,9,Eschatology & Afterlife
+36:64,9,Eschatology & Afterlife
+36:65,3,Worship & Devotion
+36:66,5,Justice & Law
+36:67,5,Justice & Law
+36:68,0,Divine Attributes & Monotheism
+36:69,10,Spiritual & Inner Life
+36:70,5,Justice & Law
+36:71,6,Economics & Society
+36:72,6,Economics & Society
+36:73,3,Worship & Devotion
+36:74,7,Nature & Creation
+36:75,5,Justice & Law
+36:76,3,Worship & Devotion
+36:77,0,Divine Attributes & Monotheism
+36:78,0,Divine Attributes & Monotheism
+36:79,0,Divine Attributes & Monotheism
+36:80,0,Divine Attributes & Monotheism
+36:81,0,Divine Attributes & Monotheism
+36:82,8,Historical Narratives
+36:83,0,Divine Attributes & Monotheism
+37:1,8,Historical Narratives
+37:2,6,Economics & Society
+37:3,8,Historical Narratives
+37:4,11,Community & Relations
+37:5,0,Divine Attributes & Monotheism
+37:6,6,Economics & Society
+37:7,9,Eschatology & Afterlife
+37:8,8,Historical Narratives
+37:9,9,Eschatology & Afterlife
+37:10,9,Eschatology & Afterlife
+37:11,10,Spiritual & Inner Life
+37:12,5,Justice & Law
+37:13,3,Worship & Devotion
+37:14,5,Justice & Law
+37:15,5,Justice & Law
+37:16,0,Divine Attributes & Monotheism
+37:17,8,Historical Narratives
+37:18,9,Eschatology & Afterlife
+37:19,3,Worship & Devotion
+37:20,9,Eschatology & Afterlife
+37:21,3,Worship & Devotion
+37:22,8,Historical Narratives
+37:23,7,Nature & Creation
+37:24,3,Worship & Devotion
+37:25,3,Worship & Devotion
+37:26,5,Justice & Law
+37:27,3,Worship & Devotion
+37:28,3,Worship & Devotion
+37:29,5,Justice & Law
+37:30,5,Justice & Law
+37:31,9,Eschatology & Afterlife
+37:32,5,Justice & Law
+37:33,9,Eschatology & Afterlife
+37:34,5,Justice & Law
+37:35,7,Nature & Creation
+37:36,8,Historical Narratives
+37:37,10,Spiritual & Inner Life
+37:38,9,Eschatology & Afterlife
+37:39,3,Worship & Devotion
+37:40,7,Nature & Creation
+37:41,3,Worship & Devotion
+37:42,6,Economics & Society
+37:43,6,Economics & Society
+37:44,3,Worship & Devotion
+37:45,6,Economics & Society
+37:46,6,Economics & Society
+37:47,6,Economics & Society
+37:48,3,Worship & Devotion
+37:49,6,Economics & Society
+37:50,3,Worship & Devotion
+37:51,8,Historical Narratives
+37:52,5,Justice & Law
+37:53,0,Divine Attributes & Monotheism
+37:54,8,Historical Narratives
+37:55,9,Eschatology & Afterlife
+37:56,1,Prophethood & Revelation
+37:57,9,Eschatology & Afterlife
+37:58,0,Divine Attributes & Monotheism
+37:59,3,Worship & Devotion
+37:60,11,Community & Relations
+37:61,3,Worship & Devotion
+37:62,6,Economics & Society
+37:63,5,Justice & Law
+37:64,9,Eschatology & Afterlife
+37:65,6,Economics & Society
+37:66,6,Economics & Society
+37:67,6,Economics & Society
+37:68,9,Eschatology & Afterlife
+37:69,8,Historical Narratives
+37:70,5,Justice & Law
+37:71,5,Justice & Law
+37:72,5,Justice & Law
+37:73,5,Justice & Law
+37:74,7,Nature & Creation
+37:75,4,Ethics & Character
+37:76,5,Justice & Law
+37:77,8,Historical Narratives
+37:78,8,Historical Narratives
+37:79,4,Ethics & Character
+37:80,11,Community & Relations
+37:81,8,Historical Narratives
+37:82,5,Justice & Law
+37:83,4,Ethics & Character
+37:84,8,Historical Narratives
+37:85,8,Historical Narratives
+37:86,7,Nature & Creation
+37:87,0,Divine Attributes & Monotheism
+37:88,0,Divine Attributes & Monotheism
+37:89,8,Historical Narratives
+37:90,8,Historical Narratives
+37:91,8,Historical Narratives
+37:92,3,Worship & Devotion
+37:93,5,Justice & Law
+37:94,8,Historical Narratives
+37:95,8,Historical Narratives
+37:96,1,Prophethood & Revelation
+37:97,9,Eschatology & Afterlife
+37:98,5,Justice & Law
+37:99,8,Historical Narratives
+37:100,11,Community & Relations
+37:101,8,Historical Narratives
+37:102,10,Spiritual & Inner Life
+37:103,5,Justice & Law
+37:104,4,Ethics & Character
+37:105,11,Community & Relations
+37:106,3,Worship & Devotion
+37:107,5,Justice & Law
+37:108,8,Historical Narratives
+37:109,4,Ethics & Character
+37:110,11,Community & Relations
+37:111,8,Historical Narratives
+37:112,4,Ethics & Character
+37:113,4,Ethics & Character
+37:114,4,Ethics & Character
+37:115,5,Justice & Law
+37:116,5,Justice & Law
+37:117,4,Ethics & Character
+37:118,8,Historical Narratives
+37:119,8,Historical Narratives
+37:120,4,Ethics & Character
+37:121,11,Community & Relations
+37:122,8,Historical Narratives
+37:123,4,Ethics & Character
+37:124,10,Spiritual & Inner Life
+37:125,0,Divine Attributes & Monotheism
+37:126,1,Prophethood & Revelation
+37:127,5,Justice & Law
+37:128,7,Nature & Creation
+37:129,8,Historical Narratives
+37:130,4,Ethics & Character
+37:131,11,Community & Relations
+37:132,8,Historical Narratives
+37:133,5,Justice & Law
+37:134,5,Justice & Law
+37:135,8,Historical Narratives
+37:136,5,Justice & Law
+37:137,6,Economics & Society
+37:138,6,Economics & Society
+37:139,4,Ethics & Character
+37:140,8,Historical Narratives
+37:141,5,Justice & Law
+37:142,5,Justice & Law
+37:143,10,Spiritual & Inner Life
+37:144,8,Historical Narratives
+37:145,5,Justice & Law
+37:146,6,Economics & Society
+37:147,8,Historical Narratives
+37:148,3,Worship & Devotion
+37:149,1,Prophethood & Revelation
+37:150,8,Historical Narratives
+37:151,5,Justice & Law
+37:152,7,Nature & Creation
+37:153,8,Historical Narratives
+37:154,3,Worship & Devotion
+37:155,3,Worship & Devotion
+37:156,8,Historical Narratives
+37:157,5,Justice & Law
+37:158,9,Eschatology & Afterlife
+37:159,1,Prophethood & Revelation
+37:160,7,Nature & Creation
+37:161,5,Justice & Law
+37:162,8,Historical Narratives
+37:163,9,Eschatology & Afterlife
+37:164,8,Historical Narratives
+37:165,11,Community & Relations
+37:166,1,Prophethood & Revelation
+37:167,5,Justice & Law
+37:168,8,Historical Narratives
+37:169,7,Nature & Creation
+37:170,5,Justice & Law
+37:171,8,Historical Narratives
+37:172,5,Justice & Law
+37:173,5,Justice & Law
+37:174,7,Nature & Creation
+37:175,3,Worship & Devotion
+37:176,9,Eschatology & Afterlife
+37:177,5,Justice & Law
+37:178,3,Worship & Devotion
+37:179,3,Worship & Devotion
+37:180,11,Community & Relations
+37:181,11,Community & Relations
+37:182,1,Prophethood & Revelation
+38:1,10,Spiritual & Inner Life
+38:2,5,Justice & Law
+38:3,5,Justice & Law
+38:4,5,Justice & Law
+38:5,0,Divine Attributes & Monotheism
+38:6,8,Historical Narratives
+38:7,5,Justice & Law
+38:8,8,Historical Narratives
+38:9,11,Community & Relations
+38:10,0,Divine Attributes & Monotheism
+38:11,5,Justice & Law
+38:12,4,Ethics & Character
+38:13,8,Historical Narratives
+38:14,5,Justice & Law
+38:15,3,Worship & Devotion
+38:16,9,Eschatology & Afterlife
+38:17,4,Ethics & Character
+38:18,10,Spiritual & Inner Life
+38:19,8,Historical Narratives
+38:20,8,Historical Narratives
+38:21,8,Historical Narratives
+38:22,4,Ethics & Character
+38:23,8,Historical Narratives
+38:24,4,Ethics & Character
+38:25,8,Historical Narratives
+38:26,10,Spiritual & Inner Life
+38:27,0,Divine Attributes & Monotheism
+38:28,7,Nature & Creation
+38:29,10,Spiritual & Inner Life
+38:30,4,Ethics & Character
+38:31,0,Divine Attributes & Monotheism
+38:32,8,Historical Narratives
+38:33,5,Justice & Law
+38:34,4,Ethics & Character
+38:35,11,Community & Relations
+38:36,0,Divine Attributes & Monotheism
+38:37,9,Eschatology & Afterlife
+38:38,9,Eschatology & Afterlife
+38:39,3,Worship & Devotion
+38:40,8,Historical Narratives
+38:41,8,Historical Narratives
+38:42,0,Divine Attributes & Monotheism
+38:43,8,Historical Narratives
+38:44,10,Spiritual & Inner Life
+38:45,4,Ethics & Character
+38:46,0,Divine Attributes & Monotheism
+38:47,11,Community & Relations
+38:48,7,Nature & Creation
+38:49,11,Community & Relations
+38:50,6,Economics & Society
+38:51,6,Economics & Society
+38:52,3,Worship & Devotion
+38:53,11,Community & Relations
+38:54,3,Worship & Devotion
+38:55,9,Eschatology & Afterlife
+38:56,9,Eschatology & Afterlife
+38:57,6,Economics & Society
+38:58,9,Eschatology & Afterlife
+38:59,9,Eschatology & Afterlife
+38:60,5,Justice & Law
+38:61,9,Eschatology & Afterlife
+38:62,5,Justice & Law
+38:63,5,Justice & Law
+38:64,9,Eschatology & Afterlife
+38:65,10,Spiritual & Inner Life
+38:66,0,Divine Attributes & Monotheism
+38:67,3,Worship & Devotion
+38:68,3,Worship & Devotion
+38:69,8,Historical Narratives
+38:70,8,Historical Narratives
+38:71,0,Divine Attributes & Monotheism
+38:72,0,Divine Attributes & Monotheism
+38:73,8,Historical Narratives
+38:74,5,Justice & Law
+38:75,10,Spiritual & Inner Life
+38:76,0,Divine Attributes & Monotheism
+38:77,7,Nature & Creation
+38:78,9,Eschatology & Afterlife
+38:79,8,Historical Narratives
+38:80,1,Prophethood & Revelation
+38:81,3,Worship & Devotion
+38:82,5,Justice & Law
+38:83,11,Community & Relations
+38:84,10,Spiritual & Inner Life
+38:85,9,Eschatology & Afterlife
+38:86,10,Spiritual & Inner Life
+38:87,3,Worship & Devotion
+38:88,3,Worship & Devotion
+39:1,10,Spiritual & Inner Life
+39:2,10,Spiritual & Inner Life
+39:3,7,Nature & Creation
+39:4,1,Prophethood & Revelation
+39:5,0,Divine Attributes & Monotheism
+39:6,1,Prophethood & Revelation
+39:7,10,Spiritual & Inner Life
+39:8,1,Prophethood & Revelation
+39:9,11,Community & Relations
+39:10,1,Prophethood & Revelation
+39:11,10,Spiritual & Inner Life
+39:12,10,Spiritual & Inner Life
+39:13,9,Eschatology & Afterlife
+39:14,10,Spiritual & Inner Life
+39:15,5,Justice & Law
+39:16,7,Nature & Creation
+39:17,1,Prophethood & Revelation
+39:18,7,Nature & Creation
+39:19,9,Eschatology & Afterlife
+39:20,1,Prophethood & Revelation
+39:21,1,Prophethood & Revelation
+39:22,7,Nature & Creation
+39:23,10,Spiritual & Inner Life
+39:24,9,Eschatology & Afterlife
+39:25,5,Justice & Law
+39:26,7,Nature & Creation
+39:27,10,Spiritual & Inner Life
+39:28,10,Spiritual & Inner Life
+39:29,1,Prophethood & Revelation
+39:30,9,Eschatology & Afterlife
+39:31,8,Historical Narratives
+39:32,7,Nature & Creation
+39:33,11,Community & Relations
+39:34,11,Community & Relations
+39:35,7,Nature & Creation
+39:36,1,Prophethood & Revelation
+39:37,1,Prophethood & Revelation
+39:38,10,Spiritual & Inner Life
+39:39,3,Worship & Devotion
+39:40,9,Eschatology & Afterlife
+39:41,8,Historical Narratives
+39:42,1,Prophethood & Revelation
+39:43,7,Nature & Creation
+39:44,1,Prophethood & Revelation
+39:45,7,Nature & Creation
+39:46,10,Spiritual & Inner Life
+39:47,7,Nature & Creation
+39:48,5,Justice & Law
+39:49,8,Historical Narratives
+39:50,9,Eschatology & Afterlife
+39:51,9,Eschatology & Afterlife
+39:52,7,Nature & Creation
+39:53,1,Prophethood & Revelation
+39:54,11,Community & Relations
+39:55,8,Historical Narratives
+39:56,7,Nature & Creation
+39:57,10,Spiritual & Inner Life
+39:58,9,Eschatology & Afterlife
+39:59,5,Justice & Law
+39:60,7,Nature & Creation
+39:61,1,Prophethood & Revelation
+39:62,1,Prophethood & Revelation
+39:63,7,Nature & Creation
+39:64,10,Spiritual & Inner Life
+39:65,1,Prophethood & Revelation
+39:66,1,Prophethood & Revelation
+39:67,7,Nature & Creation
+39:68,3,Worship & Devotion
+39:69,3,Worship & Devotion
+39:70,11,Community & Relations
+39:71,5,Justice & Law
+39:72,9,Eschatology & Afterlife
+39:73,11,Community & Relations
+39:74,1,Prophethood & Revelation
+39:75,1,Prophethood & Revelation
+40:1,6,Economics & Society
+40:2,10,Spiritual & Inner Life
+40:3,11,Community & Relations
+40:4,7,Nature & Creation
+40:5,4,Ethics & Character
+40:6,9,Eschatology & Afterlife
+40:7,1,Prophethood & Revelation
+40:8,11,Community & Relations
+40:9,11,Community & Relations
+40:10,7,Nature & Creation
+40:11,5,Justice & Law
+40:12,7,Nature & Creation
+40:13,0,Divine Attributes & Monotheism
+40:14,7,Nature & Creation
+40:15,0,Divine Attributes & Monotheism
+40:16,1,Prophethood & Revelation
+40:17,1,Prophethood & Revelation
+40:18,7,Nature & Creation
+40:19,3,Worship & Devotion
+40:20,1,Prophethood & Revelation
+40:21,7,Nature & Creation
+40:22,7,Nature & Creation
+40:23,4,Ethics & Character
+40:24,4,Ethics & Character
+40:25,5,Justice & Law
+40:26,4,Ethics & Character
+40:27,4,Ethics & Character
+40:28,7,Nature & Creation
+40:29,10,Spiritual & Inner Life
+40:30,9,Eschatology & Afterlife
+40:31,1,Prophethood & Revelation
+40:32,9,Eschatology & Afterlife
+40:33,7,Nature & Creation
+40:34,10,Spiritual & Inner Life
+40:35,7,Nature & Creation
+40:36,4,Ethics & Character
+40:37,4,Ethics & Character
+40:38,8,Historical Narratives
+40:39,0,Divine Attributes & Monotheism
+40:40,11,Community & Relations
+40:41,9,Eschatology & Afterlife
+40:42,1,Prophethood & Revelation
+40:43,10,Spiritual & Inner Life
+40:44,10,Spiritual & Inner Life
+40:45,7,Nature & Creation
+40:46,9,Eschatology & Afterlife
+40:47,9,Eschatology & Afterlife
+40:48,7,Nature & Creation
+40:49,9,Eschatology & Afterlife
+40:50,5,Justice & Law
+40:51,8,Historical Narratives
+40:52,9,Eschatology & Afterlife
+40:53,4,Ethics & Character
+40:54,3,Worship & Devotion
+40:55,1,Prophethood & Revelation
+40:56,7,Nature & Creation
+40:57,0,Divine Attributes & Monotheism
+40:58,3,Worship & Devotion
+40:59,3,Worship & Devotion
+40:60,9,Eschatology & Afterlife
+40:61,1,Prophethood & Revelation
+40:62,1,Prophethood & Revelation
+40:63,7,Nature & Creation
+40:64,1,Prophethood & Revelation
+40:65,1,Prophethood & Revelation
+40:66,10,Spiritual & Inner Life
+40:67,0,Divine Attributes & Monotheism
+40:68,0,Divine Attributes & Monotheism
+40:69,7,Nature & Creation
+40:70,5,Justice & Law
+40:71,9,Eschatology & Afterlife
+40:72,9,Eschatology & Afterlife
+40:73,8,Historical Narratives
+40:74,7,Nature & Creation
+40:75,8,Historical Narratives
+40:76,9,Eschatology & Afterlife
+40:77,1,Prophethood & Revelation
+40:78,10,Spiritual & Inner Life
+40:79,1,Prophethood & Revelation
+40:80,11,Community & Relations
+40:81,10,Spiritual & Inner Life
+40:82,5,Justice & Law
+40:83,5,Justice & Law
+40:84,7,Nature & Creation
+40:85,7,Nature & Creation
+41:1,6,Economics & Society
+41:2,11,Community & Relations
+41:3,10,Spiritual & Inner Life
+41:4,3,Worship & Devotion
+41:5,3,Worship & Devotion
+41:6,10,Spiritual & Inner Life
+41:7,7,Nature & Creation
+41:8,11,Community & Relations
+41:9,0,Divine Attributes & Monotheism
+41:10,0,Divine Attributes & Monotheism
+41:11,8,Historical Narratives
+41:12,0,Divine Attributes & Monotheism
+41:13,5,Justice & Law
+41:14,10,Spiritual & Inner Life
+41:15,7,Nature & Creation
+41:16,9,Eschatology & Afterlife
+41:17,5,Justice & Law
+41:18,7,Nature & Creation
+41:19,10,Spiritual & Inner Life
+41:20,3,Worship & Devotion
+41:21,10,Spiritual & Inner Life
+41:22,10,Spiritual & Inner Life
+41:23,5,Justice & Law
+41:24,7,Nature & Creation
+41:25,9,Eschatology & Afterlife
+41:26,10,Spiritual & Inner Life
+41:27,9,Eschatology & Afterlife
+41:28,7,Nature & Creation
+41:29,5,Justice & Law
+41:30,1,Prophethood & Revelation
+41:31,8,Historical Narratives
+41:32,11,Community & Relations
+41:33,10,Spiritual & Inner Life
+41:34,11,Community & Relations
+41:35,11,Community & Relations
+41:36,1,Prophethood & Revelation
+41:37,1,Prophethood & Revelation
+41:38,11,Community & Relations
+41:39,0,Divine Attributes & Monotheism
+41:40,9,Eschatology & Afterlife
+41:41,5,Justice & Law
+41:42,5,Justice & Law
+41:43,10,Spiritual & Inner Life
+41:44,10,Spiritual & Inner Life
+41:45,4,Ethics & Character
+41:46,11,Community & Relations
+41:47,0,Divine Attributes & Monotheism
+41:48,9,Eschatology & Afterlife
+41:49,8,Historical Narratives
+41:50,8,Historical Narratives
+41:51,8,Historical Narratives
+41:52,7,Nature & Creation
+41:53,8,Historical Narratives
+41:54,8,Historical Narratives
+42:1,6,Economics & Society
+42:2,10,Spiritual & Inner Life
+42:3,10,Spiritual & Inner Life
+42:4,0,Divine Attributes & Monotheism
+42:5,1,Prophethood & Revelation
+42:6,7,Nature & Creation
+42:7,10,Spiritual & Inner Life
+42:8,7,Nature & Creation
+42:9,1,Prophethood & Revelation
+42:10,10,Spiritual & Inner Life
+42:11,0,Divine Attributes & Monotheism
+42:12,0,Divine Attributes & Monotheism
+42:13,1,Prophethood & Revelation
+42:14,5,Justice & Law
+42:15,1,Prophethood & Revelation
+42:16,7,Nature & Creation
+42:17,1,Prophethood & Revelation
+42:18,3,Worship & Devotion
+42:19,1,Prophethood & Revelation
+42:20,6,Economics & Society
+42:21,7,Nature & Creation
+42:22,11,Community & Relations
+42:23,1,Prophethood & Revelation
+42:24,7,Nature & Creation
+42:25,11,Community & Relations
+42:26,11,Community & Relations
+42:27,1,Prophethood & Revelation
+42:28,11,Community & Relations
+42:29,0,Divine Attributes & Monotheism
+42:30,11,Community & Relations
+42:31,1,Prophethood & Revelation
+42:32,0,Divine Attributes & Monotheism
+42:33,0,Divine Attributes & Monotheism
+42:34,9,Eschatology & Afterlife
+42:35,3,Worship & Devotion
+42:36,1,Prophethood & Revelation
+42:37,11,Community & Relations
+42:38,11,Community & Relations
+42:39,9,Eschatology & Afterlife
+42:40,1,Prophethood & Revelation
+42:41,9,Eschatology & Afterlife
+42:42,9,Eschatology & Afterlife
+42:43,11,Community & Relations
+42:44,7,Nature & Creation
+42:45,9,Eschatology & Afterlife
+42:46,7,Nature & Creation
+42:47,1,Prophethood & Revelation
+42:48,10,Spiritual & Inner Life
+42:49,1,Prophethood & Revelation
+42:50,0,Divine Attributes & Monotheism
+42:51,1,Prophethood & Revelation
+42:52,10,Spiritual & Inner Life
+42:53,1,Prophethood & Revelation
+43:1,6,Economics & Society
+43:2,10,Spiritual & Inner Life
+43:3,10,Spiritual & Inner Life
+43:4,8,Historical Narratives
+43:5,5,Justice & Law
+43:6,10,Spiritual & Inner Life
+43:7,5,Justice & Law
+43:8,5,Justice & Law
+43:9,0,Divine Attributes & Monotheism
+43:10,0,Divine Attributes & Monotheism
+43:11,6,Economics & Society
+43:12,0,Divine Attributes & Monotheism
+43:13,11,Community & Relations
+43:14,3,Worship & Devotion
+43:15,11,Community & Relations
+43:16,8,Historical Narratives
+43:17,8,Historical Narratives
+43:18,7,Nature & Creation
+43:19,8,Historical Narratives
+43:20,5,Justice & Law
+43:21,7,Nature & Creation
+43:22,8,Historical Narratives
+43:23,5,Justice & Law
+43:24,5,Justice & Law
+43:25,5,Justice & Law
+43:26,10,Spiritual & Inner Life
+43:27,0,Divine Attributes & Monotheism
+43:28,8,Historical Narratives
+43:29,10,Spiritual & Inner Life
+43:30,5,Justice & Law
+43:31,10,Spiritual & Inner Life
+43:32,11,Community & Relations
+43:33,5,Justice & Law
+43:34,6,Economics & Society
+43:35,11,Community & Relations
+43:36,8,Historical Narratives
+43:37,5,Justice & Law
+43:38,8,Historical Narratives
+43:39,9,Eschatology & Afterlife
+43:40,7,Nature & Creation
+43:41,9,Eschatology & Afterlife
+43:42,3,Worship & Devotion
+43:43,8,Historical Narratives
+43:44,3,Worship & Devotion
+43:45,8,Historical Narratives
+43:46,4,Ethics & Character
+43:47,5,Justice & Law
+43:48,5,Justice & Law
+43:49,4,Ethics & Character
+43:50,5,Justice & Law
+43:51,4,Ethics & Character
+43:52,8,Historical Narratives
+43:53,8,Historical Narratives
+43:54,7,Nature & Creation
+43:55,5,Justice & Law
+43:56,8,Historical Narratives
+43:57,8,Historical Narratives
+43:58,5,Justice & Law
+43:59,4,Ethics & Character
+43:60,8,Historical Narratives
+43:61,8,Historical Narratives
+43:62,5,Justice & Law
+43:63,10,Spiritual & Inner Life
+43:64,1,Prophethood & Revelation
+43:65,5,Justice & Law
+43:66,3,Worship & Devotion
+43:67,5,Justice & Law
+43:68,1,Prophethood & Revelation
+43:69,10,Spiritual & Inner Life
+43:70,11,Community & Relations
+43:71,11,Community & Relations
+43:72,11,Community & Relations
+43:73,6,Economics & Society
+43:74,9,Eschatology & Afterlife
+43:75,9,Eschatology & Afterlife
+43:76,5,Justice & Law
+43:77,5,Justice & Law
+43:78,5,Justice & Law
+43:79,5,Justice & Law
+43:80,3,Worship & Devotion
+43:81,1,Prophethood & Revelation
+43:82,0,Divine Attributes & Monotheism
+43:83,3,Worship & Devotion
+43:84,1,Prophethood & Revelation
+43:85,0,Divine Attributes & Monotheism
+43:86,8,Historical Narratives
+43:87,7,Nature & Creation
+43:88,7,Nature & Creation
+43:89,3,Worship & Devotion
+44:1,6,Economics & Society
+44:2,10,Spiritual & Inner Life
+44:3,5,Justice & Law
+44:4,6,Economics & Society
+44:5,8,Historical Narratives
+44:6,11,Community & Relations
+44:7,0,Divine Attributes & Monotheism
+44:8,0,Divine Attributes & Monotheism
+44:9,3,Worship & Devotion
+44:10,6,Economics & Society
+44:11,9,Eschatology & Afterlife
+44:12,5,Justice & Law
+44:13,5,Justice & Law
+44:14,8,Historical Narratives
+44:15,5,Justice & Law
+44:16,9,Eschatology & Afterlife
+44:17,4,Ethics & Character
+44:18,10,Spiritual & Inner Life
+44:19,10,Spiritual & Inner Life
+44:20,11,Community & Relations
+44:21,5,Justice & Law
+44:22,5,Justice & Law
+44:23,7,Nature & Creation
+44:24,5,Justice & Law
+44:25,6,Economics & Society
+44:26,6,Economics & Society
+44:27,3,Worship & Devotion
+44:28,8,Historical Narratives
+44:29,5,Justice & Law
+44:30,4,Ethics & Character
+44:31,4,Ethics & Character
+44:32,8,Historical Narratives
+44:33,8,Historical Narratives
+44:34,5,Justice & Law
+44:35,0,Divine Attributes & Monotheism
+44:36,3,Worship & Devotion
+44:37,5,Justice & Law
+44:38,0,Divine Attributes & Monotheism
+44:39,0,Divine Attributes & Monotheism
+44:40,3,Worship & Devotion
+44:41,3,Worship & Devotion
+44:42,1,Prophethood & Revelation
+44:43,6,Economics & Society
+44:44,9,Eschatology & Afterlife
+44:45,6,Economics & Society
+44:46,6,Economics & Society
+44:47,9,Eschatology & Afterlife
+44:48,6,Economics & Society
+44:49,11,Community & Relations
+44:50,3,Worship & Devotion
+44:51,11,Community & Relations
+44:52,6,Economics & Society
+44:53,3,Worship & Devotion
+44:54,3,Worship & Devotion
+44:55,6,Economics & Society
+44:56,9,Eschatology & Afterlife
+44:57,11,Community & Relations
+44:58,10,Spiritual & Inner Life
+44:59,10,Spiritual & Inner Life
+45:1,6,Economics & Society
+45:2,10,Spiritual & Inner Life
+45:3,3,Worship & Devotion
+45:4,0,Divine Attributes & Monotheism
+45:5,1,Prophethood & Revelation
+45:6,10,Spiritual & Inner Life
+45:7,5,Justice & Law
+45:8,7,Nature & Creation
+45:9,5,Justice & Law
+45:10,7,Nature & Creation
+45:11,7,Nature & Creation
+45:12,1,Prophethood & Revelation
+45:13,0,Divine Attributes & Monotheism
+45:14,1,Prophethood & Revelation
+45:15,11,Community & Relations
+45:16,4,Ethics & Character
+45:17,5,Justice & Law
+45:18,10,Spiritual & Inner Life
+45:19,7,Nature & Creation
+45:20,10,Spiritual & Inner Life
+45:21,9,Eschatology & Afterlife
+45:22,1,Prophethood & Revelation
+45:23,10,Spiritual & Inner Life
+45:24,0,Divine Attributes & Monotheism
+45:25,5,Justice & Law
+45:26,10,Spiritual & Inner Life
+45:27,1,Prophethood & Revelation
+45:28,3,Worship & Devotion
+45:29,5,Justice & Law
+45:30,11,Community & Relations
+45:31,5,Justice & Law
+45:32,10,Spiritual & Inner Life
+45:33,5,Justice & Law
+45:34,9,Eschatology & Afterlife
+45:35,7,Nature & Creation
+45:36,1,Prophethood & Revelation
+45:37,0,Divine Attributes & Monotheism
+46:1,6,Economics & Society
+46:2,10,Spiritual & Inner Life
+46:3,0,Divine Attributes & Monotheism
+46:4,10,Spiritual & Inner Life
+46:5,7,Nature & Creation
+46:6,9,Eschatology & Afterlife
+46:7,5,Justice & Law
+46:8,7,Nature & Creation
+46:9,8,Historical Narratives
+46:10,7,Nature & Creation
+46:11,5,Justice & Law
+46:12,4,Ethics & Character
+46:13,1,Prophethood & Revelation
+46:14,11,Community & Relations
+46:15,8,Historical Narratives
+46:16,11,Community & Relations
+46:17,10,Spiritual & Inner Life
+46:18,9,Eschatology & Afterlife
+46:19,9,Eschatology & Afterlife
+46:20,9,Eschatology & Afterlife
+46:21,10,Spiritual & Inner Life
+46:22,5,Justice & Law
+46:23,10,Spiritual & Inner Life
+46:24,5,Justice & Law
+46:25,5,Justice & Law
+46:26,7,Nature & Creation
+46:27,5,Justice & Law
+46:28,7,Nature & Creation
+46:29,10,Spiritual & Inner Life
+46:30,4,Ethics & Character
+46:31,1,Prophethood & Revelation
+46:32,7,Nature & Creation
+46:33,1,Prophethood & Revelation
+46:34,9,Eschatology & Afterlife
+46:35,10,Spiritual & Inner Life
+47:1,7,Nature & Creation
+47:2,7,Nature & Creation
+47:3,7,Nature & Creation
+47:4,7,Nature & Creation
+47:5,8,Historical Narratives
+47:6,11,Community & Relations
+47:7,1,Prophethood & Revelation
+47:8,5,Justice & Law
+47:9,7,Nature & Creation
+47:10,7,Nature & Creation
+47:11,7,Nature & Creation
+47:12,1,Prophethood & Revelation
+47:13,10,Spiritual & Inner Life
+47:14,8,Historical Narratives
+47:15,11,Community & Relations
+47:16,10,Spiritual & Inner Life
+47:17,11,Community & Relations
+47:18,3,Worship & Devotion
+47:19,1,Prophethood & Revelation
+47:20,7,Nature & Creation
+47:21,7,Nature & Creation
+47:22,5,Justice & Law
+47:23,7,Nature & Creation
+47:24,7,Nature & Creation
+47:25,5,Justice & Law
+47:26,7,Nature & Creation
+47:27,9,Eschatology & Afterlife
+47:28,7,Nature & Creation
+47:29,7,Nature & Creation
+47:30,10,Spiritual & Inner Life
+47:31,1,Prophethood & Revelation
+47:32,7,Nature & Creation
+47:33,1,Prophethood & Revelation
+47:34,7,Nature & Creation
+47:35,1,Prophethood & Revelation
+47:36,1,Prophethood & Revelation
+47:37,8,Historical Narratives
+47:38,1,Prophethood & Revelation
+48:1,1,Prophethood & Revelation
+48:2,1,Prophethood & Revelation
+48:3,1,Prophethood & Revelation
+48:4,1,Prophethood & Revelation
+48:5,1,Prophethood & Revelation
+48:6,7,Nature & Creation
+48:7,1,Prophethood & Revelation
+48:8,8,Historical Narratives
+48:9,1,Prophethood & Revelation
+48:10,1,Prophethood & Revelation
+48:11,7,Nature & Creation
+48:12,5,Justice & Law
+48:13,7,Nature & Creation
+48:14,1,Prophethood & Revelation
+48:15,7,Nature & Creation
+48:16,7,Nature & Creation
+48:17,1,Prophethood & Revelation
+48:18,1,Prophethood & Revelation
+48:19,1,Prophethood & Revelation
+48:20,1,Prophethood & Revelation
+48:21,1,Prophethood & Revelation
+48:22,7,Nature & Creation
+48:23,1,Prophethood & Revelation
+48:24,10,Spiritual & Inner Life
+48:25,7,Nature & Creation
+48:26,7,Nature & Creation
+48:27,1,Prophethood & Revelation
+48:28,1,Prophethood & Revelation
+48:29,10,Spiritual & Inner Life
+49:1,1,Prophethood & Revelation
+49:2,1,Prophethood & Revelation
+49:3,1,Prophethood & Revelation
+49:4,10,Spiritual & Inner Life
+49:5,1,Prophethood & Revelation
+49:6,5,Justice & Law
+49:7,1,Prophethood & Revelation
+49:8,1,Prophethood & Revelation
+49:9,1,Prophethood & Revelation
+49:10,1,Prophethood & Revelation
+49:11,5,Justice & Law
+49:12,1,Prophethood & Revelation
+49:13,1,Prophethood & Revelation
+49:14,10,Spiritual & Inner Life
+49:15,1,Prophethood & Revelation
+49:16,1,Prophethood & Revelation
+49:17,7,Nature & Creation
+49:18,1,Prophethood & Revelation
+50:1,10,Spiritual & Inner Life
+50:2,5,Justice & Law
+50:3,0,Divine Attributes & Monotheism
+50:4,6,Economics & Society
+50:5,5,Justice & Law
+50:6,0,Divine Attributes & Monotheism
+50:7,6,Economics & Society
+50:8,1,Prophethood & Revelation
+50:9,6,Economics & Society
+50:10,6,Economics & Society
+50:11,0,Divine Attributes & Monotheism
+50:12,4,Ethics & Character
+50:13,4,Ethics & Character
+50:14,5,Justice & Law
+50:15,0,Divine Attributes & Monotheism
+50:16,0,Divine Attributes & Monotheism
+50:17,3,Worship & Devotion
+50:18,8,Historical Narratives
+50:19,3,Worship & Devotion
+50:20,3,Worship & Devotion
+50:21,3,Worship & Devotion
+50:22,3,Worship & Devotion
+50:23,8,Historical Narratives
+50:24,7,Nature & Creation
+50:25,11,Community & Relations
+50:26,7,Nature & Creation
+50:27,8,Historical Narratives
+50:28,10,Spiritual & Inner Life
+50:29,3,Worship & Devotion
+50:30,9,Eschatology & Afterlife
+50:31,11,Community & Relations
+50:32,1,Prophethood & Revelation
+50:33,8,Historical Narratives
+50:34,3,Worship & Devotion
+50:35,3,Worship & Devotion
+50:36,5,Justice & Law
+50:37,3,Worship & Devotion
+50:38,0,Divine Attributes & Monotheism
+50:39,1,Prophethood & Revelation
+50:40,0,Divine Attributes & Monotheism
+50:41,3,Worship & Devotion
+50:42,3,Worship & Devotion
+50:43,0,Divine Attributes & Monotheism
+50:44,6,Economics & Society
+50:45,7,Nature & Creation
+51:1,6,Economics & Society
+51:2,6,Economics & Society
+51:3,0,Divine Attributes & Monotheism
+51:4,8,Historical Narratives
+51:5,3,Worship & Devotion
+51:6,3,Worship & Devotion
+51:7,6,Economics & Society
+51:8,3,Worship & Devotion
+51:9,7,Nature & Creation
+51:10,5,Justice & Law
+51:11,3,Worship & Devotion
+51:12,3,Worship & Devotion
+51:13,9,Eschatology & Afterlife
+51:14,9,Eschatology & Afterlife
+51:15,11,Community & Relations
+51:16,11,Community & Relations
+51:17,3,Worship & Devotion
+51:18,8,Historical Narratives
+51:19,11,Community & Relations
+51:20,3,Worship & Devotion
+51:21,3,Worship & Devotion
+51:22,11,Community & Relations
+51:23,8,Historical Narratives
+51:24,4,Ethics & Character
+51:25,8,Historical Narratives
+51:26,8,Historical Narratives
+51:27,8,Historical Narratives
+51:28,8,Historical Narratives
+51:29,8,Historical Narratives
+51:30,8,Historical Narratives
+51:31,4,Ethics & Character
+51:32,9,Eschatology & Afterlife
+51:33,5,Justice & Law
+51:34,11,Community & Relations
+51:35,5,Justice & Law
+51:36,7,Nature & Creation
+51:37,9,Eschatology & Afterlife
+51:38,4,Ethics & Character
+51:39,8,Historical Narratives
+51:40,5,Justice & Law
+51:41,5,Justice & Law
+51:42,5,Justice & Law
+51:43,3,Worship & Devotion
+51:44,5,Justice & Law
+51:45,5,Justice & Law
+51:46,4,Ethics & Character
+51:47,0,Divine Attributes & Monotheism
+51:48,6,Economics & Society
+51:49,0,Divine Attributes & Monotheism
+51:50,1,Prophethood & Revelation
+51:51,1,Prophethood & Revelation
+51:52,5,Justice & Law
+51:53,5,Justice & Law
+51:54,7,Nature & Creation
+51:55,3,Worship & Devotion
+51:56,0,Divine Attributes & Monotheism
+51:57,3,Worship & Devotion
+51:58,1,Prophethood & Revelation
+51:59,9,Eschatology & Afterlife
+51:60,5,Justice & Law
+52:1,6,Economics & Society
+52:2,3,Worship & Devotion
+52:3,6,Economics & Society
+52:4,6,Economics & Society
+52:5,0,Divine Attributes & Monotheism
+52:6,9,Eschatology & Afterlife
+52:7,9,Eschatology & Afterlife
+52:8,3,Worship & Devotion
+52:9,6,Economics & Society
+52:10,6,Economics & Society
+52:11,5,Justice & Law
+52:12,3,Worship & Devotion
+52:13,9,Eschatology & Afterlife
+52:14,9,Eschatology & Afterlife
+52:15,5,Justice & Law
+52:16,9,Eschatology & Afterlife
+52:17,11,Community & Relations
+52:18,9,Eschatology & Afterlife
+52:19,3,Worship & Devotion
+52:20,3,Worship & Devotion
+52:21,11,Community & Relations
+52:22,6,Economics & Society
+52:23,6,Economics & Society
+52:24,6,Economics & Society
+52:25,3,Worship & Devotion
+52:26,7,Nature & Creation
+52:27,7,Nature & Creation
+52:28,8,Historical Narratives
+52:29,10,Spiritual & Inner Life
+52:30,8,Historical Narratives
+52:31,8,Historical Narratives
+52:32,3,Worship & Devotion
+52:33,5,Justice & Law
+52:34,3,Worship & Devotion
+52:35,0,Divine Attributes & Monotheism
+52:36,0,Divine Attributes & Monotheism
+52:37,11,Community & Relations
+52:38,8,Historical Narratives
+52:39,8,Historical Narratives
+52:40,1,Prophethood & Revelation
+52:41,3,Worship & Devotion
+52:42,5,Justice & Law
+52:43,7,Nature & Creation
+52:44,6,Economics & Society
+52:45,3,Worship & Devotion
+52:46,9,Eschatology & Afterlife
+52:47,9,Eschatology & Afterlife
+52:48,1,Prophethood & Revelation
+52:49,0,Divine Attributes & Monotheism
+53:1,6,Economics & Society
+53:2,10,Spiritual & Inner Life
+53:3,8,Historical Narratives
+53:4,8,Historical Narratives
+53:5,8,Historical Narratives
+53:6,8,Historical Narratives
+53:7,0,Divine Attributes & Monotheism
+53:8,8,Historical Narratives
+53:9,3,Worship & Devotion
+53:10,8,Historical Narratives
+53:11,8,Historical Narratives
+53:12,8,Historical Narratives
+53:13,8,Historical Narratives
+53:14,6,Economics & Society
+53:15,6,Economics & Society
+53:16,6,Economics & Society
+53:17,10,Spiritual & Inner Life
+53:18,8,Historical Narratives
+53:19,10,Spiritual & Inner Life
+53:20,6,Economics & Society
+53:21,0,Divine Attributes & Monotheism
+53:22,9,Eschatology & Afterlife
+53:23,7,Nature & Creation
+53:24,8,Historical Narratives
+53:25,1,Prophethood & Revelation
+53:26,1,Prophethood & Revelation
+53:27,8,Historical Narratives
+53:28,5,Justice & Law
+53:29,5,Justice & Law
+53:30,8,Historical Narratives
+53:31,1,Prophethood & Revelation
+53:32,11,Community & Relations
+53:33,8,Historical Narratives
+53:34,8,Historical Narratives
+53:35,0,Divine Attributes & Monotheism
+53:36,4,Ethics & Character
+53:37,4,Ethics & Character
+53:38,3,Worship & Devotion
+53:39,8,Historical Narratives
+53:40,8,Historical Narratives
+53:41,9,Eschatology & Afterlife
+53:42,11,Community & Relations
+53:43,8,Historical Narratives
+53:44,0,Divine Attributes & Monotheism
+53:45,0,Divine Attributes & Monotheism
+53:46,0,Divine Attributes & Monotheism
+53:47,0,Divine Attributes & Monotheism
+53:48,0,Divine Attributes & Monotheism
+53:49,0,Divine Attributes & Monotheism
+53:50,5,Justice & Law
+53:51,5,Justice & Law
+53:52,4,Ethics & Character
+53:53,5,Justice & Law
+53:54,8,Historical Narratives
+53:55,2,Faith & Belief
+53:56,8,Historical Narratives
+53:57,3,Worship & Devotion
+53:58,7,Nature & Creation
+53:59,3,Worship & Devotion
+53:60,3,Worship & Devotion
+53:61,11,Community & Relations
+53:62,1,Prophethood & Revelation
+54:1,6,Economics & Society
+54:2,5,Justice & Law
+54:3,5,Justice & Law
+54:4,5,Justice & Law
+54:5,3,Worship & Devotion
+54:6,7,Nature & Creation
+54:7,3,Worship & Devotion
+54:8,3,Worship & Devotion
+54:9,4,Ethics & Character
+54:10,8,Historical Narratives
+54:11,6,Economics & Society
+54:12,6,Economics & Society
+54:13,8,Historical Narratives
+54:14,5,Justice & Law
+54:15,3,Worship & Devotion
+54:16,9,Eschatology & Afterlife
+54:17,10,Spiritual & Inner Life
+54:18,9,Eschatology & Afterlife
+54:19,5,Justice & Law
+54:20,5,Justice & Law
+54:21,9,Eschatology & Afterlife
+54:22,10,Spiritual & Inner Life
+54:23,5,Justice & Law
+54:24,8,Historical Narratives
+54:25,5,Justice & Law
+54:26,5,Justice & Law
+54:27,6,Economics & Society
+54:28,6,Economics & Society
+54:29,8,Historical Narratives
+54:30,9,Eschatology & Afterlife
+54:31,5,Justice & Law
+54:32,10,Spiritual & Inner Life
+54:33,5,Justice & Law
+54:34,5,Justice & Law
+54:35,11,Community & Relations
+54:36,5,Justice & Law
+54:37,5,Justice & Law
+54:38,9,Eschatology & Afterlife
+54:39,9,Eschatology & Afterlife
+54:40,10,Spiritual & Inner Life
+54:41,4,Ethics & Character
+54:42,5,Justice & Law
+54:43,5,Justice & Law
+54:44,3,Worship & Devotion
+54:45,5,Justice & Law
+54:46,9,Eschatology & Afterlife
+54:47,9,Eschatology & Afterlife
+54:48,9,Eschatology & Afterlife
+54:49,0,Divine Attributes & Monotheism
+54:50,3,Worship & Devotion
+54:51,5,Justice & Law
+54:52,3,Worship & Devotion
+54:53,3,Worship & Devotion
+54:54,11,Community & Relations
+54:55,0,Divine Attributes & Monotheism
+55:1,11,Community & Relations
+55:2,10,Spiritual & Inner Life
+55:3,0,Divine Attributes & Monotheism
+55:4,8,Historical Narratives
+55:5,6,Economics & Society
+55:6,6,Economics & Society
+55:7,0,Divine Attributes & Monotheism
+55:8,3,Worship & Devotion
+55:9,3,Worship & Devotion
+55:10,0,Divine Attributes & Monotheism
+55:11,6,Economics & Society
+55:12,6,Economics & Society
+55:13,2,Faith & Belief
+55:14,0,Divine Attributes & Monotheism
+55:15,9,Eschatology & Afterlife
+55:16,2,Faith & Belief
+55:17,0,Divine Attributes & Monotheism
+55:18,2,Faith & Belief
+55:19,8,Historical Narratives
+55:20,3,Worship & Devotion
+55:21,2,Faith & Belief
+55:22,6,Economics & Society
+55:23,2,Faith & Belief
+55:24,0,Divine Attributes & Monotheism
+55:25,2,Faith & Belief
+55:26,9,Eschatology & Afterlife
+55:27,11,Community & Relations
+55:28,2,Faith & Belief
+55:29,0,Divine Attributes & Monotheism
+55:30,2,Faith & Belief
+55:31,3,Worship & Devotion
+55:32,2,Faith & Belief
+55:33,10,Spiritual & Inner Life
+55:34,2,Faith & Belief
+55:35,9,Eschatology & Afterlife
+55:36,2,Faith & Belief
+55:37,6,Economics & Society
+55:38,2,Faith & Belief
+55:39,9,Eschatology & Afterlife
+55:40,2,Faith & Belief
+55:41,9,Eschatology & Afterlife
+55:42,2,Faith & Belief
+55:43,9,Eschatology & Afterlife
+55:44,6,Economics & Society
+55:45,2,Faith & Belief
+55:46,8,Historical Narratives
+55:47,2,Faith & Belief
+55:48,6,Economics & Society
+55:49,2,Faith & Belief
+55:50,6,Economics & Society
+55:51,2,Faith & Belief
+55:52,6,Economics & Society
+55:53,2,Faith & Belief
+55:54,6,Economics & Society
+55:55,2,Faith & Belief
+55:56,3,Worship & Devotion
+55:57,2,Faith & Belief
+55:58,6,Economics & Society
+55:59,2,Faith & Belief
+55:60,11,Community & Relations
+55:61,2,Faith & Belief
+55:62,6,Economics & Society
+55:63,2,Faith & Belief
+55:64,6,Economics & Society
+55:65,2,Faith & Belief
+55:66,6,Economics & Society
+55:67,2,Faith & Belief
+55:68,6,Economics & Society
+55:69,2,Faith & Belief
+55:70,3,Worship & Devotion
+55:71,2,Faith & Belief
+55:72,6,Economics & Society
+55:73,2,Faith & Belief
+55:74,9,Eschatology & Afterlife
+55:75,2,Faith & Belief
+55:76,6,Economics & Society
+55:77,2,Faith & Belief
+55:78,11,Community & Relations
+56:1,3,Worship & Devotion
+56:2,3,Worship & Devotion
+56:3,3,Worship & Devotion
+56:4,6,Economics & Society
+56:5,6,Economics & Society
+56:6,6,Economics & Society
+56:7,0,Divine Attributes & Monotheism
+56:8,3,Worship & Devotion
+56:9,3,Worship & Devotion
+56:10,8,Historical Narratives
+56:11,7,Nature & Creation
+56:12,6,Economics & Society
+56:13,8,Historical Narratives
+56:14,8,Historical Narratives
+56:15,6,Economics & Society
+56:16,3,Worship & Devotion
+56:17,6,Economics & Society
+56:18,6,Economics & Society
+56:19,6,Economics & Society
+56:20,6,Economics & Society
+56:21,6,Economics & Society
+56:22,3,Worship & Devotion
+56:23,6,Economics & Society
+56:24,3,Worship & Devotion
+56:25,3,Worship & Devotion
+56:26,11,Community & Relations
+56:27,3,Worship & Devotion
+56:28,6,Economics & Society
+56:29,6,Economics & Society
+56:30,6,Economics & Society
+56:31,6,Economics & Society
+56:32,6,Economics & Society
+56:33,3,Worship & Devotion
+56:34,6,Economics & Society
+56:35,11,Community & Relations
+56:36,5,Justice & Law
+56:37,3,Worship & Devotion
+56:38,3,Worship & Devotion
+56:39,8,Historical Narratives
+56:40,8,Historical Narratives
+56:41,3,Worship & Devotion
+56:42,9,Eschatology & Afterlife
+56:43,6,Economics & Society
+56:44,6,Economics & Society
+56:45,5,Justice & Law
+56:46,5,Justice & Law
+56:47,0,Divine Attributes & Monotheism
+56:48,8,Historical Narratives
+56:49,10,Spiritual & Inner Life
+56:50,3,Worship & Devotion
+56:51,5,Justice & Law
+56:52,6,Economics & Society
+56:53,6,Economics & Society
+56:54,6,Economics & Society
+56:55,6,Economics & Society
+56:56,3,Worship & Devotion
+56:57,0,Divine Attributes & Monotheism
+56:58,6,Economics & Society
+56:59,0,Divine Attributes & Monotheism
+56:60,9,Eschatology & Afterlife
+56:61,0,Divine Attributes & Monotheism
+56:62,0,Divine Attributes & Monotheism
+56:63,6,Economics & Society
+56:64,6,Economics & Society
+56:65,6,Economics & Society
+56:66,3,Worship & Devotion
+56:67,3,Worship & Devotion
+56:68,6,Economics & Society
+56:69,6,Economics & Society
+56:70,11,Community & Relations
+56:71,9,Eschatology & Afterlife
+56:72,6,Economics & Society
+56:73,3,Worship & Devotion
+56:74,11,Community & Relations
+56:75,6,Economics & Society
+56:76,11,Community & Relations
+56:77,10,Spiritual & Inner Life
+56:78,3,Worship & Devotion
+56:79,6,Economics & Society
+56:80,8,Historical Narratives
+56:81,3,Worship & Devotion
+56:82,3,Worship & Devotion
+56:83,9,Eschatology & Afterlife
+56:84,3,Worship & Devotion
+56:85,8,Historical Narratives
+56:86,3,Worship & Devotion
+56:87,5,Justice & Law
+56:88,7,Nature & Creation
+56:89,6,Economics & Society
+56:90,3,Worship & Devotion
+56:91,8,Historical Narratives
+56:92,5,Justice & Law
+56:93,6,Economics & Society
+56:94,9,Eschatology & Afterlife
+56:95,3,Worship & Devotion
+56:96,11,Community & Relations
+57:1,1,Prophethood & Revelation
+57:2,0,Divine Attributes & Monotheism
+57:3,0,Divine Attributes & Monotheism
+57:4,1,Prophethood & Revelation
+57:5,1,Prophethood & Revelation
+57:6,0,Divine Attributes & Monotheism
+57:7,1,Prophethood & Revelation
+57:8,10,Spiritual & Inner Life
+57:9,1,Prophethood & Revelation
+57:10,1,Prophethood & Revelation
+57:11,1,Prophethood & Revelation
+57:12,11,Community & Relations
+57:13,11,Community & Relations
+57:14,7,Nature & Creation
+57:15,9,Eschatology & Afterlife
+57:16,7,Nature & Creation
+57:17,1,Prophethood & Revelation
+57:18,1,Prophethood & Revelation
+57:19,7,Nature & Creation
+57:20,0,Divine Attributes & Monotheism
+57:21,1,Prophethood & Revelation
+57:22,1,Prophethood & Revelation
+57:23,1,Prophethood & Revelation
+57:24,1,Prophethood & Revelation
+57:25,10,Spiritual & Inner Life
+57:26,4,Ethics & Character
+57:27,7,Nature & Creation
+57:28,1,Prophethood & Revelation
+57:29,1,Prophethood & Revelation
+58:1,10,Spiritual & Inner Life
+58:2,1,Prophethood & Revelation
+58:3,1,Prophethood & Revelation
+58:4,1,Prophethood & Revelation
+58:5,7,Nature & Creation
+58:6,10,Spiritual & Inner Life
+58:7,1,Prophethood & Revelation
+58:8,10,Spiritual & Inner Life
+58:9,1,Prophethood & Revelation
+58:10,1,Prophethood & Revelation
+58:11,1,Prophethood & Revelation
+58:12,1,Prophethood & Revelation
+58:13,1,Prophethood & Revelation
+58:14,7,Nature & Creation
+58:15,7,Nature & Creation
+58:16,7,Nature & Creation
+58:17,7,Nature & Creation
+58:18,7,Nature & Creation
+58:19,10,Spiritual & Inner Life
+58:20,7,Nature & Creation
+58:21,1,Prophethood & Revelation
+58:22,1,Prophethood & Revelation
+59:1,1,Prophethood & Revelation
+59:2,10,Spiritual & Inner Life
+59:3,7,Nature & Creation
+59:4,7,Nature & Creation
+59:5,7,Nature & Creation
+59:6,1,Prophethood & Revelation
+59:7,1,Prophethood & Revelation
+59:8,1,Prophethood & Revelation
+59:9,1,Prophethood & Revelation
+59:10,11,Community & Relations
+59:11,7,Nature & Creation
+59:12,9,Eschatology & Afterlife
+59:13,7,Nature & Creation
+59:14,5,Justice & Law
+59:15,9,Eschatology & Afterlife
+59:16,7,Nature & Creation
+59:17,9,Eschatology & Afterlife
+59:18,1,Prophethood & Revelation
+59:19,7,Nature & Creation
+59:20,11,Community & Relations
+59:21,10,Spiritual & Inner Life
+59:22,1,Prophethood & Revelation
+59:23,1,Prophethood & Revelation
+59:24,1,Prophethood & Revelation
+60:1,1,Prophethood & Revelation
+60:2,5,Justice & Law
+60:3,1,Prophethood & Revelation
+60:4,10,Spiritual & Inner Life
+60:5,11,Community & Relations
+60:6,1,Prophethood & Revelation
+60:7,1,Prophethood & Revelation
+60:8,1,Prophethood & Revelation
+60:9,7,Nature & Creation
+60:10,1,Prophethood & Revelation
+60:11,1,Prophethood & Revelation
+60:12,1,Prophethood & Revelation
+60:13,1,Prophethood & Revelation
+61:1,1,Prophethood & Revelation
+61:2,5,Justice & Law
+61:3,1,Prophethood & Revelation
+61:4,1,Prophethood & Revelation
+61:5,10,Spiritual & Inner Life
+61:6,4,Ethics & Character
+61:7,7,Nature & Creation
+61:8,7,Nature & Creation
+61:9,1,Prophethood & Revelation
+61:10,9,Eschatology & Afterlife
+61:11,1,Prophethood & Revelation
+61:12,11,Community & Relations
+61:13,1,Prophethood & Revelation
+61:14,1,Prophethood & Revelation
+62:1,1,Prophethood & Revelation
+62:2,8,Historical Narratives
+62:3,11,Community & Relations
+62:4,1,Prophethood & Revelation
+62:5,7,Nature & Creation
+62:6,10,Spiritual & Inner Life
+62:7,7,Nature & Creation
+62:8,0,Divine Attributes & Monotheism
+62:9,1,Prophethood & Revelation
+62:10,1,Prophethood & Revelation
+62:11,7,Nature & Creation
+63:1,7,Nature & Creation
+63:2,7,Nature & Creation
+63:3,5,Justice & Law
+63:4,7,Nature & Creation
+63:5,7,Nature & Creation
+63:6,7,Nature & Creation
+63:7,7,Nature & Creation
+63:8,7,Nature & Creation
+63:9,1,Prophethood & Revelation
+63:10,1,Prophethood & Revelation
+63:11,1,Prophethood & Revelation
+64:1,1,Prophethood & Revelation
+64:2,1,Prophethood & Revelation
+64:3,0,Divine Attributes & Monotheism
+64:4,1,Prophethood & Revelation
+64:5,5,Justice & Law
+64:6,7,Nature & Creation
+64:7,10,Spiritual & Inner Life
+64:8,10,Spiritual & Inner Life
+64:9,1,Prophethood & Revelation
+64:10,9,Eschatology & Afterlife
+64:11,1,Prophethood & Revelation
+64:12,10,Spiritual & Inner Life
+64:13,1,Prophethood & Revelation
+64:14,1,Prophethood & Revelation
+64:15,1,Prophethood & Revelation
+64:16,1,Prophethood & Revelation
+64:17,1,Prophethood & Revelation
+64:18,8,Historical Narratives
+65:1,1,Prophethood & Revelation
+65:2,1,Prophethood & Revelation
+65:3,1,Prophethood & Revelation
+65:4,1,Prophethood & Revelation
+65:5,1,Prophethood & Revelation
+65:6,1,Prophethood & Revelation
+65:7,1,Prophethood & Revelation
+65:8,5,Justice & Law
+65:9,5,Justice & Law
+65:10,7,Nature & Creation
+65:11,10,Spiritual & Inner Life
+65:12,1,Prophethood & Revelation
+66:1,1,Prophethood & Revelation
+66:2,1,Prophethood & Revelation
+66:3,10,Spiritual & Inner Life
+66:4,1,Prophethood & Revelation
+66:5,1,Prophethood & Revelation
+66:6,1,Prophethood & Revelation
+66:7,5,Justice & Law
+66:8,1,Prophethood & Revelation
+66:9,9,Eschatology & Afterlife
+66:10,7,Nature & Creation
+66:11,10,Spiritual & Inner Life
+66:12,4,Ethics & Character
+67:1,0,Divine Attributes & Monotheism
+67:2,11,Community & Relations
+67:3,0,Divine Attributes & Monotheism
+67:4,3,Worship & Devotion
+67:5,9,Eschatology & Afterlife
+67:6,9,Eschatology & Afterlife
+67:7,6,Economics & Society
+67:8,3,Worship & Devotion
+67:9,10,Spiritual & Inner Life
+67:10,9,Eschatology & Afterlife
+67:11,9,Eschatology & Afterlife
+67:12,11,Community & Relations
+67:13,3,Worship & Devotion
+67:14,0,Divine Attributes & Monotheism
+67:15,0,Divine Attributes & Monotheism
+67:16,8,Historical Narratives
+67:17,8,Historical Narratives
+67:18,5,Justice & Law
+67:19,0,Divine Attributes & Monotheism
+67:20,5,Justice & Law
+67:21,8,Historical Narratives
+67:22,8,Historical Narratives
+67:23,0,Divine Attributes & Monotheism
+67:24,0,Divine Attributes & Monotheism
+67:25,3,Worship & Devotion
+67:26,10,Spiritual & Inner Life
+67:27,3,Worship & Devotion
+67:28,7,Nature & Creation
+67:29,8,Historical Narratives
+67:30,0,Divine Attributes & Monotheism
+68:1,3,Worship & Devotion
+68:2,10,Spiritual & Inner Life
+68:3,11,Community & Relations
+68:4,11,Community & Relations
+68:5,3,Worship & Devotion
+68:6,9,Eschatology & Afterlife
+68:7,8,Historical Narratives
+68:8,5,Justice & Law
+68:9,11,Community & Relations
+68:10,3,Worship & Devotion
+68:11,8,Historical Narratives
+68:12,11,Community & Relations
+68:13,8,Historical Narratives
+68:14,11,Community & Relations
+68:15,8,Historical Narratives
+68:16,9,Eschatology & Afterlife
+68:17,6,Economics & Society
+68:18,3,Worship & Devotion
+68:19,8,Historical Narratives
+68:20,5,Justice & Law
+68:21,5,Justice & Law
+68:22,6,Economics & Society
+68:23,5,Justice & Law
+68:24,3,Worship & Devotion
+68:25,5,Justice & Law
+68:26,5,Justice & Law
+68:27,3,Worship & Devotion
+68:28,10,Spiritual & Inner Life
+68:29,5,Justice & Law
+68:30,5,Justice & Law
+68:31,5,Justice & Law
+68:32,11,Community & Relations
+68:33,9,Eschatology & Afterlife
+68:34,11,Community & Relations
+68:35,7,Nature & Creation
+68:36,3,Worship & Devotion
+68:37,5,Justice & Law
+68:38,3,Worship & Devotion
+68:39,11,Community & Relations
+68:40,3,Worship & Devotion
+68:41,3,Worship & Devotion
+68:42,9,Eschatology & Afterlife
+68:43,3,Worship & Devotion
+68:44,7,Nature & Creation
+68:45,3,Worship & Devotion
+68:46,3,Worship & Devotion
+68:47,3,Worship & Devotion
+68:48,1,Prophethood & Revelation
+68:49,5,Justice & Law
+68:50,8,Historical Narratives
+68:51,5,Justice & Law
+68:52,3,Worship & Devotion
+69:1,3,Worship & Devotion
+69:2,3,Worship & Devotion
+69:3,3,Worship & Devotion
+69:4,5,Justice & Law
+69:5,5,Justice & Law
+69:6,5,Justice & Law
+69:7,7,Nature & Creation
+69:8,0,Divine Attributes & Monotheism
+69:9,4,Ethics & Character
+69:10,5,Justice & Law
+69:11,8,Historical Narratives
+69:12,3,Worship & Devotion
+69:13,3,Worship & Devotion
+69:14,6,Economics & Society
+69:15,8,Historical Narratives
+69:16,6,Economics & Society
+69:17,0,Divine Attributes & Monotheism
+69:18,3,Worship & Devotion
+69:19,8,Historical Narratives
+69:20,3,Worship & Devotion
+69:21,8,Historical Narratives
+69:22,6,Economics & Society
+69:23,6,Economics & Society
+69:24,3,Worship & Devotion
+69:25,8,Historical Narratives
+69:26,5,Justice & Law
+69:27,8,Historical Narratives
+69:28,11,Community & Relations
+69:29,11,Community & Relations
+69:30,1,Prophethood & Revelation
+69:31,9,Eschatology & Afterlife
+69:32,0,Divine Attributes & Monotheism
+69:33,10,Spiritual & Inner Life
+69:34,3,Worship & Devotion
+69:35,8,Historical Narratives
+69:36,6,Economics & Society
+69:37,9,Eschatology & Afterlife
+69:38,3,Worship & Devotion
+69:39,3,Worship & Devotion
+69:40,10,Spiritual & Inner Life
+69:41,8,Historical Narratives
+69:42,5,Justice & Law
+69:43,8,Historical Narratives
+69:44,7,Nature & Creation
+69:45,5,Justice & Law
+69:46,5,Justice & Law
+69:47,8,Historical Narratives
+69:48,10,Spiritual & Inner Life
+69:49,5,Justice & Law
+69:50,5,Justice & Law
+69:51,3,Worship & Devotion
+69:52,11,Community & Relations
+70:1,9,Eschatology & Afterlife
+70:2,5,Justice & Law
+70:3,1,Prophethood & Revelation
+70:4,0,Divine Attributes & Monotheism
+70:5,11,Community & Relations
+70:6,3,Worship & Devotion
+70:7,3,Worship & Devotion
+70:8,6,Economics & Society
+70:9,6,Economics & Society
+70:10,8,Historical Narratives
+70:11,9,Eschatology & Afterlife
+70:12,8,Historical Narratives
+70:13,8,Historical Narratives
+70:14,5,Justice & Law
+70:15,9,Eschatology & Afterlife
+70:16,6,Economics & Society
+70:17,8,Historical Narratives
+70:18,11,Community & Relations
+70:19,0,Divine Attributes & Monotheism
+70:20,8,Historical Narratives
+70:21,8,Historical Narratives
+70:22,11,Community & Relations
+70:23,11,Community & Relations
+70:24,11,Community & Relations
+70:25,11,Community & Relations
+70:26,3,Worship & Devotion
+70:27,9,Eschatology & Afterlife
+70:28,9,Eschatology & Afterlife
+70:29,3,Worship & Devotion
+70:30,3,Worship & Devotion
+70:31,5,Justice & Law
+70:32,3,Worship & Devotion
+70:33,8,Historical Narratives
+70:34,11,Community & Relations
+70:35,6,Economics & Society
+70:36,10,Spiritual & Inner Life
+70:37,3,Worship & Devotion
+70:38,6,Economics & Society
+70:39,0,Divine Attributes & Monotheism
+70:40,8,Historical Narratives
+70:41,5,Justice & Law
+70:42,3,Worship & Devotion
+70:43,3,Worship & Devotion
+70:44,3,Worship & Devotion
+71:1,4,Ethics & Character
+71:2,8,Historical Narratives
+71:3,1,Prophethood & Revelation
+71:4,1,Prophethood & Revelation
+71:5,8,Historical Narratives
+71:6,5,Justice & Law
+71:7,5,Justice & Law
+71:8,5,Justice & Law
+71:9,5,Justice & Law
+71:10,11,Community & Relations
+71:11,0,Divine Attributes & Monotheism
+71:12,11,Community & Relations
+71:13,1,Prophethood & Revelation
+71:14,0,Divine Attributes & Monotheism
+71:15,1,Prophethood & Revelation
+71:16,6,Economics & Society
+71:17,1,Prophethood & Revelation
+71:18,0,Divine Attributes & Monotheism
+71:19,1,Prophethood & Revelation
+71:20,8,Historical Narratives
+71:21,4,Ethics & Character
+71:22,5,Justice & Law
+71:23,10,Spiritual & Inner Life
+71:24,5,Justice & Law
+71:25,7,Nature & Creation
+71:26,4,Ethics & Character
+71:27,5,Justice & Law
+71:28,11,Community & Relations
+72:1,10,Spiritual & Inner Life
+72:2,8,Historical Narratives
+72:3,11,Community & Relations
+72:4,7,Nature & Creation
+72:5,7,Nature & Creation
+72:6,9,Eschatology & Afterlife
+72:7,10,Spiritual & Inner Life
+72:8,9,Eschatology & Afterlife
+72:9,9,Eschatology & Afterlife
+72:10,9,Eschatology & Afterlife
+72:11,5,Justice & Law
+72:12,1,Prophethood & Revelation
+72:13,8,Historical Narratives
+72:14,7,Nature & Creation
+72:15,9,Eschatology & Afterlife
+72:16,7,Nature & Creation
+72:17,9,Eschatology & Afterlife
+72:18,1,Prophethood & Revelation
+72:19,10,Spiritual & Inner Life
+72:20,10,Spiritual & Inner Life
+72:21,8,Historical Narratives
+72:22,10,Spiritual & Inner Life
+72:23,10,Spiritual & Inner Life
+72:24,5,Justice & Law
+72:25,3,Worship & Devotion
+72:26,0,Divine Attributes & Monotheism
+72:27,8,Historical Narratives
+72:28,8,Historical Narratives
+73:1,0,Divine Attributes & Monotheism
+73:2,11,Community & Relations
+73:3,3,Worship & Devotion
+73:4,10,Spiritual & Inner Life
+73:5,9,Eschatology & Afterlife
+73:6,6,Economics & Society
+73:7,3,Worship & Devotion
+73:8,11,Community & Relations
+73:9,0,Divine Attributes & Monotheism
+73:10,3,Worship & Devotion
+73:11,5,Justice & Law
+73:12,9,Eschatology & Afterlife
+73:13,9,Eschatology & Afterlife
+73:14,6,Economics & Society
+73:15,8,Historical Narratives
+73:16,4,Ethics & Character
+73:17,9,Eschatology & Afterlife
+73:18,6,Economics & Society
+73:19,11,Community & Relations
+73:20,1,Prophethood & Revelation
+74:1,0,Divine Attributes & Monotheism
+74:2,8,Historical Narratives
+74:3,11,Community & Relations
+74:4,6,Economics & Society
+74:5,3,Worship & Devotion
+74:6,3,Worship & Devotion
+74:7,11,Community & Relations
+74:8,3,Worship & Devotion
+74:9,3,Worship & Devotion
+74:10,5,Justice & Law
+74:11,0,Divine Attributes & Monotheism
+74:12,11,Community & Relations
+74:13,8,Historical Narratives
+74:14,0,Divine Attributes & Monotheism
+74:15,8,Historical Narratives
+74:16,8,Historical Narratives
+74:17,9,Eschatology & Afterlife
+74:18,8,Historical Narratives
+74:19,9,Eschatology & Afterlife
+74:20,9,Eschatology & Afterlife
+74:21,8,Historical Narratives
+74:22,8,Historical Narratives
+74:23,8,Historical Narratives
+74:24,5,Justice & Law
+74:25,8,Historical Narratives
+74:26,1,Prophethood & Revelation
+74:27,10,Spiritual & Inner Life
+74:28,6,Economics & Society
+74:29,6,Economics & Society
+74:30,8,Historical Narratives
+74:31,7,Nature & Creation
+74:32,6,Economics & Society
+74:33,6,Economics & Society
+74:34,6,Economics & Society
+74:35,9,Eschatology & Afterlife
+74:36,3,Worship & Devotion
+74:37,11,Community & Relations
+74:38,11,Community & Relations
+74:39,3,Worship & Devotion
+74:40,3,Worship & Devotion
+74:41,9,Eschatology & Afterlife
+74:42,10,Spiritual & Inner Life
+74:43,5,Justice & Law
+74:44,3,Worship & Devotion
+74:45,5,Justice & Law
+74:46,3,Worship & Devotion
+74:47,3,Worship & Devotion
+74:48,3,Worship & Devotion
+74:49,3,Worship & Devotion
+74:50,6,Economics & Society
+74:51,5,Justice & Law
+74:52,8,Historical Narratives
+74:53,8,Historical Narratives
+74:54,10,Spiritual & Inner Life
+74:55,3,Worship & Devotion
+74:56,1,Prophethood & Revelation
+75:1,8,Historical Narratives
+75:2,8,Historical Narratives
+75:3,0,Divine Attributes & Monotheism
+75:4,8,Historical Narratives
+75:5,8,Historical Narratives
+75:6,8,Historical Narratives
+75:7,3,Worship & Devotion
+75:8,6,Economics & Society
+75:9,6,Economics & Society
+75:10,8,Historical Narratives
+75:11,9,Eschatology & Afterlife
+75:12,11,Community & Relations
+75:13,8,Historical Narratives
+75:14,8,Historical Narratives
+75:15,8,Historical Narratives
+75:16,10,Spiritual & Inner Life
+75:17,3,Worship & Devotion
+75:18,8,Historical Narratives
+75:19,3,Worship & Devotion
+75:20,3,Worship & Devotion
+75:21,0,Divine Attributes & Monotheism
+75:22,3,Worship & Devotion
+75:23,11,Community & Relations
+75:24,3,Worship & Devotion
+75:25,9,Eschatology & Afterlife
+75:26,3,Worship & Devotion
+75:27,8,Historical Narratives
+75:28,3,Worship & Devotion
+75:29,6,Economics & Society
+75:30,3,Worship & Devotion
+75:31,5,Justice & Law
+75:32,8,Historical Narratives
+75:33,8,Historical Narratives
+75:34,9,Eschatology & Afterlife
+75:35,9,Eschatology & Afterlife
+75:36,8,Historical Narratives
+75:37,0,Divine Attributes & Monotheism
+75:38,1,Prophethood & Revelation
+75:39,0,Divine Attributes & Monotheism
+75:40,0,Divine Attributes & Monotheism
+76:1,0,Divine Attributes & Monotheism
+76:2,0,Divine Attributes & Monotheism
+76:3,8,Historical Narratives
+76:4,9,Eschatology & Afterlife
+76:5,6,Economics & Society
+76:6,6,Economics & Society
+76:7,9,Eschatology & Afterlife
+76:8,11,Community & Relations
+76:9,1,Prophethood & Revelation
+76:10,9,Eschatology & Afterlife
+76:11,1,Prophethood & Revelation
+76:12,11,Community & Relations
+76:13,6,Economics & Society
+76:14,6,Economics & Society
+76:15,6,Economics & Society
+76:16,6,Economics & Society
+76:17,6,Economics & Society
+76:18,6,Economics & Society
+76:19,6,Economics & Society
+76:20,11,Community & Relations
+76:21,6,Economics & Society
+76:22,11,Community & Relations
+76:23,10,Spiritual & Inner Life
+76:24,11,Community & Relations
+76:25,11,Community & Relations
+76:26,0,Divine Attributes & Monotheism
+76:27,5,Justice & Law
+76:28,0,Divine Attributes & Monotheism
+76:29,11,Community & Relations
+76:30,1,Prophethood & Revelation
+76:31,9,Eschatology & Afterlife
+77:1,6,Economics & Society
+77:2,6,Economics & Society
+77:3,6,Economics & Society
+77:4,8,Historical Narratives
+77:5,8,Historical Narratives
+77:6,3,Worship & Devotion
+77:7,3,Worship & Devotion
+77:8,6,Economics & Society
+77:9,6,Economics & Society
+77:10,6,Economics & Society
+77:11,3,Worship & Devotion
+77:12,3,Worship & Devotion
+77:13,3,Worship & Devotion
+77:14,3,Worship & Devotion
+77:15,5,Justice & Law
+77:16,5,Justice & Law
+77:17,3,Worship & Devotion
+77:18,9,Eschatology & Afterlife
+77:19,5,Justice & Law
+77:20,0,Divine Attributes & Monotheism
+77:21,3,Worship & Devotion
+77:22,6,Economics & Society
+77:23,3,Worship & Devotion
+77:24,5,Justice & Law
+77:25,6,Economics & Society
+77:26,0,Divine Attributes & Monotheism
+77:27,6,Economics & Society
+77:28,5,Justice & Law
+77:29,3,Worship & Devotion
+77:30,6,Economics & Society
+77:31,6,Economics & Society
+77:32,9,Eschatology & Afterlife
+77:33,6,Economics & Society
+77:34,5,Justice & Law
+77:35,3,Worship & Devotion
+77:36,9,Eschatology & Afterlife
+77:37,5,Justice & Law
+77:38,3,Worship & Devotion
+77:39,3,Worship & Devotion
+77:40,5,Justice & Law
+77:41,11,Community & Relations
+77:42,6,Economics & Society
+77:43,3,Worship & Devotion
+77:44,11,Community & Relations
+77:45,5,Justice & Law
+77:46,9,Eschatology & Afterlife
+77:47,5,Justice & Law
+77:48,11,Community & Relations
+77:49,5,Justice & Law
+77:50,7,Nature & Creation
+78:1,3,Worship & Devotion
+78:2,3,Worship & Devotion
+78:3,3,Worship & Devotion
+78:4,3,Worship & Devotion
+78:5,3,Worship & Devotion
+78:6,6,Economics & Society
+78:7,6,Economics & Society
+78:8,0,Divine Attributes & Monotheism
+78:9,0,Divine Attributes & Monotheism
+78:10,6,Economics & Society
+78:11,3,Worship & Devotion
+78:12,0,Divine Attributes & Monotheism
+78:13,9,Eschatology & Afterlife
+78:14,6,Economics & Society
+78:15,6,Economics & Society
+78:16,6,Economics & Society
+78:17,3,Worship & Devotion
+78:18,3,Worship & Devotion
+78:19,6,Economics & Society
+78:20,6,Economics & Society
+78:21,9,Eschatology & Afterlife
+78:22,5,Justice & Law
+78:23,9,Eschatology & Afterlife
+78:24,6,Economics & Society
+78:25,6,Economics & Society
+78:26,3,Worship & Devotion
+78:27,5,Justice & Law
+78:28,5,Justice & Law
+78:29,3,Worship & Devotion
+78:30,9,Eschatology & Afterlife
+78:31,11,Community & Relations
+78:32,6,Economics & Society
+78:33,3,Worship & Devotion
+78:34,6,Economics & Society
+78:35,3,Worship & Devotion
+78:36,11,Community & Relations
+78:37,11,Community & Relations
+78:38,8,Historical Narratives
+78:39,3,Worship & Devotion
+78:40,9,Eschatology & Afterlife
+79:1,8,Historical Narratives
+79:2,3,Worship & Devotion
+79:3,0,Divine Attributes & Monotheism
+79:4,3,Worship & Devotion
+79:5,3,Worship & Devotion
+79:6,3,Worship & Devotion
+79:7,3,Worship & Devotion
+79:8,9,Eschatology & Afterlife
+79:9,3,Worship & Devotion
+79:10,3,Worship & Devotion
+79:11,0,Divine Attributes & Monotheism
+79:12,9,Eschatology & Afterlife
+79:13,3,Worship & Devotion
+79:14,6,Economics & Society
+79:15,4,Ethics & Character
+79:16,8,Historical Narratives
+79:17,4,Ethics & Character
+79:18,11,Community & Relations
+79:19,8,Historical Narratives
+79:20,8,Historical Narratives
+79:21,4,Ethics & Character
+79:22,8,Historical Narratives
+79:23,8,Historical Narratives
+79:24,11,Community & Relations
+79:25,7,Nature & Creation
+79:26,1,Prophethood & Revelation
+79:27,1,Prophethood & Revelation
+79:28,0,Divine Attributes & Monotheism
+79:29,0,Divine Attributes & Monotheism
+79:30,0,Divine Attributes & Monotheism
+79:31,0,Divine Attributes & Monotheism
+79:32,0,Divine Attributes & Monotheism
+79:33,6,Economics & Society
+79:34,3,Worship & Devotion
+79:35,3,Worship & Devotion
+79:36,9,Eschatology & Afterlife
+79:37,8,Historical Narratives
+79:38,0,Divine Attributes & Monotheism
+79:39,9,Eschatology & Afterlife
+79:40,8,Historical Narratives
+79:41,11,Community & Relations
+79:42,10,Spiritual & Inner Life
+79:43,3,Worship & Devotion
+79:44,11,Community & Relations
+79:45,9,Eschatology & Afterlife
+79:46,3,Worship & Devotion
+80:1,8,Historical Narratives
+80:2,8,Historical Narratives
+80:3,10,Spiritual & Inner Life
+80:4,8,Historical Narratives
+80:5,8,Historical Narratives
+80:6,0,Divine Attributes & Monotheism
+80:7,11,Community & Relations
+80:8,8,Historical Narratives
+80:9,1,Prophethood & Revelation
+80:10,0,Divine Attributes & Monotheism
+80:11,8,Historical Narratives
+80:12,3,Worship & Devotion
+80:13,3,Worship & Devotion
+80:14,11,Community & Relations
+80:15,8,Historical Narratives
+80:16,11,Community & Relations
+80:17,8,Historical Narratives
+80:18,0,Divine Attributes & Monotheism
+80:19,0,Divine Attributes & Monotheism
+80:20,8,Historical Narratives
+80:21,0,Divine Attributes & Monotheism
+80:22,0,Divine Attributes & Monotheism
+80:23,8,Historical Narratives
+80:24,8,Historical Narratives
+80:25,6,Economics & Society
+80:26,6,Economics & Society
+80:27,6,Economics & Society
+80:28,6,Economics & Society
+80:29,6,Economics & Society
+80:30,6,Economics & Society
+80:31,6,Economics & Society
+80:32,6,Economics & Society
+80:33,3,Worship & Devotion
+80:34,8,Historical Narratives
+80:35,8,Historical Narratives
+80:36,8,Historical Narratives
+80:37,3,Worship & Devotion
+80:38,3,Worship & Devotion
+80:39,3,Worship & Devotion
+80:40,3,Worship & Devotion
+80:41,6,Economics & Society
+80:42,5,Justice & Law
+81:1,6,Economics & Society
+81:2,6,Economics & Society
+81:3,6,Economics & Society
+81:4,6,Economics & Society
+81:5,6,Economics & Society
+81:6,9,Eschatology & Afterlife
+81:7,3,Worship & Devotion
+81:8,0,Divine Attributes & Monotheism
+81:9,8,Historical Narratives
+81:10,3,Worship & Devotion
+81:11,6,Economics & Society
+81:12,9,Eschatology & Afterlife
+81:13,11,Community & Relations
+81:14,3,Worship & Devotion
+81:15,6,Economics & Society
+81:16,3,Worship & Devotion
+81:17,6,Economics & Society
+81:18,6,Economics & Society
+81:19,10,Spiritual & Inner Life
+81:20,0,Divine Attributes & Monotheism
+81:21,11,Community & Relations
+81:22,3,Worship & Devotion
+81:23,8,Historical Narratives
+81:24,10,Spiritual & Inner Life
+81:25,10,Spiritual & Inner Life
+81:26,8,Historical Narratives
+81:27,3,Worship & Devotion
+81:28,8,Historical Narratives
+81:29,1,Prophethood & Revelation
+82:1,6,Economics & Society
+82:2,6,Economics & Society
+82:3,6,Economics & Society
+82:4,0,Divine Attributes & Monotheism
+82:5,3,Worship & Devotion
+82:6,11,Community & Relations
+82:7,0,Divine Attributes & Monotheism
+82:8,0,Divine Attributes & Monotheism
+82:9,3,Worship & Devotion
+82:10,11,Community & Relations
+82:11,3,Worship & Devotion
+82:12,3,Worship & Devotion
+82:13,11,Community & Relations
+82:14,9,Eschatology & Afterlife
+82:15,9,Eschatology & Afterlife
+82:16,9,Eschatology & Afterlife
+82:17,3,Worship & Devotion
+82:18,3,Worship & Devotion
+82:19,1,Prophethood & Revelation
+83:1,11,Community & Relations
+83:2,3,Worship & Devotion
+83:3,3,Worship & Devotion
+83:4,0,Divine Attributes & Monotheism
+83:5,3,Worship & Devotion
+83:6,3,Worship & Devotion
+83:7,9,Eschatology & Afterlife
+83:8,3,Worship & Devotion
+83:9,3,Worship & Devotion
+83:10,5,Justice & Law
+83:11,3,Worship & Devotion
+83:12,5,Justice & Law
+83:13,8,Historical Narratives
+83:14,9,Eschatology & Afterlife
+83:15,3,Worship & Devotion
+83:16,9,Eschatology & Afterlife
+83:17,3,Worship & Devotion
+83:18,11,Community & Relations
+83:19,3,Worship & Devotion
+83:20,3,Worship & Devotion
+83:21,7,Nature & Creation
+83:22,11,Community & Relations
+83:23,6,Economics & Society
+83:24,3,Worship & Devotion
+83:25,6,Economics & Society
+83:26,6,Economics & Society
+83:27,6,Economics & Society
+83:28,6,Economics & Society
+83:29,5,Justice & Law
+83:30,5,Justice & Law
+83:31,3,Worship & Devotion
+83:32,5,Justice & Law
+83:33,5,Justice & Law
+83:34,5,Justice & Law
+83:35,6,Economics & Society
+83:36,5,Justice & Law
+84:1,6,Economics & Society
+84:2,11,Community & Relations
+84:3,6,Economics & Society
+84:4,3,Worship & Devotion
+84:5,11,Community & Relations
+84:6,11,Community & Relations
+84:7,8,Historical Narratives
+84:8,8,Historical Narratives
+84:9,8,Historical Narratives
+84:10,8,Historical Narratives
+84:11,9,Eschatology & Afterlife
+84:12,9,Eschatology & Afterlife
+84:13,8,Historical Narratives
+84:14,10,Spiritual & Inner Life
+84:15,8,Historical Narratives
+84:16,6,Economics & Society
+84:17,6,Economics & Society
+84:18,6,Economics & Society
+84:19,3,Worship & Devotion
+84:20,5,Justice & Law
+84:21,7,Nature & Creation
+84:22,5,Justice & Law
+84:23,1,Prophethood & Revelation
+84:24,9,Eschatology & Afterlife
+84:25,11,Community & Relations
+85:1,6,Economics & Society
+85:2,3,Worship & Devotion
+85:3,8,Historical Narratives
+85:4,5,Justice & Law
+85:5,9,Eschatology & Afterlife
+85:6,3,Worship & Devotion
+85:7,5,Justice & Law
+85:8,7,Nature & Creation
+85:9,1,Prophethood & Revelation
+85:10,9,Eschatology & Afterlife
+85:11,11,Community & Relations
+85:12,9,Eschatology & Afterlife
+85:13,0,Divine Attributes & Monotheism
+85:14,8,Historical Narratives
+85:15,0,Divine Attributes & Monotheism
+85:16,0,Divine Attributes & Monotheism
+85:17,5,Justice & Law
+85:18,4,Ethics & Character
+85:19,5,Justice & Law
+85:20,7,Nature & Creation
+85:21,10,Spiritual & Inner Life
+85:22,3,Worship & Devotion
+86:1,6,Economics & Society
+86:2,6,Economics & Society
+86:3,6,Economics & Society
+86:4,3,Worship & Devotion
+86:5,0,Divine Attributes & Monotheism
+86:6,0,Divine Attributes & Monotheism
+86:7,6,Economics & Society
+86:8,1,Prophethood & Revelation
+86:9,3,Worship & Devotion
+86:10,11,Community & Relations
+86:11,6,Economics & Society
+86:12,6,Economics & Society
+86:13,10,Spiritual & Inner Life
+86:14,3,Worship & Devotion
+86:15,3,Worship & Devotion
+86:16,3,Worship & Devotion
+86:17,5,Justice & Law
+87:1,11,Community & Relations
+87:2,0,Divine Attributes & Monotheism
+87:3,8,Historical Narratives
+87:4,6,Economics & Society
+87:5,6,Economics & Society
+87:6,10,Spiritual & Inner Life
+87:7,1,Prophethood & Revelation
+87:8,8,Historical Narratives
+87:9,3,Worship & Devotion
+87:10,1,Prophethood & Revelation
+87:11,3,Worship & Devotion
+87:12,9,Eschatology & Afterlife
+87:13,0,Divine Attributes & Monotheism
+87:14,11,Community & Relations
+87:15,11,Community & Relations
+87:16,0,Divine Attributes & Monotheism
+87:17,0,Divine Attributes & Monotheism
+87:18,8,Historical Narratives
+87:19,4,Ethics & Character
+88:1,3,Worship & Devotion
+88:2,3,Worship & Devotion
+88:3,3,Worship & Devotion
+88:4,9,Eschatology & Afterlife
+88:5,6,Economics & Society
+88:6,6,Economics & Society
+88:7,6,Economics & Society
+88:8,3,Worship & Devotion
+88:9,11,Community & Relations
+88:10,6,Economics & Society
+88:11,3,Worship & Devotion
+88:12,6,Economics & Society
+88:13,6,Economics & Society
+88:14,6,Economics & Society
+88:15,6,Economics & Society
+88:16,6,Economics & Society
+88:17,6,Economics & Society
+88:18,6,Economics & Society
+88:19,6,Economics & Society
+88:20,6,Economics & Society
+88:21,10,Spiritual & Inner Life
+88:22,3,Worship & Devotion
+88:23,8,Historical Narratives
+88:24,7,Nature & Creation
+88:25,3,Worship & Devotion
+88:26,3,Worship & Devotion
+89:1,6,Economics & Society
+89:2,6,Economics & Society
+89:3,0,Divine Attributes & Monotheism
+89:4,6,Economics & Society
+89:5,8,Historical Narratives
+89:6,10,Spiritual & Inner Life
+89:7,0,Divine Attributes & Monotheism
+89:8,0,Divine Attributes & Monotheism
+89:9,0,Divine Attributes & Monotheism
+89:10,4,Ethics & Character
+89:11,5,Justice & Law
+89:12,5,Justice & Law
+89:13,9,Eschatology & Afterlife
+89:14,8,Historical Narratives
+89:15,11,Community & Relations
+89:16,8,Historical Narratives
+89:17,11,Community & Relations
+89:18,11,Community & Relations
+89:19,9,Eschatology & Afterlife
+89:20,11,Community & Relations
+89:21,6,Economics & Society
+89:22,0,Divine Attributes & Monotheism
+89:23,3,Worship & Devotion
+89:24,8,Historical Narratives
+89:25,9,Eschatology & Afterlife
+89:26,9,Eschatology & Afterlife
+89:27,11,Community & Relations
+89:28,11,Community & Relations
+89:29,11,Community & Relations
+89:30,11,Community & Relations
+90:1,10,Spiritual & Inner Life
+90:2,10,Spiritual & Inner Life
+90:3,0,Divine Attributes & Monotheism
+90:4,0,Divine Attributes & Monotheism
+90:5,8,Historical Narratives
+90:6,11,Community & Relations
+90:7,8,Historical Narratives
+90:8,8,Historical Narratives
+90:9,6,Economics & Society
+90:10,8,Historical Narratives
+90:11,8,Historical Narratives
+90:12,3,Worship & Devotion
+90:13,5,Justice & Law
+90:14,6,Economics & Society
+90:15,8,Historical Narratives
+90:16,8,Historical Narratives
+90:17,11,Community & Relations
+90:18,3,Worship & Devotion
+90:19,3,Worship & Devotion
+90:20,9,Eschatology & Afterlife
+91:1,6,Economics & Society
+91:2,6,Economics & Society
+91:3,3,Worship & Devotion
+91:4,6,Economics & Society
+91:5,0,Divine Attributes & Monotheism
+91:6,0,Divine Attributes & Monotheism
+91:7,0,Divine Attributes & Monotheism
+91:8,11,Community & Relations
+91:9,11,Community & Relations
+91:10,5,Justice & Law
+91:11,5,Justice & Law
+91:12,5,Justice & Law
+91:13,10,Spiritual & Inner Life
+91:14,5,Justice & Law
+91:15,8,Historical Narratives
+92:1,6,Economics & Society
+92:2,3,Worship & Devotion
+92:3,0,Divine Attributes & Monotheism
+92:4,3,Worship & Devotion
+92:5,1,Prophethood & Revelation
+92:6,11,Community & Relations
+92:7,8,Historical Narratives
+92:8,8,Historical Narratives
+92:9,3,Worship & Devotion
+92:10,8,Historical Narratives
+92:11,11,Community & Relations
+92:12,3,Worship & Devotion
+92:13,0,Divine Attributes & Monotheism
+92:14,9,Eschatology & Afterlife
+92:15,9,Eschatology & Afterlife
+92:16,8,Historical Narratives
+92:17,3,Worship & Devotion
+92:18,11,Community & Relations
+92:19,11,Community & Relations
+92:20,11,Community & Relations
+92:21,8,Historical Narratives
+93:1,6,Economics & Society
+93:2,6,Economics & Society
+93:3,10,Spiritual & Inner Life
+93:4,0,Divine Attributes & Monotheism
+93:5,11,Community & Relations
+93:6,8,Historical Narratives
+93:7,8,Historical Narratives
+93:8,8,Historical Narratives
+93:9,8,Historical Narratives
+93:10,11,Community & Relations
+93:11,11,Community & Relations
+94:1,10,Spiritual & Inner Life
+94:2,3,Worship & Devotion
+94:3,9,Eschatology & Afterlife
+94:4,11,Community & Relations
+94:5,8,Historical Narratives
+94:6,8,Historical Narratives
+94:7,11,Community & Relations
+94:8,11,Community & Relations
+95:1,6,Economics & Society
+95:2,4,Ethics & Character
+95:3,10,Spiritual & Inner Life
+95:4,0,Divine Attributes & Monotheism
+95:5,8,Historical Narratives
+95:6,11,Community & Relations
+95:7,3,Worship & Devotion
+95:8,1,Prophethood & Revelation
+96:1,11,Community & Relations
+96:2,0,Divine Attributes & Monotheism
+96:3,11,Community & Relations
+96:4,3,Worship & Devotion
+96:5,8,Historical Narratives
+96:6,8,Historical Narratives
+96:7,8,Historical Narratives
+96:8,3,Worship & Devotion
+96:9,8,Historical Narratives
+96:10,11,Community & Relations
+96:11,8,Historical Narratives
+96:12,11,Community & Relations
+96:13,8,Historical Narratives
+96:14,1,Prophethood & Revelation
+96:15,9,Eschatology & Afterlife
+96:16,6,Economics & Society
+96:17,8,Historical Narratives
+96:18,9,Eschatology & Afterlife
+96:19,1,Prophethood & Revelation
+97:1,10,Spiritual & Inner Life
+97:2,6,Economics & Society
+97:3,6,Economics & Society
+97:4,0,Divine Attributes & Monotheism
+97:5,6,Economics & Society
+98:1,5,Justice & Law
+98:2,10,Spiritual & Inner Life
+98:3,3,Worship & Devotion
+98:4,5,Justice & Law
+98:5,7,Nature & Creation
+98:6,9,Eschatology & Afterlife
+98:7,11,Community & Relations
+98:8,1,Prophethood & Revelation
+99:1,6,Economics & Society
+99:2,6,Economics & Society
+99:3,8,Historical Narratives
+99:4,3,Worship & Devotion
+99:5,11,Community & Relations
+99:6,3,Worship & Devotion
+99:7,3,Worship & Devotion
+99:8,3,Worship & Devotion
+100:1,3,Worship & Devotion
+100:2,9,Eschatology & Afterlife
+100:3,6,Economics & Society
+100:4,6,Economics & Society
+100:5,3,Worship & Devotion
+100:6,11,Community & Relations
+100:7,8,Historical Narratives
+100:8,11,Community & Relations
+100:9,0,Divine Attributes & Monotheism
+100:10,3,Worship & Devotion
+100:11,8,Historical Narratives
+101:1,3,Worship & Devotion
+101:2,3,Worship & Devotion
+101:3,3,Worship & Devotion
+101:4,3,Worship & Devotion
+101:5,6,Economics & Society
+101:6,11,Community & Relations
+101:7,8,Historical Narratives
+101:8,11,Community & Relations
+101:9,9,Eschatology & Afterlife
+101:10,3,Worship & Devotion
+101:11,9,Eschatology & Afterlife
+102:1,3,Worship & Devotion
+102:2,0,Divine Attributes & Monotheism
+102:3,3,Worship & Devotion
+102:4,3,Worship & Devotion
+102:5,3,Worship & Devotion
+102:6,9,Eschatology & Afterlife
+102:7,3,Worship & Devotion
+102:8,3,Worship & Devotion
+103:1,3,Worship & Devotion
+103:2,3,Worship & Devotion
+103:3,11,Community & Relations
+104:1,5,Justice & Law
+104:2,11,Community & Relations
+104:3,11,Community & Relations
+104:4,9,Eschatology & Afterlife
+104:5,3,Worship & Devotion
+104:6,1,Prophethood & Revelation
+104:7,6,Economics & Society
+104:8,9,Eschatology & Afterlife
+104:9,6,Economics & Society
+105:1,10,Spiritual & Inner Life
+105:2,5,Justice & Law
+105:3,8,Historical Narratives
+105:4,5,Justice & Law
+105:5,8,Historical Narratives
+106:1,10,Spiritual & Inner Life
+106:2,6,Economics & Society
+106:3,11,Community & Relations
+106:4,11,Community & Relations
+107:1,3,Worship & Devotion
+107:2,8,Historical Narratives
+107:3,3,Worship & Devotion
+107:4,11,Community & Relations
+107:5,11,Community & Relations
+107:6,11,Community & Relations
+107:7,3,Worship & Devotion
+108:1,1,Prophethood & Revelation
+108:2,11,Community & Relations
+108:3,9,Eschatology & Afterlife
+109:1,5,Justice & Law
+109:2,11,Community & Relations
+109:3,11,Community & Relations
+109:4,11,Community & Relations
+109:5,11,Community & Relations
+109:6,11,Community & Relations
+110:1,1,Prophethood & Revelation
+110:2,7,Nature & Creation
+110:3,11,Community & Relations
+111:1,1,Prophethood & Revelation
+111:2,11,Community & Relations
+111:3,9,Eschatology & Afterlife
+111:4,8,Historical Narratives
+111:5,6,Economics & Society
+112:1,10,Spiritual & Inner Life
+112:2,1,Prophethood & Revelation
+112:3,0,Divine Attributes & Monotheism
+112:4,0,Divine Attributes & Monotheism
+113:1,11,Community & Relations
+113:2,0,Divine Attributes & Monotheism
+113:3,6,Economics & Society
+113:4,6,Economics & Society
+113:5,8,Historical Narratives
+114:1,11,Community & Relations
+114:2,0,Divine Attributes & Monotheism
+114:3,0,Divine Attributes & Monotheism
+114:4,8,Historical Narratives
+114:5,8,Historical Narratives
+114:6,9,Eschatology & Afterlife
