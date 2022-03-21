@@ -1,0 +1,541 @@
+/* ============================================================
+   Quran Analytics Dashboard — Stylesheet
+   
+   Aesthetic: Scholarly dark mode with warm amber accents.
+   Inspired by classical manuscript and academic journal design.
+   Arabic text uses proper RTL and a larger font for readability.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Code+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&display=swap');
+
+/*html {
+    zoom: 0.9;
+}*/
+
+/* ── CSS Variables ────────────────────────────────────────── */
+:root {
+  --bg-primary:     #0f0e0c;
+  --bg-secondary:   #1a1814;
+  --bg-card:        #211f1a;
+  --bg-card-hover:  #2a271f;
+
+  --accent-gold:    #c9a84c;
+  --accent-amber:   #e8943a;
+  --accent-green:   #4a7c59;
+  --accent-muted:   #6b5f3e;
+
+  --text-primary:   #e8e0d0;
+  --text-secondary: #a89a7a;
+  --text-muted:     #6b6050;
+  --text-arabic:    #f0e8d8;
+
+  --border-subtle:  #2e2a22;
+  --border-accent:  #4a3e28;
+
+  --font-en:   'Libre Baskerville', Georgia, serif;
+  --font-ar:   'Amiri', 'Traditional Arabic', serif;
+  --font-mono: 'Source Code Pro', monospace;
+
+  --radius:    6px;
+  --shadow:    0 4px 24px rgba(0,0,0,0.4);
+}
+
+/* ── Reset & Base ─────────────────────────────────────────── */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-en);
+  font-size: 15px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── App Container ────────────────────────────────────────── */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Header ───────────────────────────────────────────────── */
+.header {
+  background: linear-gradient(135deg, #1a1814 0%, #211f1a 50%, #1a1814 100%);
+  border-bottom: 1px solid var(--border-accent);
+  padding: 28px 40px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  position: relative;
+}
+
+.header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent-gold), transparent);
+}
+
+.header-titles {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.header-title-en {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--accent-gold);
+  letter-spacing: 0.5px;
+}
+
+.header-title-ar {
+  font-family: var(--font-ar);
+  font-size: 22px;
+  color: var(--text-secondary);
+  font-weight: 400;
+}
+
+.header-subtitle {
+  color: var(--text-muted);
+  font-size: 13px;
+  font-style: italic;
+  letter-spacing: 0.3px;
+}
+
+/* ── Tabs ─────────────────────────────────────────────────── */
+.main-tabs {
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 0 40px;
+}
+
+.tab {
+  background: transparent !important;
+  border: none !important;
+  border-bottom: 3px solid transparent !important;
+  color: var(--text-muted) !important;
+  font-family: var(--font-en) !important;
+  font-size: 13px !important;
+  padding: 14px 20px !important;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tab:hover {
+  color: var(--text-secondary) !important;
+}
+
+.tab--selected {
+  color: var(--accent-gold) !important;
+  border-bottom-color: var(--accent-gold) !important;
+  background: transparent !important;
+}
+
+.tab-content {
+  flex: 1;
+  padding: 10px 40px;
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* ── Cards ────────────────────────────────────────────────── */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+  transition: border-color 0.2s;
+}
+
+.card:hover {
+  border-color: var(--border-accent);
+}
+
+.card-title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+/* ── Stats Grid ───────────────────────────────────────────── */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 20px;
+  text-align: center;
+  transition: all 0.2s;
+}
+
+.stat-card:hover {
+  border-color: var(--accent-gold);
+  transform: translateY(-2px);
+}
+
+.stat-number {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--accent-gold);
+  line-height: 1.2;
+  font-family: var(--font-mono);
+}
+
+.stat-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.stat-label-ar {
+  font-family: var(--font-ar);
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-top: 2px;
+  direction: rtl;
+}
+
+/* ── Charts ───────────────────────────────────────────────── */
+.chart-container {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* ── Two-column layout ────────────────────────────────────── */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+@media (max-width: 900px) {
+  .two-col { grid-template-columns: 1fr; }
+}
+
+/* ── Controls ─────────────────────────────────────────────── */
+.control-group {
+  margin-bottom: 20px;
+}
+
+.control-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+/* Dropdown overrides */
+.Select-control {
+    background: var(--bg-card) !important;
+    border: 1px solid var(--border-accent) !important;
+    color: var(--text-primary) !important;
+}
+
+.Select-input input {
+    background: transparent !important;
+    color: var(--text-primary) !important;
+}
+
+.Select-single-value,
+.Select-value,
+.Select-value-label {
+    color: var(--text-primary) !important;
+    background: var(--bg-card) !important;
+}
+
+.Select-placeholder {
+    color: var(--text-muted) !important;
+    background: transparent !important;
+}
+
+.Select-menu-outer {
+    background: var(--bg-card) !important;
+    border: 1px solid var(--border-accent) !important;
+}
+
+.Select-option {
+    background: var(--bg-card) !important;
+    color: var(--text-secondary) !important;
+}
+
+.Select-option:hover,
+.Select-option.is-focused {
+    background: var(--bg-card-hover) !important;
+    color: var(--text-primary) !important;
+}
+
+.Select-arrow-zone .Select-arrow {
+    border-top-color: var(--text-muted) !important;
+}
+
+.Select--single > .Select-control .Select-value {
+    background: var(--bg-card) !important;
+    color: var(--text-primary) !important;
+}
+/* ── Verse Cards ──────────────────────────────────────────── */
+.verse-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent-gold);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 12px;
+  transition: all 0.2s;
+}
+
+.verse-card:hover {
+  border-left-color: var(--accent-amber);
+  background: var(--bg-card-hover);
+}
+
+.verse-id {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--accent-gold);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+
+.verse-arabic {
+  font-family: var(--font-ar);
+  font-size: 22px;
+  line-height: 2;
+  color: var(--text-arabic);
+  direction: rtl;
+  text-align: right;
+  margin-bottom: 10px;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 10px;
+}
+
+.verse-english {
+  font-size: 14px;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  font-style: italic;
+}
+
+.verse-meta {
+  margin-top: 8px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-right: 6px;
+}
+
+.badge-meccan  { background: #2d1e0f; color: var(--accent-amber); border: 1px solid #4a2e12; }
+.badge-medinan { background: #0f1e2d; color: #4a9fd4;             border: 1px solid #1a3a5c; }
+.badge-theme   { background: #1a1e12; color: var(--accent-green); border: 1px solid #2e3a1a; }
+
+/* ── Similarity Score ─────────────────────────────────────── */
+.similarity-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.similarity-fill {
+  height: 3px;
+  background: var(--accent-gold);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+.similarity-label {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--accent-gold);
+  min-width: 40px;
+}
+
+/* ── Input ────────────────────────────────────────────────── */
+input[type="text"],
+textarea {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border-accent) !important;
+  border-radius: var(--radius) !important;
+  color: var(--text-primary) !important;
+  padding: 10px 14px !important;
+  width: 100% !important;
+  font-family: var(--font-en) !important;
+  font-size: 14px !important;
+  outline: none !important;
+  transition: border-color 0.2s !important;
+}
+
+input[type="text"]:focus {
+  border-color: var(--accent-gold) !important;
+}
+
+/* ── Buttons ──────────────────────────────────────────────── */
+button, .btn {
+  background: var(--accent-gold);
+  color: var(--bg-primary);
+  border: none;
+  border-radius: var(--radius);
+  padding: 10px 20px;
+  font-family: var(--font-en);
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  transition: background 0.2s;
+}
+
+button:hover, .btn:hover {
+  background: var(--accent-amber);
+}
+
+/* ── Section headers ──────────────────────────────────────── */
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+}
+
+.section-subtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 24px;
+}
+
+/* ── Loading states ───────────────────────────────────────── */
+.loading-text {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 13px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* ── Narrative thread ─────────────────────────────────────── */
+.narrative-timeline {
+  position: relative;
+  padding-left: 24px;
+}
+
+.narrative-timeline::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: linear-gradient(180deg, var(--accent-gold), transparent);
+}
+
+.narrative-item {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.narrative-item::before {
+  content: '';
+  position: absolute;
+  left: -21px;
+  top: 6px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-gold);
+}
+
+/* ── Scrollbars ───────────────────────────────────────────── */
+::-webkit-scrollbar       { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-primary); }
+::-webkit-scrollbar-thumb { background: var(--border-accent); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--accent-muted); }
+
+/* ── Footer ───────────────────────────────────────────────── */
+.footer {
+  border-top: 1px solid var(--border-subtle);
+  padding: 16px 40px;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.8;
+}
+
+/* ── Plotly chart dark theme overrides ────────────────────── */
+.js-plotly-plot .plotly .bg { fill: transparent !important; }
+.plotly-graph-div { width: 100% !important; }
+
+
+/* ── Dropdown dark theme fix ─────────────────────────────────────────── */
+/* ── Dropdown dark theme ─────────────────────────────────────────────── */
+.dash-dropdown .Select-control,
+.dash-dropdown .Select-menu-outer,
+.dash-dropdown .Select-option,
+.dash-dropdown .Select-value-label,
+.dash-dropdown .Select-placeholder,
+.dash-dropdown .Select-input input,
+.dash-dropdown .Select.is-open .Select-control,
+.dash-dropdown .Select.is-focused .Select-control {
+    background-color: #1a1814 !important;
+    color: #e8e0d0 !important;
+    border-color: #3a3530 !important;
+}
+
+.dash-dropdown .Select-menu-outer {
+    background-color: #1a1814 !important;
+    border: 1px solid #3a3530 !important;
+}
+
+.dash-dropdown .Select-option:hover,
+.dash-dropdown .Select-option.is-focused {
+    background-color: #2e2a22 !important;
+    color: #c9a84c !important;
+}
+
+.dash-dropdown .Select-option.is-selected {
+    background-color: #2e2a22 !important;
+    color: #c9a84c !important;
+}
