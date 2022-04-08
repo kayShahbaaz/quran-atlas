@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: quran-atlas
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn "dashboard.app:server" --bind 0.0.0.0:$PORT --workers 1 --timeout 120
+    envVars:
+      - key: DB_PATH
+        value: ./db/quran.db
+      - key: EMBEDDINGS_PATH
+        value: ./embeddings/verse_embeddings.npy
+      - key: DASH_DEBUG
+        value: False
+      - key: PYTHON_VERSION
+        value: 3.8.0
