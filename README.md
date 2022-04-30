@@ -350,5 +350,4 @@ The MIT License covers the source code only. Quran text is from Tanzil.net (Crea
 2019-2022 LearnQuran Academy. All Rights Reserved.
 
 ---
-
 **kayShahbaaz خ شهباز**
