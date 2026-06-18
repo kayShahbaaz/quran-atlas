@@ -20,7 +20,7 @@ import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 from dotenv import load_dotenv
-from layouts.narrative import build_narrative_layout
+from dashboard.layouts.narrative import build_narrative_layout
 
 # Project root on path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
