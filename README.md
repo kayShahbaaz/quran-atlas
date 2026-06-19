@@ -1,11 +1,10 @@
 # Quran Atlas | أطلس القرآن
 
-**Quranic Semantic and Thematic Analytics**
+**Quranic Semantic and Thematic Analytics Dashboard**
 
 A full-stack interactive analytics dashboard exploring all 6,236 Ayaat of the Noble Quran through NLP, semantic search, and scholarly commentary. Built to bridge traditional Islamic scholarship with modern computational linguistics.
 
-Live demo (Hugging Face Spaces): coming soon
-Live demo (Render): coming soon
+Live demo: https://huggingface.co/spaces/LearnQuran/quran-atlas
 
 Most Quran search tools work the same way: type a word, get a list of Ayaat containing that word. No sense of how a concept develops over time, no way to see which themes dominate early Meccan revelation versus later Medinan legislation, no way to find Ayaat that are semantically close even when they share zero keywords. This project is an attempt to fix that.
 
@@ -28,7 +27,6 @@ Most Quran search tools work the same way: type a word, get a list of Ayaat cont
 
 **Semantic Theme Map**
 ![Theme Map](docs/screenshots/7.png)
-
 
 ---
 
@@ -350,4 +348,5 @@ The MIT License covers the source code only. Quran text is from Tanzil.net (Crea
 2019-2022 LearnQuran Academy. All Rights Reserved.
 
 ---
+
 **kayShahbaaz خ شهباز**

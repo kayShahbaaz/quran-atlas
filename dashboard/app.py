@@ -5,7 +5,7 @@ Main entry point for the Quran Analytics Dashboard.
 Built with Plotly Dash.
 
 Run:
-    python dashboard/app.py
+    python3 -m dashboard.app
 
 Then open http://127.0.0.1:8050 in your browser.
 """
@@ -20,7 +20,6 @@ import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 from dotenv import load_dotenv
-from dashboard.layouts.narrative import build_narrative_layout
 
 # Project root on path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -29,6 +28,9 @@ load_dotenv()
 
 # ── Import app instance from server.py (avoids circular imports) ──────────────
 from dashboard.server import app, server  # noqa
+
+# ── Layout import ─────────────────────────────────────────────────────────────
+from dashboard.layouts.narrative import build_narrative_layout
 
 # ── Config ────────────────────────────────────────────────────────────────────
 DB_PATH         = os.getenv("DB_PATH",         "./db/quran.db")
@@ -57,7 +59,11 @@ def load_overview_stats():
 
 
 def load_root_options():
-    df = query_df("SELECT root_arabic, root_english, domain, total_occurrences FROM root_words WHERE total_occurrences >= 2 ORDER BY total_occurrences DESC")
+    df = query_df(
+        "SELECT root_arabic, root_english, domain, total_occurrences "
+        "FROM root_words WHERE total_occurrences >= 2 "
+        "ORDER BY total_occurrences DESC"
+    )
     options = [
         {
             "label": f"{r['root_arabic']} — {r['root_english']} ({r['total_occurrences']} Ayaat)",
@@ -126,63 +132,60 @@ from dashboard.layouts.themes   import build_themes_layout
 from dashboard.layouts.search   import build_search_layout
 
 # ── Callback imports ──────────────────────────────────────────────────────────
-import dashboard.callbacks.root_callbacks    # noqa
-import dashboard.callbacks.theme_callbacks   # noqa
-import dashboard.callbacks.search_callbacks  # noqa
-import dashboard.callbacks.narrative_callbacks
+import dashboard.callbacks.root_callbacks      # noqa
+import dashboard.callbacks.theme_callbacks     # noqa
+import dashboard.callbacks.search_callbacks    # noqa
+import dashboard.callbacks.narrative_callbacks  # noqa
 
 # ── Main layout ───────────────────────────────────────────────────────────────
 app.layout = html.Div([
 
     # Header
     html.Div([
-    # Left — title
-    html.Div([
-        html.Img(
-            src="/assets/LQ_logo.png",
+        html.Div([
+            html.Img(
+                src="/assets/LQ_logo.png",
+                style={
+                    "height":        "45px",
+                    "width":         "auto",
+                    "marginRight":   "1px",
+                    "verticalAlign": "middle",
+                }
+            ),
+            html.H1("Qur'ān Atlas", className="header-title-en"),
+            html.H1("أطلس القرآن",  className="header-title-ar"),
+        ], className="header-titles", style={"display": "flex", "alignItems": "center"}),
+
+        html.P(
+            "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ وَٱلصَّلَاةُ وَٱلسَّلَامُ عَلَىٰ سَيِّدِ ٱلْأَنْبِيَاءِ وَٱلْمُرْسَلِينَ وَعَلَىٰ آلِهِ وَصَحْبِهِ أَجْمَعِينَ",
             style={
-                "height":      "45px",
-                "width":       "auto",
-                "marginRight": "1px",
-                "verticalAlign": "middle",
-             }
+                "fontFamily": "'Amiri', serif",
+                "fontSize":   "14px",
+                "color":      "#c9a84c",
+                "direction":  "rtl",
+                "lineHeight": "2",
+                "textAlign":  "center",
+                "flex":       "1",
+                "margin":     "0 40px",
+            }
         ),
-        html.H1("Qur'ān Atlas", className="header-title-en"),
-        html.H1("أطلس القرآن", className="header-title-ar"),
-    ], className="header-titles", style={"display": "flex", "alignItems": "center"}),
 
-    # Center — Arabic phrase
-    html.P(
-        "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ وَٱلصَّلَاةُ وَٱلسَّلَامُ عَلَىٰ سَيِّدِ ٱلْأَنْبِيَاءِ وَٱلْمُرْسَلِينَ وَعَلَىٰ آلِهِ وَصَحْبِهِ أَجْمَعِينَ",
-        style={
-            "fontFamily": "'Amiri', serif",
-            "fontSize": "14px",
-            "color": "#c9a84c",
-            "direction": "rtl",
-            "lineHeight": "2",
-            "textAlign": "center",
-            "flex": "1",
-            "margin": "0 40px",
-        }
-    ),
+        html.P(
+            "Quranic Semantic Themes across all 6236 Ayaat | المواضيع الدلالية عبر جميع الآيات",
+            className="header-subtitle",
+            style={
+                "textAlign":  "right",
+                "margin":     "0",
+                "whiteSpace": "nowrap",
+                "fontSize":   "11px",
+            }
+        ),
 
-    # Right — subtitle
-    html.P(
-        "Quranic Semantic Themes across all 6236 Ayaat | المواضيع الدلالية عبر جميع الآيات",
-        className="header-subtitle",
-        style={
-            "textAlign": "right",
-            "margin": "0",
-            "whiteSpace": "nowrap",
-            "fontSize": "11px",
-        }
-    ),
-
-], className="header", style={
-    "display": "flex",
-    "alignItems": "center",
-    "justifyContent": "space-between",
-}),
+    ], className="header", style={
+        "display":        "flex",
+        "alignItems":     "center",
+        "justifyContent": "space-between",
+    }),
 
     # Navigation tabs
     dcc.Tabs(
@@ -190,57 +193,47 @@ app.layout = html.Div([
         value="overview",
         className="main-tabs",
         children=[
-            dcc.Tab(label="Overview  |  نظرة عامة",        value="overview",   className="tab", selected_className="tab--selected"),
-            dcc.Tab(label="Root Explorer  |  الجذور",       value="roots",      className="tab", selected_className="tab--selected"),
-            dcc.Tab(label="Ayah Search  |  البحث",          value="search",     className="tab", selected_className="tab--selected"),
-            dcc.Tab(label="Narrative Thread  |  السياق",    value="narrative",  className="tab", selected_className="tab--selected"),
-            dcc.Tab(label="Theme Map  |  خريطة المواضيع",   value="themes",     className="tab", selected_className="tab--selected"),
+            dcc.Tab(label="Overview  |  نظرة عامة",       value="overview",  className="tab", selected_className="tab--selected"),
+            dcc.Tab(label="Root Explorer  |  الجذور",      value="roots",     className="tab", selected_className="tab--selected"),
+            dcc.Tab(label="Ayah Search  |  البحث",         value="search",    className="tab", selected_className="tab--selected"),
+            dcc.Tab(label="Narrative Thread  |  السياق",   value="narrative", className="tab", selected_className="tab--selected"),
+            dcc.Tab(label="Theme Map  |  خريطة المواضيع",  value="themes",    className="tab", selected_className="tab--selected"),
         ],
     ),
 
-    # All tab contents pre-rendered and shown/hidden
+    # All tab contents pre-rendered and shown/hidden via CSS
     html.Div([
-        html.Div(build_overview_layout(OVERVIEW_DF, THEMES_DF), id="tab-overview", style={"display": "block"}),
-        html.Div(build_roots_layout(ROOT_OPTIONS),               id="tab-roots",    style={"display": "none"}),
-        html.Div(build_themes_layout(UMAP_DF, THEMES_DF),        id="tab-themes",   style={"display": "none"}),
-        html.Div(build_search_layout(),                          id="tab-search",   style={"display": "none"}),
+        html.Div(build_overview_layout(OVERVIEW_DF, THEMES_DF), id="tab-overview",      style={"display": "block"}),
+        html.Div(build_roots_layout(ROOT_OPTIONS),               id="tab-roots",         style={"display": "none"}),
+        html.Div(build_themes_layout(UMAP_DF, THEMES_DF),        id="tab-themes",        style={"display": "none"}),
+        html.Div(build_search_layout(),                          id="tab-search",        style={"display": "none"}),
         html.Div(build_narrative_layout(),                       id="narrative-content", style={"display": "none"}),
     ], id="tab-content", className="tab-content"),
 
     # Footer
     html.Div([
-    html.P([
-        "A LearnQuran Academy Project | ",
-        html.A(
-            "YouTube",
-            href="https://www.youtube.com/@LearnQuran_iqra",
-            target="_blank",
-            style={
-                "color": "#c9a84c",
-                "textDecoration": "none",
-            }
+        html.P([
+            "A LearnQuran Academy Project | ",
+            html.A(
+                "YouTube",
+                href="https://www.youtube.com/@LearnQuran_iqra",
+                target="_blank",
+                style={"color": "#c9a84c", "textDecoration": "none"}
+            ),
+        ]),
+        html.P("Quran text from Tanzil.net · Translation: Sahih International"),
+        html.P([
+            html.A(
+                "Contact",
+                href="mailto:learnquran.iqra@gmail.com",
+                style={"color": "#c9a84c", "textDecoration": "none"}
+            ),
+        ]),
+        html.P(
+            "© 2019-2022 LearnQuran Academy. All Rights Reserved.",
+            style={"marginTop": "10px", "fontSize": "11px", "color": "#6b6050"}
         ),
-    ]),
-    html.P("Quran text from Tanzil.net · Translation: Sahih International"),
-    html.P([
-        html.A(
-            "Contact",
-            href="mailto:learnquran.iqra@gmail.com",
-            style={
-                "color": "#c9a84c",
-                "textDecoration": "none",
-            }
-        ),
-    ]),
-    html.P(
-        "© 2019-2022 LearnQuran Academy. All Rights Reserved.",
-        style={
-            "marginTop": "10px",
-            "fontSize": "11px",
-            "color": "#6b6050",
-        }
-    ),
-], className="footer"),
+    ], className="footer"),
 
 ], className="app-container")
 
@@ -254,7 +247,6 @@ app.layout = html.Div([
      Output("narrative-content", "style")],
     [Input("main-tabs", "value")]
 )
-
 def render_tab(tab):
     hidden = {"display": "none"}
     shown  = {"display": "block"}
